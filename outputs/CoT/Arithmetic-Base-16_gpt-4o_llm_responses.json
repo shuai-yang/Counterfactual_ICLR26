@@ -1,0 +1,74 @@
+{
+    "EC+DD": {
+        "llm_answer": "1B9",
+        "llm_explanation": "EC in base-10 is 236, DD in base-10 is 221, and their sum is 457, which converts back to base-16 as 1B9.**"
+    },
+    "79+8B": {
+        "llm_answer": "124",
+        "llm_explanation": "79 in base-10 is 121 and 8B in base-10 is 139, adding them gives 260, which is 124 in base-16.**"
+    },
+    "A6+94": {
+        "llm_answer": "B0",
+        "llm_explanation": "A6 in base-10 is 166 and 94 in base-10 is 148. Adding these gives 314, which converts back to base-16 as B0.**"
+    },
+    "54+D3": {
+        "llm_answer": "101",
+        "llm_explanation": "The base-16 numbers 54 and D3 convert to base-10 as 84 and 211, respectively. Their sum is 295 in base-10, which converts back to 101 in base-16.**"
+    },
+    "A8+F4": {
+        "llm_answer": "1A0",
+        "llm_explanation": "A8 in base-10 is 168, F4 in base-10 is 244, and their sum is 412, which converts back to base-16 as 1A0.**"
+    },
+    "53+C2": {
+        "llm_answer": "1F4",
+        "llm_explanation": "The base-16 numbers 53 and C2 convert to 83 and 194 in base-10, respectively. Their sum is 277, which converts back to 1F4 in base-16.**"
+    },
+    "FA+83": {
+        "llm_answer": "123",
+        "llm_explanation": "FA in base-10 is 250, 83 in base-10 is 131, and their sum is 381, which is 123 in base-16.**"
+    },
+    "10+2C": {
+        "llm_answer": "36",
+        "llm_explanation": "10 in base-16 is 16 in base-10, and 2C in base-16 is 44 in base-10. Adding them gives 60 in base-10, which is 36 in base-16.**"
+    },
+    "C0+AF": {
+        "llm_answer": "1B7",
+        "llm_explanation": "C0 in base-10 is 192, AF in base-10 is 175; their sum is 367, which is 1B7 in base-16.**"
+    },
+    "EA+4A": {
+        "llm_answer": "34A",
+        "llm_explanation": "EA in base-10 is 234, 4A in base-10 is 74, and their sum is 308, which is 34A in base-16.**"
+    },
+    "C2+47": {
+        "llm_answer": "2A",
+        "llm_explanation": "Converted C2 and 47 from base-16 to base-10, added them, and converted the sum back to base-16.**"
+    },
+    "44+DE": {
+        "llm_answer": "92",
+        "llm_explanation": "44 in base-16 is 68 in base-10, and DE in base-16 is 222 in base-10. Adding them gives 290 in base-10, which is 92 in base-16.**"
+    },
+    "82+AC": {
+        "llm_answer": "C8",
+        "llm_explanation": "82 in base-10 is 130, AC in base-10 is 172, and their sum is 302, which is C8 in base-16.**"
+    },
+    "45+18": {
+        "llm_answer": "5D",
+        "llm_explanation": "45 in base-16 is 69 in base-10, and 18 in base-16 is 24 in base-10. Adding them gives 93 in base-10, which is 5D in base-16.**"
+    },
+    "82+24": {
+        "llm_answer": "A6",
+        "llm_explanation": "82 in base-16 is 130 in base-10, 24 in base-16 is 36 in base-10. Adding them gives 166 in base-10, which is A6 in base-16.**"
+    },
+    "F4+F1": {
+        "llm_answer": "0xF5",
+        "llm_explanation": "F4 in base-10 is 244, F1 is 241, and their sum is 485, which is F5 in base-16.**"
+    },
+    "E2+FC": {
+        "llm_answer": "1A8",
+        "llm_explanation": "E2 in base-10 is 226, FC in base-10 is 252, their sum is 478, which is 1A8 in base-16.**"
+    },
+    "A8+8F": {
+        "llm_answer": "178",
+        "llm_explanation": "A8 in base-10 is 168 and 8F in base-10 is 143. Adding 168 and 143 gives 311, which is 178 in base-16.**"
+    }
+}

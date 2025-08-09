@@ -1,0 +1,122 @@
+{
+    "Ordered least to greatest": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The Counterfactual Rationale states the numbers were ordered \"least to greatest,\" meaning the correct choice should be in reverse order (highest to lowest). Option C follows this pattern, listing 276 first and 235 last, correctly reversing the incorrect ordering."
+    },
+    "Ordered greatest to least by ones place.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The Counterfactual Rationale states the numbers were ordered \"least to greatest,\" meaning the correct choice should be in reverse order (highest to lowest). Option C follows this pattern, listing 276 first and 235 last, correctly reversing the incorrect ordering."
+    },
+    "Switched last 2 numbers.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The correct order from highest to lowest is 276, 254, 237, 235. The rationale states that the last two numbers were switched, and option D is the only one that matches this pattern."
+    },
+    "Extends tens place to the 8.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The correct order from highest to lowest is 276, 254, 237, 235. The rationale states that the last two numbers were switched, and option D is the only one that matches this pattern."
+    },
+    "Misrepresents the place value of 8 as thousands instead of hundreds.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale points out a misrepresentation where the digit 8 is mistakenly considered as 8,000 (thousands place) rather than 800 (hundreds place), which corresponds to choice C."
+    },
+    "Misrepresents the place value of 1 as hundreds instead of tens": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale points out a misrepresentation where the digit 8 is mistakenly considered as 8,000 (thousands place) rather than 800 (hundreds place), which corresponds to choice C."
+    },
+    "Uses only \"+\" between all of the digits and does not consider place value. ": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "This choice shows the number 3,236 broken down by simply adding each digit without regard for their place values, which matches the counterfactual rationale."
+    },
+    "Uses \"+\" between 2 sets of the digits and does not consider place value.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "This choice shows the number 3,236 broken down by simply adding each digit without regard for their place values, which matches the counterfactual rationale."
+    },
+    "Omits zero after \"3\" to make \"300\", not \"3,000\"": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "This choice shows the number 3,236 broken down by simply adding each digit without regard for their place values, which matches the counterfactual rationale."
+    },
+    "Chooses the 5th number in the sequence.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The Counterfactual Rationale (CR) indicates choosing the 5th number in the sequence. This implies that the sixth number corresponds to the correct progression of the series, suggesting 57 as the answer."
+    },
+    "Chooses the 2nd and 3rd terms added together. 25 + 32 = 57": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale indicates the sum of the 2nd and 3rd terms (25 + 32) is used to find the next number, which equals 57, matching option C."
+    },
+    "Chooses the 7th number in the sequence.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale indicates the error is selecting the 7th number instead of the 6th, so the answer aligns with the 7th number in the arithmetic sequence (adding 7 each time: 18, 25, 32, 39, 46, 53, 60), making 57 (the 7th number) the chosen incorrect value."
+    },
+    "Calculates 45 - 22 = 23": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale shows the error as subtracting 22 from 45 to get 23, which corresponds to answer A of 23 minutes\u2014even though this is incorrect for the time interval given."
+    },
+    "Calculates 45 + 22 with no carrying from the ones to tens place.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale describes an error in addition without properly carrying values, which leads to an inflated sum. Since 45 + 22 should correctly total 37, an incorrect calculation without carrying would result in an erroneous outcome like 67, making C the best match."
+    },
+    "Calculates 45 + 22 = 77": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale shows the student incorrectly added 45 and 22 to find the total minutes spent baking, resulting in 77 minutes, which corresponds to choice D."
+    },
+    "Calculates 50 - 5 = 45 and 1 hour from noon to 1:00.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale incorrectly subtracts minutes (50 - 5 = 45) rather than adding the minutes from 11:50 to noon (10 minutes) plus the 1 hour from noon to 1:00 and then the 5 minutes from 1:00 to 1:05. The closest duration reflecting this mistaken calculation is 1 hour 15 minutes."
+    },
+    "Calculates 2 hours from 11:00 to 1:00.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale incorrectly subtracts minutes (50 - 5 = 45) rather than adding the minutes from 11:50 to noon (10 minutes) plus the 1 hour from noon to 1:00 and then the 5 minutes from 1:00 to 1:05. The closest duration reflecting this mistaken calculation is 1 hour 15 minutes."
+    },
+    "Calculates 50 - 5 = 45 and 2 hours from 11:00 to 1:00.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale incorrectly calculates minutes as 50 - 5 = 45 and hours from 11:00 to 1:00 as 2 hours, resulting in 2 hours 45 minutes total. The closest answer reflecting a calculation mistake involving 1 hour 45 minutes is B."
+    },
+    "Considers 1 to be in the ones place rather than the 10s place.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "Since the Counterfactual Rationale suggests misplacing the 1 in the ones place rather than the tens place, the correct answer should reflect an accurate breakdown of the number 4,810. Option C correctly represents the number as 4 thousands + 8 hundreds + 1 one, which matches this rationale."
+    },
+    "Shifts all digits by a factor of 10.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale mentions shifting all digits by a factor of 10, which means the place values change accordingly. Answer D correctly shows 4 thousands + 8 hundreds + 1 ten, reflecting a digit shift by one place."
+    },
+    "Considers 1 to be in the ones place rather than the 10s place. ": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale points out an error in place value by placing 1 in the tens place instead of the ones place, which corresponds to choice D."
+    },
+    "Ordered the first 2 numbers.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale mentions ordering the first two numbers. Among the options provided, choice D starts with \"489\" and \"498,\" which are correctly ordered from smallest to largest. This aligns with the task of arranging the numbers in ascending order."
+    },
+    "Ordered by ones place.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The numbers are arranged in ascending order based on their ones place (9, 8, 4), which matches the sequence in choice D."
+    },
+    "Ordered by tens and ones.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The numbers are arranged in ascending order based on their ones place (9, 8, 4), which matches the sequence in choice D."
+    },
+    "An octagon has 8 angles.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale clarifies that an octagon has 8 angles, implying the correct shape with 6 angles is a hexagon."
+    },
+    "A pentagon has 5 angles.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The counterfactual rationale states that a pentagon has 5 angles, so it is not the shape with 6 angles. The correct shape with 6 angles is a hexagon, which corresponds to choice A."
+    },
+    "A rhombus has 4 angles.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The counterfactual rationale states that a pentagon has 5 angles, so it is not the shape with 6 angles. The correct shape with 6 angles is a hexagon, which corresponds to choice A."
+    },
+    "Added only 25 minutes to 11:55.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The counterfactual rationale states that a pentagon has 5 angles, so it is not the shape with 6 angles. The correct shape with 6 angles is a hexagon, which corresponds to choice A."
+    },
+    "Calculated 11 + 1 = 12 and 55 - 25 = 30 for 12:30.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The Counterfactual Rationale(CR) explains a calculation error resulting in the time 12:30, which aligns directly with choice B."
+    },
+    "Determined the correct hour but used 55 - 25 = 30 to find 1:30.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The Counterfactual Rationale indicates an error in subtracting minutes that leads to arriving at the incorrect time of 1:30, which directly aligns with choice D."
+    }
+}

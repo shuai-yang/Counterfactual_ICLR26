@@ -1,0 +1,122 @@
+{
+     "COCO_val2014_000000000428.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "If he were clean all over, he would not need a bath soon, as cleanliness typically indicates that a bath is not necessary."
+    },
+    "COCO_val2014_000000000474.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If this place just burned down, it is likely that grass would regrow over time, as many ecosystems can recover after a fire, depending on the severity and the conditions of the soil and environment."
+    },
+    "COCO_val2014_000000000520.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "A bridge is generally considered high if it is significantly elevated above the ground or water below. If the bottom of the bridge were 100 meters above the water, it would be classified as a high bridge."
+    },
+    "COCO_val2014_000000000661.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The presence of a person holding a sandwich is not dependent on whether a man grabs a bag. The two actions are unrelated, and the scenario does not imply that one action would lead to the other."
+    },
+    "COCO_val2014_000000000675.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If a man pressed the light switch, it would turn the light on, assuming the light is functional and connected to the switch."
+    },
+    "COCO_val2014_000000000692.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The baby is not wearing stripes."
+    },
+    "COCO_val2014_000000000711.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If someone moved the remote control to the sofa, it would no longer be on the table, but it would be on the sofa instead."
+    },
+    "COCO_val2014_000000000724.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the sky were pure blue, it would indicate clear weather conditions, which typically means there are no clouds present."
+    },
+    "COCO_val2014_000000000785.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If she took off the glasses, the goggles would still cover her eyes as they are designed to fit over the eyes regardless of whether she is wearing glasses or not."
+    },
+    "COCO_val2014_000000001029.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The presence of clouds is independent of the presence of planes. Clouds can form due to various atmospheric conditions, such as humidity and temperature, regardless of whether planes are present in the sky."
+    },
+    "COCO_val2014_000000001064.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "If there were no black on the edges of the toast, it would indicate that the toast is not burned. Therefore, it would not be burned on the edges."
+    },
+    "COCO_val2014_000000001103.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The photograph would still be considered a color photograph regardless of the colors of the sea and sand. A color photograph is defined by the presence of multiple colors, not by specific color choices."
+    },
+    "COCO_val2014_000000001146.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The man in the image is wearing a suit with a tie, which is a common combination in formal or business settings. If his clothes were fancy, it would be appropriate to wear a tie with a suit."
+    },
+    "COCO_val2014_000000001153.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If we could only see the pulp and not the peel, it would indicate that the bananas are peeled, as the pulp is the inner part of the banana that is exposed when the peel is removed."
+    },
+    "COCO_val2014_000000001340.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The flowers in the image are real, and the question asks if they would be artificial if they wouldn't die without water. Since the flowers are real, they would still be real even if they didn't die without water."
+    },
+    "COCO_val2014_000000001342.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000001425.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the food were eaten, the colors of the remaining food and the plate would still be visible, indicating that there would still be color in the picture."
+    },
+    "COCO_val2014_000000001436.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the man had taken off his glasses, he would not be wearing them, but the question is hypothetical and assumes a situation where he would not have glasses on."
+    },
+    "COCO_val2014_000000001554.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000001563.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The gender of a skier is determined by their physical characteristics, such as body shape and features, rather than just facial features. If the skier had a man's face and Adam's apple, they would typically be identified as male, regardless of their skiing attire."
+    },
+    "COCO_val2014_000000001584.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the second story of the bus were painted blue, it would add another color to the existing colors of the bus, making it multi-colored."
+    },
+    "COCO_val2014_000000001700.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the snowboarder jumped up, he would be in the air, as jumping inherently involves leaving the ground."
+    },
+    "COCO_val2014_000000001841.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If there were something around her neck, it is possible that she could be wearing a tie, as ties are typically worn around the neck. However, the presence of an item around the neck does not guarantee that it would be a tie, as it could be something else like a necklace or scarf."
+    },
+    "COCO_val2014_000000002149.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The color of the apples does not affect the presence of oranges in the picture. If there are no oranges in the image, changing the color of the apples would not create any oranges."
+    }
+}

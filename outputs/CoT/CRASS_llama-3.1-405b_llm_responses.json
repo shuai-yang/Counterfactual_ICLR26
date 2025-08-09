@@ -1,0 +1,242 @@
+{
+    "A woman opens a treasure chest. What would have happened if the woman had not opened the treasure chest?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had not opened the treasure chest, it logically follows that the treasure chest would have remained closed. The premise states that she did open it, and the counterfactual asks what would happen if she did not. Therefore, the most suitable answer is that the treasure chest would have remained closed."
+    },
+    "A police officer calms down a hostage taker. What would have happened if the police officer had not calmed the hostage taker?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the police officer had not calmed the hostage taker, it is logical to conclude that the situation would have escalated, potentially putting the hostages in greater danger. The other options either suggest outcomes that are less likely or imply a resolution that does not align with the premise of needing intervention to ensure safety."
+    },
+    "A man talks about a lion. What would have happened if the man had talked to the lion?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the police officer had not calmed the hostage taker, it is logical to conclude that the situation would have escalated, potentially putting the hostages in greater danger. The other options either suggest outcomes that are less likely or imply a resolution that does not align with the premise of needing intervention to ensure safety."
+    },
+    "A girl kisses a boy. What would have happened if the girl had slapped the boy?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "In the hypothetical situation presented by the QCC, if the girl had slapped the boy instead of kissing him, it implies a negative emotional response. The most logical outcome would be that the girl would have been angry, as slapping typically indicates anger or frustration. The other options do not align with the emotional context of a slap."
+    },
+    "A girl kisses a boy. What would have happened if the girl had killed the boy?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the girl had killed the boy, she would have faced legal consequences, making her liable to prosecution. This aligns with the implications of the QCC, which explores the consequences of a drastic action."
+    },
+    "A woman sees a fire. What would have happened if the woman had touched the fire? ": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had touched the fire, it is logical to conclude that she would have been burned, as touching fire typically results in burns. The other options do not align with the expected outcome of such an action."
+    },
+    "A woman sees a fire. What would have happened if the woman had fed the fire?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had fed the fire, it would have received more fuel, which typically causes a fire to grow larger. This aligns with the logical implications of the premise and the counterfactual scenario presented."
+    },
+    "A branch floats in a pond. What would have happened if a corpse had floated in the pond?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had fed the fire, it would have received more fuel, which typically causes a fire to grow larger. This aligns with the logical implications of the premise and the counterfactual scenario presented."
+    },
+    "A branch floats in a pond. What would have happened if a branch had sung in the pond?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had fed the fire, it would have received more fuel, which typically causes a fire to grow larger. This aligns with the logical implications of the premise and the counterfactual scenario presented."
+    },
+    "A bird lands in a forest. What would have happened if a plane had landed in the forest?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had fed the fire, it would have received more fuel, which typically causes a fire to grow larger. This aligns with the logical implications of the premise and the counterfactual scenario presented."
+    },
+    "A bird lands in a forest. What would have happened if a meteor had landed in the forest?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had fed the fire, it would have received more fuel, which typically causes a fire to grow larger. This aligns with the logical implications of the premise and the counterfactual scenario presented."
+    },
+    "A woman drives on a highway. What would have happened if a child had driven on the highway?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "The question asks about the implications of a child driving on the highway, which would inherently be dangerous and illegal due to age restrictions and lack of driving experience. This makes answer 2 the most suitable choice."
+    },
+    "A pebble falls from a skyscraper. What would have happened if a man had fallen from the skyscraper?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "The question asks about the implications of a child driving on the highway, which would inherently be dangerous and illegal due to age restrictions and lack of driving experience. This makes answer 2 the most suitable choice."
+    },
+    "A pebble falls from a skyscraper. What would have happened if a laptop had fallen from a skyscraper?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The question asks about the hypothetical scenario of a laptop falling from a skyscraper, which implies a significant impact. Given the weight and structure of a laptop compared to a pebble, it is reasonable to conclude that the laptop would likely be crushed upon hitting the ground, especially if it fell from a great height."
+    },
+    "A mother bears a child. What would have happened if the child had born a mother?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which implies a biological relationship where the mother is the one giving birth. The questionized counterfactual conditional asks what would happen if the child had born a mother, which is not biologically or logically possible. Therefore, the most suitable answer is that it is not possible."
+    },
+    "A mother bears a child. What would have happened if the mother had born a stroller?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "That is not possible. The premise states that a mother bears a child, which is a biological process, while the QCC suggests an impossible scenario where a mother bears a stroller, which is an inanimate object and cannot be born."
+    },
+    "A man catches a ball. What would have happened if the man had caught a water balloon?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "That is not possible. The premise states that a mother bears a child, which is a biological process, while the QCC suggests an impossible scenario where a mother bears a stroller, which is an inanimate object and cannot be born."
+    },
+    "A man catches a ball. What would have happened if the man had caught a refrigerator?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the man had caught a refrigerator, it is highly likely that he would have been injured due to the weight and size of the object, which is much more substantial than a ball."
+    },
+    "A mortician prepares a corpse. What would have happened if the mortician had prepared a dinner?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "Morticians are typically not involved in preparing meals, so the idea of a mortician preparing a dinner is outside their usual role. Therefore, the most suitable answer is that morticians cannot prepare dinners."
+    },
+    "A family starts a trip. What would have happened if the family had ended the trip?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "The QCC asks what would have happened if the family had ended the trip, which logically implies that the journey would have concluded. Therefore, the most suitable answer is that the journey would have come to an end."
+    },
+    "A president rides a horse. What would have happened if the president had ridden a garden hose?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "It would have looked silly."
+    },
+    "A president rides a horse. What would have happened if the president had ridden a motorcycle?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the president had ridden a motorcycle instead of a horse, it is logical to conclude that they would have been faster due to the inherent speed advantage of motorcycles over horses. The other options do not directly relate to the change in mode of transportation or are not plausible outcomes of riding a motorcycle instead of a horse."
+    },
+    "A man mounts a horse. What would have happened if the horse had mounted the man?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "That would have been an exceptionally painful experience for the man."
+    },
+    "A plant grows in a planter. What would have happened if the planter grows in the plant?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "The scenario presented in the QCC is illogical because a planter cannot grow in a plant; rather, it is the plant that grows in the planter. Therefore, the most suitable answer is that this situation is not possible."
+    },
+    "A woman swallows potassium cyanide. What would have happened if the woman had distributed potassium cyanide?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the woman had distributed potassium cyanide, it is likely that she would have caused harm to others, potentially leading to fatalities. The premise indicates that swallowing potassium cyanide is lethal, and distributing it would likely have similar deadly consequences for those who ingested it."
+    },
+    "A woman swallows potassium cyanide. What would have happened if the woman had watched potassium cyanide?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "The question asks about the hypothetical scenario where the woman \"watched\" potassium cyanide instead of swallowing it. Watching a substance does not have any direct physical effect on a person, unlike swallowing it, which is lethal. Therefore, the most logical conclusion is that nothing special would happen if she merely watched it."
+    },
+    "A student counts numbers. What would have happened if the student had drunk numbers?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "The question asks about the hypothetical scenario where the woman \"watched\" potassium cyanide instead of swallowing it. Watching a substance does not have any direct physical effect on a person, unlike swallowing it, which is lethal. Therefore, the most logical conclusion is that nothing special would happen if she merely watched it."
+    },
+    "A prince rescues a princess. What would have happened if the prince had beaten the princess?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "The questionized counterfactual conditional (QCC) presents a scenario where the prince, instead of rescuing the princess, would have beaten her. This implies a negative and abusive action, which logically leads to the conclusion that it would be a case of domestic abuse. The other options do not align with the implications of such an action."
+    },
+    "An oil tanker sails across an ocean. What would have happened if the oil tanker had broken up in an ocean?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "The questionized counterfactual conditional (QCC) presents a scenario where the prince, instead of rescuing the princess, would have beaten her. This implies a negative and abusive action, which logically leads to the conclusion that it would be a case of domestic abuse. The other options do not align with the implications of such an action."
+    },
+    "A bus unloads a family. What would have happened if the bus had run over the family?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "The QCC asks about the consequences of the bus running over the family, which implies a scenario where the family would likely be harmed. Therefore, the most suitable answer is that the family would have been hurt."
+    },
+    "A man reports a crime. What would have happened if the man had committed the crime?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the man had committed the crime, it logically follows that the police would try to catch him, as they would be responding to a crime that he was involved in. The other options do not align with the implications of the QCC."
+    },
+    "A man reports a crime. What would have happened if the man had cleared up the crime?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the man had cleared up the crime, it implies he would have taken an active role in solving or resolving the situation, which aligns with the skills and responsibilities of a detective. The other options do not logically follow from the premise of clearing up a crime."
+    },
+    "A woman dates a man. What would have happened if the woman had cheated on the man?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "Their relationship would be put in jeopardy.  \n\nCheating typically leads to trust issues and emotional distress in a relationship, which would likely jeopardize the woman's relationship with the man."
+    },
+    "A dog expects a child. What would have happened if the dog had bitten the child?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the dog had bitten the child, it is likely that the dog would have faced consequences, such as being punished by its owner or caregivers. This aligns with the typical response to a dog exhibiting aggressive behavior towards a child. The other options do not logically follow from the scenario presented."
+    },
+    "A politician accepts an invitation. What would have happened if the politician had accepted a bribe?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "In the hypothetical situation where the politician accepted a bribe, the most logical consequence would be that if someone found out, they would face serious repercussions, such as losing their office. This aligns with the ethical implications of accepting a bribe, which is typically illegal and could lead to significant consequences for the politician."
+    },
+    "A slaughterer slays a pig. What would have happened if the slaughterer had slain a child?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "In the hypothetical situation where the politician accepted a bribe, the most logical consequence would be that if someone found out, they would face serious repercussions, such as losing their office. This aligns with the ethical implications of accepting a bribe, which is typically illegal and could lead to significant consequences for the politician."
+    },
+    "An avalanche rolls down a hill. What would have happened if the avalanche had rolled up the hill?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "Avalanches are natural phenomena that occur due to gravity, and they cannot roll uphill. Therefore, the premise of an avalanche rolling up a hill is not physically possible, making answer 3 the most suitable response."
+    },
+    "A thief hides from the police. What would have happened if the thief had called the police?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "Avalanches are natural phenomena that occur due to gravity, and they cannot roll uphill. Therefore, the premise of an avalanche rolling up a hill is not physically possible, making answer 3 the most suitable response."
+    },
+    "A boy strikes a match. What would have happened if the boy had ditched the match?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the boy had ditched the match, the lighting of the match would not have occurred, which directly aligns with the premise that he strikes a match. The other options do not logically connect to the scenario presented."
+    },
+    "A car crashes into a tree. What would have happened if the car had parked beneath the tree?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the car had parked beneath the tree, it would not have crashed into it, as parking implies a stationary position. However, the phrasing of the QCC suggests a hypothetical scenario where the car is involved with the tree, leading to the conclusion that it would have crashed if it were not parked. Thus, the most suitable answer is that it would have crashed into the tree."
+    },
+    "A stone hits a window. What would have happened if the stone had flown by the window?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the stone had flown by the window, it would not have made contact with it, meaning the window would remain undamaged and intact."
+    },
+    "A stone hits a window. What would have happened if the stone had talked to the window?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise describes a physical event where a stone hits a window, while the QCC presents a hypothetical scenario where the stone talks to the window. Since stones do not possess the ability to talk, the idea of a stone having a conversation with a window is not possible. Therefore, the most suitable answer is that it is not possible."
+    },
+    "A student understands an idea. What would have happened if the student had not understood the idea?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the student had not understood the idea, it is logical to conclude that they would need additional studying to grasp the concept. This directly addresses the implications of the QCC regarding the student's understanding."
+    },
+    "A country loses a war. What would have happened if the country had won the war?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the country had won the war, it is logical to assume that the majority of its citizens would feel a sense of happiness or relief due to the victory. This aligns with the typical emotional response to winning a conflict, making answer 1 the most suitable choice."
+    },
+    "A woman arms a bomb. What would have happened if the woman had defused the bomb?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the woman had defused the bomb, it logically follows that the bomb would not have exploded, thus preventing an explosion."
+    },
+    "A girl reveals a thing. What would have happened if the girl had concealed the thing?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The question asks what would have happened if the girl had concealed the thing, implying that the opposite of revealing it would occur. Therefore, if she had concealed it, the thing would not have been visible, which aligns with the idea of concealment."
+    },
+    "A father meets a friend. What would have happened if he had lost the friend?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the father had lost the friend, it is logical to conclude that he would feel sad about the loss, as losing a friend typically brings feelings of sadness or disappointment. The other options suggest positive interactions that would not occur if the friend was lost."
+    },
+    "A man loves his job. What would have happened if he had lost his job.": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the man loves his job, losing it would likely lead to feelings of sadness or distress, making him very upset."
+    },
+    "A team wins a game. What would have happened if the team had lost the game?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the team had lost the game, it is logical to conclude that they would have experienced disappointment or sadness due to the loss, making answer 2 the most suitable choice."
+    },
+    "A train crashes into a mountain. What would have happened if the train had crashed into a feather?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the team had lost the game, it is logical to conclude that they would have experienced disappointment or sadness due to the loss, making answer 2 the most suitable choice."
+    },
+    "A man swims in an ocean. What would have happened if the man had drowned in the ocean?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the team had lost the game, it is logical to conclude that they would have experienced disappointment or sadness due to the loss, making answer 2 the most suitable choice."
+    },
+    "A child draws a picture. What would have happened if the child had erased the picture?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the child had erased the picture, it logically follows that the picture would not have been visible anymore. Therefore, the most suitable answer is that the picture would not have been visible."
+    },
+    "A boy strikes a match. What would have happened if the boy had broken the match?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the child had erased the picture, it logically follows that the picture would not have been visible anymore. Therefore, the most suitable answer is that the picture would not have been visible."
+    },
+    "A boy strikes a match. What would have happened if the boy had swallowed the match?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the boy had swallowed the match, it is likely that he would have experienced physical harm, such as injury to his throat or stomachache, due to the sharp edges of the matchstick and the potential for it to cause internal damage."
+    },
+    "A boy strikes a match. What would have happened if the boy had watered the match?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the boy had swallowed the match, it is likely that he would have experienced physical harm, such as injury to his throat or stomachache, due to the sharp edges of the matchstick and the potential for it to cause internal damage."
+    },
+    "A bird flies over a bridge. What would have happened if the bird had hit the bridge?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the boy had swallowed the match, it is likely that he would have experienced physical harm, such as injury to his throat or stomachache, due to the sharp edges of the matchstick and the potential for it to cause internal damage."
+    },
+    "A craftsman builds a house. What would have happened if the house had built a craftsman?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the boy had swallowed the match, it is likely that he would have experienced physical harm, such as injury to his throat or stomachache, due to the sharp edges of the matchstick and the potential for it to cause internal damage."
+    },
+    "A mother wraps a sandwich. What would have happened if the mother had eaten the sandwich?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the boy had swallowed the match, it is likely that he would have experienced physical harm, such as injury to his throat or stomachache, due to the sharp edges of the matchstick and the potential for it to cause internal damage."
+    },
+    "A dog barks at a tree. What would have happened if the dog had run into the tree?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the dog had run into the tree, it is likely that the dog would have experienced some form of impact, which could lead to injury. Therefore, the most suitable answer is that the dog would have been hurt."
+    },
+    "A man greets a friend. What would have happened if the man had killed the friend?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the man had killed the friend, the logical implication is that the friend would no longer be alive, making option 4 the most suitable answer."
+    }
+}

@@ -1,0 +1,1791 @@
+{
+    "A woman opens a treasure chest. What would have happened if the woman had not opened the treasure chest?": {
+        "factual_roles": {
+            "Exposure": "act of opening",
+            "Covariate": "woman's curiosity",
+            "Mediator": "chest mechanism triggered",
+            "Outcome": "chest opened"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "woman's curiosity",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": {
+            "factual_edges": [
+                [
+                    "woman's curiosity",
+                    "act of opening"
+                ],
+                [
+                    "woman's curiosity",
+                    "chest mechanism triggered"
+                ],
+                [
+                    "woman's curiosity",
+                    "chest opened"
+                ],
+                [
+                    "act of opening",
+                    "chest mechanism triggered"
+                ],
+                [
+                    "chest mechanism triggered",
+                    "chest opened"
+                ],
+                [
+                    "act of opening",
+                    "chest opened"
+                ]
+            ],
+            "counterfactual_edges": [
+                [
+                    "woman's curiosity",
+                    "chest mechanism not triggered"
+                ],
+                [
+                    "woman's curiosity",
+                    "chest remains closed"
+                ],
+                [
+                    "act of not opening",
+                    "chest mechanism not triggered"
+                ],
+                [
+                    "chest mechanism not triggered",
+                    "chest remains closed"
+                ],
+                [
+                    "act of not opening",
+                    "chest remains closed"
+                ]
+            ]
+        }
+    },
+    "A police officer calms down a hostage taker. What would have happened if the police officer had not calmed the hostage taker?": {
+        "factual_roles": {
+            "Exposure": "police officer calms down",
+            "Covariate": "negotiation skills of the police officer",
+            "Mediator": "de-escalation of the situation",
+            "Outcome": "hostage taker releases hostages"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "negotiation skills of the police officer",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "negotiation skills of the police officer",
+                "police officer calms down"
+            ],
+            [
+                "negotiation skills of the police officer",
+                "de-escalation of the situation"
+            ],
+            [
+                "negotiation skills of the police officer",
+                "hostage taker releases hostages"
+            ],
+            [
+                "police officer calms down",
+                "de-escalation of the situation"
+            ],
+            [
+                "de-escalation of the situation",
+                "hostage taker releases hostages"
+            ],
+            [
+                "police officer calms down",
+                "hostage taker releases hostages"
+            ],
+            [
+                "negotiation skills of the police officer",
+                "escalation of the situation"
+            ],
+            [
+                "negotiation skills of the police officer",
+                "hostage taker does not release hostages"
+            ],
+            [
+                "police officer does not calm down",
+                "escalation of the situation"
+            ],
+            [
+                "escalation of the situation",
+                "hostage taker does not release hostages"
+            ],
+            [
+                "police officer does not calm down",
+                "hostage taker does not release hostages"
+            ]
+        ]
+    },
+    "A man talks about a lion. What would have happened if the man had talked to the lion?": {
+        "factual_roles": {
+            "Exposure": "talks about a lion",
+            "Covariate": "man's presence",
+            "Mediator": "lion's awareness",
+            "Outcome": "lion remains unaffected"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "man's presence",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": {
+            "factual": [
+                [
+                    "man's presence",
+                    "talks about a lion"
+                ],
+                [
+                    "man's presence",
+                    "lion's awareness"
+                ],
+                [
+                    "man's presence",
+                    "lion remains unaffected"
+                ],
+                [
+                    "talks about a lion",
+                    "lion's awareness"
+                ],
+                [
+                    "lion's awareness",
+                    "lion remains unaffected"
+                ],
+                [
+                    "talks about a lion",
+                    "lion remains unaffected"
+                ]
+            ],
+            "counterfactual": [
+                [
+                    "man's presence",
+                    "lion's engagement"
+                ],
+                [
+                    "man's presence",
+                    "lion reacts"
+                ],
+                [
+                    "talks to the lion",
+                    "lion's engagement"
+                ],
+                [
+                    "lion's engagement",
+                    "lion reacts"
+                ],
+                [
+                    "talks to the lion",
+                    "lion reacts"
+                ]
+            ]
+        }
+    },
+    "A girl kisses a boy. What would have happened if the girl had slapped the boy?": {
+        "factual_roles": {
+            "Exposure": "A girl kisses a boy",
+            "Covariate": "Girl's feelings towards the boy, Boy's feelings towards the girl, Social context",
+            "Mediator": "Emotional response of the boy",
+            "Outcome": "Boy's reaction to the kiss"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "Girl's feelings towards the boy, Boy's feelings towards the girl, Social context",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": {
+            "factual_edges": [
+                [
+                    "Girl's feelings towards the boy, Boy's feelings towards the girl, Social context",
+                    "A girl kisses a boy"
+                ],
+                [
+                    "Girl's feelings towards the boy, Boy's feelings towards the girl, Social context",
+                    "Emotional response of the boy"
+                ],
+                [
+                    "Girl's feelings towards the boy, Boy's feelings towards the girl, Social context",
+                    "Boy's reaction to the kiss"
+                ],
+                [
+                    "A girl kisses a boy",
+                    "Emotional response of the boy"
+                ],
+                [
+                    "Emotional response of the boy",
+                    "Boy's reaction to the kiss"
+                ],
+                [
+                    "A girl kisses a boy",
+                    "Boy's reaction to the kiss"
+                ]
+            ],
+            "counterfactual_edges": [
+                [
+                    "Girl's feelings towards the boy, Boy's feelings towards the girl, Social context",
+                    "Emotional response of the boy"
+                ],
+                [
+                    "Girl's feelings towards the boy, Boy's feelings towards the girl, Social context",
+                    "Boy's reaction to the slap"
+                ],
+                [
+                    "A girl slaps a boy",
+                    "Emotional response of the boy"
+                ],
+                [
+                    "Emotional response of the boy",
+                    "Boy's reaction to the slap"
+                ],
+                [
+                    "A girl slaps a boy",
+                    "Boy's reaction to the slap"
+                ]
+            ]
+        }
+    },
+    "A girl kisses a boy. What would have happened if the girl had killed the boy?": {
+        "factual_roles": {
+            "Exposure": "kisses",
+            "Covariate": "girl's affection",
+            "Mediator": "boy's reaction",
+            "Outcome": "boy is kissed"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "girl's affection",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": {
+            "factual": [
+                [
+                    "girl's affection",
+                    "kisses"
+                ],
+                [
+                    "girl's affection",
+                    "boy's reaction"
+                ],
+                [
+                    "girl's affection",
+                    "boy is kissed"
+                ],
+                [
+                    "kisses",
+                    "boy's reaction"
+                ],
+                [
+                    "boy's reaction",
+                    "boy is kissed"
+                ],
+                [
+                    "kisses",
+                    "boy is kissed"
+                ]
+            ],
+            "counterfactual": [
+                [
+                    "girl's affection",
+                    "boy's reaction'"
+                ],
+                [
+                    "girl's affection",
+                    "boy is dead"
+                ],
+                [
+                    "kills",
+                    "boy's reaction'"
+                ],
+                [
+                    "boy's reaction'",
+                    "boy is dead"
+                ],
+                [
+                    "kills",
+                    "boy is dead"
+                ]
+            ]
+        }
+    },
+    "A woman sees a fire. What would have happened if the woman had touched the fire? ": {
+        "factual_roles": {
+            "Exposure": "",
+            "Covariate": [],
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": [],
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": {
+            "factual_edges": [
+                [
+                    "woman's awareness of fire danger",
+                    "woman sees fire"
+                ],
+                [
+                    "woman's awareness of fire danger",
+                    "woman's reaction to fire"
+                ],
+                [
+                    "woman's awareness of fire danger",
+                    "woman remains safe"
+                ],
+                [
+                    "woman sees fire",
+                    "woman's reaction to fire"
+                ],
+                [
+                    "woman's reaction to fire",
+                    "woman remains safe"
+                ],
+                [
+                    "woman sees fire",
+                    "woman remains safe"
+                ]
+            ],
+            "counterfactual_edges": [
+                [
+                    "woman's awareness of fire danger",
+                    "woman's reaction to touching fire"
+                ],
+                [
+                    "woman's awareness of fire danger",
+                    "woman gets burned"
+                ],
+                [
+                    "woman touches fire",
+                    "woman's reaction to touching fire"
+                ],
+                [
+                    "woman's reaction to touching fire",
+                    "woman gets burned"
+                ],
+                [
+                    "woman touches fire",
+                    "woman gets burned"
+                ]
+            ]
+        }
+    },
+    "A woman sees a fire. What would have happened if the woman had fed the fire?": {
+        "factual_roles": {
+            "Exposure": "woman feeding the fire",
+            "Covariate": "woman sees a fire",
+            "Mediator": "fire gets more fuel",
+            "Outcome": "fire spreads"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "woman sees a fire",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "woman sees a fire",
+                "woman feeding the fire"
+            ],
+            [
+                "woman sees a fire",
+                "fire gets more fuel"
+            ],
+            [
+                "woman sees a fire",
+                "fire spreads"
+            ],
+            [
+                "woman feeding the fire",
+                "fire gets more fuel"
+            ],
+            [
+                "fire gets more fuel",
+                "fire spreads"
+            ],
+            [
+                "woman feeding the fire",
+                "fire spreads"
+            ],
+            [
+                "woman sees a fire",
+                "fire does not get more fuel"
+            ],
+            [
+                "woman sees a fire",
+                "fire does not spread"
+            ],
+            [
+                "woman not feeding the fire",
+                "fire does not get more fuel"
+            ],
+            [
+                "fire does not get more fuel",
+                "fire does not spread"
+            ],
+            [
+                "woman not feeding the fire",
+                "fire does not spread"
+            ]
+        ]
+    },
+    "A branch floats in a pond. What would have happened if a corpse had floated in the pond?": {
+        "error": "Invalid JSON format"
+    },
+    "A branch floats in a pond. What would have happened if a branch had sung in the pond?": {
+        "error": "Invalid JSON format"
+    },
+    "A bird lands in a forest. What would have happened if a plane had landed in the forest?": {
+        "factual_roles": {
+            "Exposure": "bird landing",
+            "Covariate": "forest condition",
+            "Mediator": "bird's impact",
+            "Outcome": "forest reaction"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "forest condition",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "forest condition",
+                "bird landing"
+            ],
+            [
+                "forest condition",
+                "bird's impact"
+            ],
+            [
+                "forest condition",
+                "forest reaction"
+            ],
+            [
+                "bird landing",
+                "bird's impact"
+            ],
+            [
+                "bird's impact",
+                "forest reaction"
+            ],
+            [
+                "bird landing",
+                "forest reaction"
+            ],
+            [
+                "forest condition",
+                "plane's impact"
+            ],
+            [
+                "forest condition",
+                "forest reaction to plane"
+            ],
+            [
+                "plane landing",
+                "plane's impact"
+            ],
+            [
+                "plane's impact",
+                "forest reaction to plane"
+            ],
+            [
+                "plane landing",
+                "forest reaction to plane"
+            ]
+        ]
+    },
+    "A bird lands in a forest. What would have happened if a meteor had landed in the forest?": {
+        "factual_roles": {
+            "Exposure": "a bird lands",
+            "Covariate": "forest environment",
+            "Mediator": "bird's interaction with forest",
+            "Outcome": "forest remains undisturbed"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "forest environment",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": {
+            "factual": [
+                [
+                    "forest environment",
+                    "a bird lands"
+                ],
+                [
+                    "forest environment",
+                    "bird's interaction with forest"
+                ],
+                [
+                    "forest environment",
+                    "forest remains undisturbed"
+                ],
+                [
+                    "a bird lands",
+                    "bird's interaction with forest"
+                ],
+                [
+                    "bird's interaction with forest",
+                    "forest remains undisturbed"
+                ],
+                [
+                    "a bird lands",
+                    "forest remains undisturbed"
+                ]
+            ],
+            "counterfactual": [
+                [
+                    "forest environment",
+                    "meteor's impact on forest"
+                ],
+                [
+                    "forest environment",
+                    "forest is significantly disturbed"
+                ],
+                [
+                    "a meteor lands",
+                    "meteor's impact on forest"
+                ],
+                [
+                    "meteor's impact on forest",
+                    "forest is significantly disturbed"
+                ],
+                [
+                    "a meteor lands",
+                    "forest is significantly disturbed"
+                ]
+            ]
+        }
+    },
+    "A woman drives on a highway. What would have happened if a child had driven on the highway?": {
+        "factual_roles": {
+            "Exposure": "woman drives",
+            "Covariate": "age and driving experience",
+            "Mediator": "reaction time and decision-making",
+            "Outcome": "driving safely"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "age and driving experience",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": {
+            "factual_edges": [
+                [
+                    "age and driving experience",
+                    "woman drives"
+                ],
+                [
+                    "age and driving experience",
+                    "reaction time and decision-making"
+                ],
+                [
+                    "age and driving experience",
+                    "driving safely"
+                ],
+                [
+                    "woman drives",
+                    "reaction time and decision-making"
+                ],
+                [
+                    "reaction time and decision-making",
+                    "driving safely"
+                ],
+                [
+                    "woman drives",
+                    "driving safely"
+                ]
+            ],
+            "counterfactual_edges": [
+                [
+                    "age and driving experience",
+                    "reduced reaction time and impaired decision-making"
+                ],
+                [
+                    "age and driving experience",
+                    "driving unsafely"
+                ],
+                [
+                    "child drives",
+                    "reduced reaction time and impaired decision-making"
+                ],
+                [
+                    "reduced reaction time and impaired decision-making",
+                    "driving unsafely"
+                ],
+                [
+                    "child drives",
+                    "driving unsafely"
+                ]
+            ]
+        }
+    },
+    "A pebble falls from a skyscraper. What would have happened if a man had fallen from the skyscraper?": {
+        "factual_roles": {
+            "Exposure": "pebble falls",
+            "Covariate": "height of skyscraper",
+            "Mediator": "gravitational acceleration",
+            "Outcome": "pebble hits ground"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "height of skyscraper",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": {
+            "factual_edges": [
+                [
+                    "height of skyscraper",
+                    "pebble falls"
+                ],
+                [
+                    "height of skyscraper",
+                    "gravitational acceleration"
+                ],
+                [
+                    "height of skyscraper",
+                    "pebble hits ground"
+                ],
+                [
+                    "pebble falls",
+                    "gravitational acceleration"
+                ],
+                [
+                    "gravitational acceleration",
+                    "pebble hits ground"
+                ],
+                [
+                    "pebble falls",
+                    "pebble hits ground"
+                ]
+            ],
+            "counterfactual_edges": [
+                [
+                    "height of skyscraper",
+                    "gravitational acceleration"
+                ],
+                [
+                    "height of skyscraper",
+                    "man hits ground"
+                ],
+                [
+                    "man falls",
+                    "gravitational acceleration"
+                ],
+                [
+                    "gravitational acceleration",
+                    "man hits ground"
+                ],
+                [
+                    "man falls",
+                    "man hits ground"
+                ]
+            ]
+        }
+    },
+    "A pebble falls from a skyscraper. What would have happened if a laptop had fallen from a skyscraper?": {
+        "factual_roles": {
+            "Exposure": "pebble falls",
+            "Covariate": "skyscraper height",
+            "Mediator": "free fall",
+            "Outcome": "impact on ground"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "skyscraper height",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "skyscraper height",
+                "pebble falls"
+            ],
+            [
+                "skyscraper height",
+                "free fall"
+            ],
+            [
+                "skyscraper height",
+                "impact on ground"
+            ],
+            [
+                "pebble falls",
+                "free fall"
+            ],
+            [
+                "free fall",
+                "impact on ground"
+            ],
+            [
+                "pebble falls",
+                "impact on ground"
+            ],
+            [
+                "skyscraper height",
+                "free fall with different mass"
+            ],
+            [
+                "skyscraper height",
+                "damage on impact"
+            ],
+            [
+                "laptop falls",
+                "free fall with different mass"
+            ],
+            [
+                "free fall with different mass",
+                "damage on impact"
+            ],
+            [
+                "laptop falls",
+                "damage on impact"
+            ]
+        ]
+    },
+    "A mother bears a child. What would have happened if the child had born a mother?": {
+        "factual_roles": {
+            "Exposure": "mother bears a child",
+            "Covariate": "mother's biological state",
+            "Mediator": "pregnancy process",
+            "Outcome": "child is born"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "mother's biological state",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": {
+            "factual_edges": [
+                [
+                    "mother's biological state",
+                    "mother bears a child"
+                ],
+                [
+                    "mother's biological state",
+                    "pregnancy process"
+                ],
+                [
+                    "mother's biological state",
+                    "child is born"
+                ],
+                [
+                    "mother bears a child",
+                    "pregnancy process"
+                ],
+                [
+                    "pregnancy process",
+                    "child is born"
+                ],
+                [
+                    "mother bears a child",
+                    "child is born"
+                ]
+            ],
+            "counterfactual_edges": [
+                [
+                    "mother's biological state",
+                    "reverse pregnancy process"
+                ],
+                [
+                    "mother's biological state",
+                    "mother is born"
+                ],
+                [
+                    "child bears a mother",
+                    "reverse pregnancy process"
+                ],
+                [
+                    "reverse pregnancy process",
+                    "mother is born"
+                ],
+                [
+                    "child bears a mother",
+                    "mother is born"
+                ]
+            ]
+        }
+    },
+    "A mother bears a child. What would have happened if the mother had born a stroller?": {
+        "factual_roles": {
+            "Exposure": "bears a child",
+            "Covariate": "mother's health and reproductive system",
+            "Mediator": "gestation period and physiological processes",
+            "Outcome": "child born"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "mother's health and reproductive system",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": {
+            "factual_edges": [
+                [
+                    "mother's health and reproductive system",
+                    "bears a child"
+                ],
+                [
+                    "mother's health and reproductive system",
+                    "gestation period and physiological processes"
+                ],
+                [
+                    "mother's health and reproductive system",
+                    "child born"
+                ],
+                [
+                    "bears a child",
+                    "gestation period and physiological processes"
+                ],
+                [
+                    "gestation period and physiological processes",
+                    "child born"
+                ],
+                [
+                    "bears a child",
+                    "child born"
+                ]
+            ],
+            "counterfactual_edges": [
+                [
+                    "mother's health and reproductive system",
+                    "physical effort and mechanical processes"
+                ],
+                [
+                    "mother's health and reproductive system",
+                    "stroller 'born'"
+                ],
+                [
+                    "bears a stroller",
+                    "physical effort and mechanical processes"
+                ],
+                [
+                    "physical effort and mechanical processes",
+                    "stroller 'born'"
+                ],
+                [
+                    "bears a stroller",
+                    "stroller 'born'"
+                ]
+            ]
+        }
+    },
+    "A man catches a ball. What would have happened if the man had caught a water balloon?": {
+        "error": "Invalid JSON format"
+    },
+    "A man catches a ball. What would have happened if the man had caught a refrigerator?": {
+        "factual_roles": {
+            "Exposure": "man catches",
+            "Covariate": "man's physical ability",
+            "Mediator": "man's hand-eye coordination",
+            "Outcome": "ball caught"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "man's physical ability",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "man's physical ability",
+                "man catches"
+            ],
+            [
+                "man's physical ability",
+                "man's hand-eye coordination"
+            ],
+            [
+                "man's physical ability",
+                "ball caught"
+            ],
+            [
+                "man catches",
+                "man's hand-eye coordination"
+            ],
+            [
+                "man's hand-eye coordination",
+                "ball caught"
+            ],
+            [
+                "man catches",
+                "ball caught"
+            ],
+            [
+                "man's physical ability",
+                "man's strength and stability"
+            ],
+            [
+                "man's physical ability",
+                "refrigerator caught"
+            ],
+            [
+                "man catches",
+                "man's strength and stability"
+            ],
+            [
+                "man's strength and stability",
+                "refrigerator caught"
+            ],
+            [
+                "man catches",
+                "refrigerator caught"
+            ]
+        ]
+    },
+    "A mortician prepares a corpse. What would have happened if the mortician had prepared a dinner?": {
+        "factual_roles": {
+            "Exposure": "A mortician prepares a corpse",
+            "Covariate": "The mortician's professional training",
+            "Mediator": "Application of embalming techniques",
+            "Outcome": "The corpse is prepared for burial"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "The mortician's professional training",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "The mortician's professional training",
+                "A mortician prepares a corpse"
+            ],
+            [
+                "The mortician's professional training",
+                "Application of embalming techniques"
+            ],
+            [
+                "The mortician's professional training",
+                "The corpse is prepared for burial"
+            ],
+            [
+                "A mortician prepares a corpse",
+                "Application of embalming techniques"
+            ],
+            [
+                "Application of embalming techniques",
+                "The corpse is prepared for burial"
+            ],
+            [
+                "A mortician prepares a corpse",
+                "The corpse is prepared for burial"
+            ],
+            [
+                "The mortician's professional training",
+                "Cooking techniques application"
+            ],
+            [
+                "The mortician's professional training",
+                "A meal is served"
+            ],
+            [
+                "A mortician prepares a dinner",
+                "Cooking techniques application"
+            ],
+            [
+                "Cooking techniques application",
+                "A meal is served"
+            ],
+            [
+                "A mortician prepares a dinner",
+                "A meal is served"
+            ]
+        ]
+    },
+    "A family starts a trip. What would have happened if the family had ended the trip?": {
+        "factual_roles": {
+            "Exposure": "family starts a trip",
+            "Covariate": "family's decision-making process",
+            "Mediator": "travel duration",
+            "Outcome": "family completes the trip"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "family's decision-making process",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "family's decision-making process",
+                "family starts a trip"
+            ],
+            [
+                "family's decision-making process",
+                "travel duration"
+            ],
+            [
+                "family's decision-making process",
+                "family completes the trip"
+            ],
+            [
+                "family starts a trip",
+                "travel duration"
+            ],
+            [
+                "travel duration",
+                "family completes the trip"
+            ],
+            [
+                "family starts a trip",
+                "family completes the trip"
+            ],
+            [
+                "family's decision-making process",
+                "reduced travel duration"
+            ],
+            [
+                "family's decision-making process",
+                "family does not complete the trip"
+            ],
+            [
+                "family ends the trip",
+                "reduced travel duration"
+            ],
+            [
+                "reduced travel duration",
+                "family does not complete the trip"
+            ],
+            [
+                "family ends the trip",
+                "family does not complete the trip"
+            ]
+        ]
+    },
+    "A president rides a horse. What would have happened if the president had ridden a garden hose?": {
+        "factual_roles": {
+            "Exposure": "rides a horse",
+            "Covariate": "president's choice",
+            "Mediator": "availability of horse",
+            "Outcome": "president riding experience"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "president's choice",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "president's choice",
+                "rides a horse"
+            ],
+            [
+                "president's choice",
+                "availability of horse"
+            ],
+            [
+                "president's choice",
+                "president riding experience"
+            ],
+            [
+                "rides a horse",
+                "availability of horse"
+            ],
+            [
+                "availability of horse",
+                "president riding experience"
+            ],
+            [
+                "rides a horse",
+                "president riding experience"
+            ],
+            [
+                "president's choice",
+                "availability of garden hose"
+            ],
+            [
+                "president's choice",
+                "president's alternative experience"
+            ],
+            [
+                "rides a garden hose",
+                "availability of garden hose"
+            ],
+            [
+                "availability of garden hose",
+                "president's alternative experience"
+            ],
+            [
+                "rides a garden hose",
+                "president's alternative experience"
+            ]
+        ]
+    },
+    "A president rides a horse. What would have happened if the president had ridden a motorcycle?": {
+        "factual_roles": {
+            "Exposure": "rides a horse",
+            "Covariate": "president's choice of transportation",
+            "Mediator": "public perception of presidential leisure activities",
+            "Outcome": "president riding experience"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "president's choice of transportation",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "president's choice of transportation",
+                "rides a horse"
+            ],
+            [
+                "president's choice of transportation",
+                "public perception of presidential leisure activities"
+            ],
+            [
+                "president's choice of transportation",
+                "president riding experience"
+            ],
+            [
+                "rides a horse",
+                "public perception of presidential leisure activities"
+            ],
+            [
+                "public perception of presidential leisure activities",
+                "president riding experience"
+            ],
+            [
+                "rides a horse",
+                "president riding experience"
+            ],
+            [
+                "president's choice of transportation",
+                "public perception of presidential leisure activities (motorcycle)"
+            ],
+            [
+                "president's choice of transportation",
+                "president riding experience (motorcycle)"
+            ],
+            [
+                "rides a motorcycle",
+                "public perception of presidential leisure activities (motorcycle)"
+            ],
+            [
+                "public perception of presidential leisure activities (motorcycle)",
+                "president riding experience (motorcycle)"
+            ],
+            [
+                "rides a motorcycle",
+                "president riding experience (motorcycle)"
+            ]
+        ]
+    },
+    "A man mounts a horse. What would have happened if the horse had mounted the man?": {
+        "factual_roles": {
+            "Exposure": "man mounts",
+            "Covariate": "man's equestrian skill",
+            "Mediator": "horse's reaction",
+            "Outcome": "man on horse"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "man's equestrian skill",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "man's equestrian skill",
+                "man mounts"
+            ],
+            [
+                "man's equestrian skill",
+                "horse's reaction"
+            ],
+            [
+                "man's equestrian skill",
+                "man on horse"
+            ],
+            [
+                "man mounts",
+                "horse's reaction"
+            ],
+            [
+                "horse's reaction",
+                "man on horse"
+            ],
+            [
+                "man mounts",
+                "man on horse"
+            ],
+            [
+                "man's equestrian skill",
+                "man's reaction"
+            ],
+            [
+                "man's equestrian skill",
+                "horse on man"
+            ],
+            [
+                "horse mounts",
+                "man's reaction"
+            ],
+            [
+                "man's reaction",
+                "horse on man"
+            ],
+            [
+                "horse mounts",
+                "horse on man"
+            ]
+        ]
+    },
+    "A plant grows in a planter. What would have happened if the planter grows in the plant?": {
+        "factual_roles": {
+            "Exposure": "plant grows",
+            "Covariate": "planter conditions",
+            "Mediator": "soil quality",
+            "Outcome": "plant's growth"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "planter conditions",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": {
+            "factual_edges": [
+                [
+                    "planter conditions",
+                    "plant grows"
+                ],
+                [
+                    "planter conditions",
+                    "soil quality"
+                ],
+                [
+                    "planter conditions",
+                    "plant's growth"
+                ],
+                [
+                    "plant grows",
+                    "soil quality"
+                ],
+                [
+                    "soil quality",
+                    "plant's growth"
+                ],
+                [
+                    "plant grows",
+                    "plant's growth"
+                ]
+            ],
+            "counterfactual_edges": [
+                [
+                    "planter conditions",
+                    "soil quality"
+                ],
+                [
+                    "planter conditions",
+                    "planter's growth"
+                ],
+                [
+                    "planter grows",
+                    "soil quality"
+                ],
+                [
+                    "soil quality",
+                    "planter's growth"
+                ],
+                [
+                    "planter grows",
+                    "planter's growth"
+                ]
+            ]
+        }
+    },
+    "A woman swallows potassium cyanide. What would have happened if the woman had distributed potassium cyanide?": {
+        "factual_roles": {
+            "Exposure": "swallowed potassium cyanide",
+            "Covariate": "woman's health status",
+            "Mediator": "toxic chemical reaction in body",
+            "Outcome": "woman dies"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "woman's health status",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "woman's health status",
+                "swallowed potassium cyanide"
+            ],
+            [
+                "woman's health status",
+                "toxic chemical reaction in body"
+            ],
+            [
+                "woman's health status",
+                "woman dies"
+            ],
+            [
+                "swallowed potassium cyanide",
+                "toxic chemical reaction in body"
+            ],
+            [
+                "toxic chemical reaction in body",
+                "woman dies"
+            ],
+            [
+                "swallowed potassium cyanide",
+                "woman dies"
+            ],
+            [
+                "woman's health status",
+                "potential exposure of others to toxic chemical"
+            ],
+            [
+                "woman's health status",
+                "people might be harmed"
+            ],
+            [
+                "distributed potassium cyanide",
+                "potential exposure of others to toxic chemical"
+            ],
+            [
+                "potential exposure of others to toxic chemical",
+                "people might be harmed"
+            ],
+            [
+                "distributed potassium cyanide",
+                "people might be harmed"
+            ]
+        ]
+    },
+    "A woman swallows potassium cyanide. What would have happened if the woman had watched potassium cyanide?": {
+        "factual_roles": {
+            "Exposure": "swallowed potassium cyanide",
+            "Covariate": [
+                "woman's health condition",
+                "presence of antidote",
+                "amount of potassium cyanide"
+            ],
+            "Mediator": [
+                "poison absorbed into bloodstream",
+                "toxic reaction in body"
+            ],
+            "Outcome": "woman dies"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": [
+                "woman's health condition",
+                "presence of antidote",
+                "amount of potassium cyanide"
+            ],
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "woman's health condition",
+                "swallowed potassium cyanide"
+            ],
+            [
+                "woman's health condition",
+                "poison absorbed into bloodstream"
+            ],
+            [
+                "woman's health condition",
+                "woman dies"
+            ],
+            [
+                "swallowed potassium cyanide",
+                "poison absorbed into bloodstream"
+            ],
+            [
+                "poison absorbed into bloodstream",
+                "woman dies"
+            ],
+            [
+                "swallowed potassium cyanide",
+                "woman dies"
+            ],
+            [
+                "woman's health condition",
+                "no poison absorbed into bloodstream"
+            ],
+            [
+                "woman's health condition",
+                "woman survives"
+            ],
+            [
+                "watched potassium cyanide",
+                "no poison absorbed into bloodstream"
+            ],
+            [
+                "no poison absorbed into bloodstream",
+                "woman survives"
+            ],
+            [
+                "watched potassium cyanide",
+                "woman survives"
+            ]
+        ]
+    },
+    "A student counts numbers. What would have happened if the student had drunk numbers?": {
+        "factual_roles": {
+            "Exposure": "counts numbers",
+            "Covariate": "student's mathematical ability",
+            "Mediator": "student's focus",
+            "Outcome": "numbers counted"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "student's mathematical ability",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": {
+            "factual_edges": [
+                [
+                    "student's mathematical ability",
+                    "counts numbers"
+                ],
+                [
+                    "student's mathematical ability",
+                    "student's focus"
+                ],
+                [
+                    "student's mathematical ability",
+                    "numbers counted"
+                ],
+                [
+                    "counts numbers",
+                    "student's focus"
+                ],
+                [
+                    "student's focus",
+                    "numbers counted"
+                ],
+                [
+                    "counts numbers",
+                    "numbers counted"
+                ]
+            ],
+            "counterfactual_edges": [
+                [
+                    "student's mathematical ability",
+                    "student's confusion"
+                ],
+                [
+                    "student's mathematical ability",
+                    "numbers consumed"
+                ],
+                [
+                    "drinks numbers",
+                    "student's confusion"
+                ],
+                [
+                    "student's confusion",
+                    "numbers consumed"
+                ],
+                [
+                    "drinks numbers",
+                    "numbers consumed"
+                ]
+            ]
+        }
+    },
+    "A prince rescues a princess. What would have happened if the prince had beaten the princess?": {
+        "factual_roles": {
+            "Exposure": "prince rescues",
+            "Covariate": "prince's motivation",
+            "Mediator": "prince's actions",
+            "Outcome": "princess rescued"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "prince's motivation",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "prince's motivation",
+                "prince rescues"
+            ],
+            [
+                "prince's motivation",
+                "prince's actions"
+            ],
+            [
+                "prince's motivation",
+                "princess rescued"
+            ],
+            [
+                "prince rescues",
+                "prince's actions"
+            ],
+            [
+                "prince's actions",
+                "princess rescued"
+            ],
+            [
+                "prince rescues",
+                "princess rescued"
+            ],
+            [
+                "prince's motivation",
+                "prince's actions"
+            ],
+            [
+                "prince's motivation",
+                "princess defeated"
+            ],
+            [
+                "prince beats",
+                "prince's actions"
+            ],
+            [
+                "prince's actions",
+                "princess defeated"
+            ],
+            [
+                "prince beats",
+                "princess defeated"
+            ]
+        ]
+    },
+    "An oil tanker sails across an ocean. What would have happened if the oil tanker had broken up in an ocean?": {
+        "factual_roles": {
+            "Exposure": "oil tanker sails across an ocean",
+            "Covariate": "ocean conditions",
+            "Mediator": "structural integrity of oil tanker",
+            "Outcome": "oil tanker intact"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": "ocean conditions",
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": {
+            "factual_edges": [
+                [
+                    "ocean conditions",
+                    "oil tanker sails across an ocean"
+                ],
+                [
+                    "ocean conditions",
+                    "structural integrity of oil tanker"
+                ],
+                [
+                    "ocean conditions",
+                    "oil tanker intact"
+                ],
+                [
+                    "oil tanker sails across an ocean",
+                    "structural integrity of oil tanker"
+                ],
+                [
+                    "structural integrity of oil tanker",
+                    "oil tanker intact"
+                ],
+                [
+                    "oil tanker sails across an ocean",
+                    "oil tanker intact"
+                ]
+            ],
+            "counterfactual_edges": [
+                [
+                    "ocean conditions",
+                    "compromised structural integrity of oil tanker"
+                ],
+                [
+                    "ocean conditions",
+                    "oil spill"
+                ],
+                [
+                    "oil tanker breaks up in an ocean",
+                    "compromised structural integrity of oil tanker"
+                ],
+                [
+                    "compromised structural integrity of oil tanker",
+                    "oil spill"
+                ],
+                [
+                    "oil tanker breaks up in an ocean",
+                    "oil spill"
+                ]
+            ]
+        }
+    },
+    "A bus unloads a family. What would have happened if the bus had run over the family?": {
+        "factual_roles": {
+            "Exposure": "bus unloads",
+            "Covariate": [
+                "bus operational status",
+                "driver's attention",
+                "traffic conditions",
+                "family's position"
+            ],
+            "Mediator": [
+                "bus stopping at designated point",
+                "family exiting bus safely"
+            ],
+            "Outcome": "family is present"
+        },
+        "counterfactual_roles": {
+            "Exposure": "",
+            "Covariate": [
+                "bus operational status",
+                "driver's attention",
+                "traffic conditions",
+                "family's position"
+            ],
+            "Mediator": "",
+            "Outcome": ""
+        },
+        "causal_graph": [
+            [
+                "bus operational status",
+                "bus unloads"
+            ],
+            [
+                "bus operational status",
+                "bus stopping at designated point"
+            ],
+            [
+                "bus operational status",
+                "family is present"
+            ],
+            [
+                "bus operational status",
+                "bus runs over"
+            ],
+            [
+                "bus operational status",
+                "bus failing to stop"
+            ],
+            [
+                "bus operational status",
+                "family injured"
+            ],
+            [
+                "driver's attention",
+                "bus unloads"
+            ],
+            [
+                "driver's attention",
+                "bus stopping at designated point"
+            ],
+            [
+                "driver's attention",
+                "family is present"
+            ],
+            [
+                "driver's attention",
+                "bus runs over"
+            ],
+            [
+                "driver's attention",
+                "bus failing to stop"
+            ],
+            [
+                "driver's attention",
+                "family injured"
+            ],
+            [
+                "traffic conditions",
+                "bus unloads"
+            ],
+            [
+                "traffic conditions",
+                "bus stopping at designated point"
+            ],
+            [
+                "traffic conditions",
+                "family is present"
+            ],
+            [
+                "traffic conditions",
+                "bus runs over"
+            ],
+            [
+                "traffic conditions",
+                "bus failing to stop"
+            ],
+            [
+                "traffic conditions",
+                "family injured"
+            ],
+            [
+                "family's position",
+                "bus unloads"
+            ],
+            [
+                "family's position",
+                "bus stopping at designated point"
+            ],
+            [
+                "family's position",
+                "family is present"
+            ],
+            [
+                "family's position",
+                "bus runs over"
+            ],
+            [
+                "family's position",
+                "bus failing to stop"
+            ],
+            [
+                "family's position",
+                "family injured"
+            ],
+            [
+                "bus unloads",
+                "bus stopping at designated point"
+            ],
+            [
+                "bus stopping at designated point",
+                "family exiting bus safely"
+            ],
+            [
+                "family exiting bus safely",
+                "family is present"
+            ],
+            [
+                "bus unloads",
+                "family is present"
+            ],
+            [
+                "bus runs over",
+                "bus failing to stop"
+            ],
+            [
+                "bus failing to stop",
+                "family unable to exit safely"
+            ],
+            [
+                "family unable to exit safely",
+                "family injured"
+            ],
+            [
+                "bus runs over",
+                "family injured"
+            ]
+        ]
+    }
+}

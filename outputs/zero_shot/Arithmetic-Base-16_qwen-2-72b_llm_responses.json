@@ -1,0 +1,122 @@
+{
+    "EC+DD": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "18+9F": {
+        "llm_answer": "B7",
+        "llm_explanation": "18 + 9F in base-16 is equivalent to 24 + 159 in base-10, which equals 183. Converting 183 back to base-16 gives B7.**"
+    },
+    "79+8B": {
+        "llm_answer": "104",
+        "llm_explanation": "79 (base-16) is 121 (base-10) and 8B (base-16) is 139 (base-10). Adding these gives 260 (base-10), which is 104 in base-16.**"
+    },
+    "A6+94": {
+        "llm_answer": "13A",
+        "llm_explanation": "A6 (166 in decimal) + 94 (148 in decimal) = 314 in decimal, which is 13A in hexadecimal.**"
+    },
+    "54+D3": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "A8+F4": {
+        "llm_answer": "19C",
+        "llm_explanation": "A8 (168 in decimal) + F4 (244 in decimal) = 412 in decimal, which is 19C in hexadecimal.**"
+    },
+    "53+C2": {
+        "llm_answer": "115",
+        "llm_explanation": "53 + C2 in base-16 is equivalent to 83 + 194 in base-10, which sums to 277. Converting 277 back to base-16 gives 115.**"
+    },
+    "FA+83": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "6D+66": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "9F+88": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "10+2C": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "C0+AF": {
+        "llm_answer": "16F",
+        "llm_explanation": "C0 (192 in decimal) + AF (175 in decimal) = 367 in decimal, which is 16F in hexadecimal.**"
+    },
+    "EA+4A": {
+        "llm_answer": "134",
+        "llm_explanation": "EA (234 in decimal) + 4A (74 in decimal) = 308 in decimal, which is 134 in hexadecimal.**"
+    },
+    "C2+47": {
+        "llm_answer": "109",
+        "llm_explanation": "C2 (194 in decimal) + 47 (71 in decimal) = 265 in decimal, which is 109 in hexadecimal.**"
+    },
+    "44+DE": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "22+6F": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "29+99": {
+        "llm_answer": "C2",
+        "llm_explanation": "29 (base-16) is 41 in decimal, and 99 (base-16) is 153 in decimal. Adding these gives 194 in decimal, which is C2 in base-16.**"
+    },
+    "C3+9A": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "E6+D9": {
+        "llm_answer": "1BD",
+        "llm_explanation": "E6 + D9 in base-16 is calculated as (14*16 + 6) + (13*16 + 9) = 230 + 221 = 451 in base-10, which converts to 1BD in base-16.**"
+    },
+    "82+AC": {
+        "llm_answer": "12E",
+        "llm_explanation": "82 (130 in decimal) + AC (172 in decimal) = 302 in decimal, which is 12E in hexadecimal.**"
+    },
+    "67+55": {
+        "llm_answer": "BE",
+        "llm_explanation": "67 (103 in decimal) + 55 (85 in decimal) = 188 in decimal, which is BE in hexadecimal.**"
+    },
+    "45+18": {
+        "llm_answer": "5D",
+        "llm_explanation": "45 + 18 in base-16 is equivalent to 69 in base-10, which is 5D in base-16.**"
+    },
+    "82+24": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "F4+F1": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "E2+FC": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "E8+97": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "E6+FD": {
+        "llm_answer": "1E3",
+        "llm_explanation": "E6 + FD = 1E3 in base-16. Adding the digits, 6 + D (13) = 19, which is 13 in base-16 (with a carry of 1). Adding E (14) + F (15) + 1 (carry) = 34, which is E (14) in base-16 with a carry of 2. The final result is 1E3.**"
+    },
+    "A8+8F": {
+        "llm_answer": "137",
+        "llm_explanation": "A8 (168 in decimal) + 8F (143 in decimal) = 311 in decimal, which is 137 in hexadecimal.**"
+    },
+    "BB+2A": {
+        "llm_answer": "E5",
+        "llm_explanation": "BB (187 in decimal) + 2A (42 in decimal) = 229, which is E5 in hexadecimal.**"
+    },
+    "A3+8A": {
+        "llm_answer": "12D",
+        "llm_explanation": "A3 (163 in decimal) + 8A (138 in decimal) = 301 in decimal, which is 12D in hexadecimal.**"
+    }
+}

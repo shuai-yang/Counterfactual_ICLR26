@@ -1,0 +1,122 @@
+{
+    "tim saw lucas.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "jim calls olivia.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "jim saw emily.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "mary knows emily.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "jim sees olivia.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "anna calls noah.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "anna saw emily.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "alice sees ava.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "anna sees jacob.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "mary calls liam.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "john calls ava.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "sophie saw emma.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "sophie saw liam.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "sophie saw olivia.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "bob loves liam.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "bob sees emma.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "jim knows ethan.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "john calls olivia.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "anna loves jacob.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "tom sees liam.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "mary knows ava.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "john sees ava.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "jim knows lucas.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "anna sees liam.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "alice loves mia.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "john knows ava.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "anna saw mia.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "sophie saw jacob.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "jim calls mia.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    },
+    "bob saw lucas.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "\"bob\" is the subject, \"lucas\" is the object, and \"saw\" is the verb placed at the end."
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "COCO_val2014_000000000428.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The baby appears to be clean and dry, suggesting that it has recently been bathed. The question of whether the baby needs a bath soon is therefore likely to be \"Yes\", indicating that it does need a bath. However, the second question of whether the baby would need a bath soon if it were clean all over is also \"Yes\", indicating that the baby's current state of being clean and dry does not necessarily mean it wouldn't need a bath in the near future."
+    },
+    "COCO_val2014_000000000474.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The provided image is a base64 encoded image. The first line of the image is a header that starts with `4A` and is followed by a series of hexadecimal values. The image is encoded in a format that can be decoded and displayed as a regular image.\n\nTo decode the image, we can use a base64 decoder tool or library. After decoding the image, we can display it as a regular image.\n\nThe image appears to be a photograph of a scene with a grassy area and a few objects in the foreground. The image is well-lit and has a clear focus.\n\nAs for the second question, the image does not contain any visual cues that would indicate whether the place in the image has burned down or not. However, based on the fact that the image is a photograph, it is likely that the scene was captured after the event, and the grassy area suggests that the area may have been affected by fire. However, without more context or information, it is impossible to say for certain whether the place has burned down or not."
+    },
+    "COCO_val2014_000000000520.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The bridge in the image is not high. It is a small bridge that spans a small stream or river, and it does not appear to be elevated significantly above the water level.\n\n**Answer to Question 2:**\nNo\n\n**Explanation:**\nEven if the bottom of the bridge were 100 meters above the water, the bridge itself would not be considered high. The height of the bridge is not significant compared to the height of the surrounding landscape or the water level."
+    },
+    "COCO_val2014_000000000661.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If a man were to grab this bag, there is a high likelihood that a person holding the sandwich would be affected, potentially causing the sandwich to be dropped or the person to lose their grip on it."
+    },
+    "COCO_val2014_000000000675.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If a man pressed the light switch, it would turn on the light, assuming the light is functional and connected to the switch."
+    },
+    "COCO_val2014_000000000692.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "If the baby were wearing the same clothes as his mother, it is likely that the baby would not be wearing stripes, as the mother's clothing may not have stripes. The answer is based on the assumption that the mother\u2019s clothing style differs from the baby\u2019s current outfit."
+    },
+    "COCO_val2014_000000000711.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If someone moved the remote control to the sofa, it would no longer be on the table, but it would be on the sofa instead."
+    },
+    "COCO_val2014_000000000724.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the sky were pure blue, it would indicate clear weather conditions, which typically means there are no clouds present."
+    },
+    "COCO_val2014_000000000785.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If she took off the glasses, the goggles would still cover her eyes as they are designed to fit over the eyes regardless of whether glasses are worn or not."
+    },
+    "COCO_val2014_000000001029.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The image contains a plane in the sky, which is a clear indication of the presence of clouds.\n\n**Answer to Question 2:**\nNo\n\n**Explanation:**\nThe image does not provide any information about the presence of clouds in the absence of planes. The presence of clouds is independent of the presence of planes, and there is no logical connection between the two."
+    },
+    "COCO_val2014_000000001103.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The photograph would still be considered a color photograph regardless of the colors of the sea and sand. A color photograph is defined by the presence of color in the image, not by the specific colors depicted."
+    },
+    "COCO_val2014_000000001146.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "If his clothes were fancy, he would likely need to wear a more formal shirt, such as a dress shirt, which is typically required to be worn with a tie. The current shirt may not meet that standard."
+    },
+    "COCO_val2014_000000001153.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The image shows a banana, and the peel is visible. Since the peel is visible, it is clear that the banana has been peeled."
+    },
+    "COCO_val2014_000000001340.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the flowers do not die without water, they would be considered artificial, as real flowers require water to survive."
+    },
+    "COCO_val2014_000000001342.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "Even if bananas and apples were present, the items in the image are not edible, so the addition of those fruits would not change that fact."
+    },
+    "COCO_val2014_000000001425.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the food were eaten, the colors of the remaining food and the plate would still be visible, indicating that there would still be color in the picture."
+    },
+    "COCO_val2014_000000001436.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the man had taken off his glasses, he would not be wearing them, as the question implies a hypothetical situation where he no longer has them on."
+    },
+    "COCO_val2014_000000001554.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "Sheep are typically shaved (sheared) to remove their wool, which is done for various reasons including comfort, hygiene, and to collect wool for textile production. If the sheep were covered in hair, they would still be sheared, as the wool is what is harvested, not the hair."
+    },
+    "COCO_val2014_000000001563.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000001584.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the second story of the bus were painted blue, it would add another color to the existing colors of the bus, making it multi-colored."
+    },
+    "COCO_val2014_000000001700.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the snowboarder jumped up, he would be in the air, as jumping inherently involves leaving the ground momentarily."
+    },
+    "COCO_val2014_000000001841.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If there is something around her neck, it is possible that she could be wearing a tie, as ties are typically worn around the neck. However, the presence of something around her neck does not guarantee that it is a tie, as it could be another type of accessory or clothing item."
+    },
+    "COCO_val2014_000000002149.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "In the image, there are three apples, all of which are red. If all the apples were not red, it would still be true that there are three apples in the picture. The color of the apples does not affect the number of apples present."
+    }
+}

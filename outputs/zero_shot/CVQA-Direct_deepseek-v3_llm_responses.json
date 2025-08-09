@@ -1,0 +1,222 @@
+{
+    "COCO_val2014_000000402685.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000402992.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403065.jpg": {
+        "fact_answer": "0",
+        "llm_answer": "0",
+        "llm_answer_explanation": "If there are no cars in the picture, doubling the number of cars would still result in zero cars."
+    },
+    "COCO_val2014_000000403294.jpg": {
+        "fact_answer": "3",
+        "llm_answer": "12",
+        "llm_answer_explanation": "If there are currently 3 people on the bus and 9 more people come onboard, the total number of people on the bus would be 3 + 9 = 12."
+    },
+    "COCO_val2014_000000403389.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403425.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403481.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403515.jpg": {
+        "fact_answer": "0",
+        "llm_answer": "0",
+        "llm_answer_explanation": "If there were no bags visible, then naturally the count of bags present would also be zero."
+    },
+    "COCO_val2014_000000403639.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403758.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403864.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403907.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403951.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404071.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404209.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404273.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404338.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404373.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404479.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404568.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404635.jpg": {
+        "fact_answer": "Please",
+        "llm_answer": "After",
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404702.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404889.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404988.jpg": {
+        "fact_answer": "2",
+        "llm_answer": "0",
+        "llm_answer_explanation": "If there are 2 benches in total and 5 benches were removed, this would result in a negative count, which is unrealistic in this context. Thus, we cannot have a negative number of benches, so the realistic answer is 0."
+    },
+    "COCO_val2014_000000405004.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405104.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405183.jpg": {
+        "fact_answer": "4",
+        "llm_answer": "2",
+        "llm_answer_explanation": "If 4 humans are present and 2 disappear, the remaining number of humans would be 4 - 2 = 2."
+    },
+    "COCO_val2014_000000405196.jpg": {
+        "fact_answer": "3",
+        "llm_answer": "4",
+        "llm_answer_explanation": "If there are currently 3 eggs in the bowl, adding 1 more egg would make the total 4 eggs."
+    },
+    "COCO_val2014_000000405222.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405632.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405635.jpg": {
+        "fact_answer": "2",
+        "llm_answer": "5",
+        "llm_answer_explanation": "If there are currently 2 pillows on the bed and 3 more pillows are added, the total number of pillows would then be 2 (current pillows) + 3 (additional pillows) = 5 pillows."
+    },
+    "COCO_val2014_000000405675.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405778.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405811.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405973.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406093.jpg": {
+        "fact_answer": "3",
+        "llm_answer": "5",
+        "llm_answer_explanation": "If there are currently 3 plates in the photo and 2 more plates are added, the total would be 3 + 2 = 5 plates."
+    },
+    "COCO_val2014_000000406215.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406417.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406534.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406723.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406885.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406959.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406976.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406997.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    }
+}

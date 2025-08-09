@@ -1,0 +1,106 @@
+{
+    "158956_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a baker; it depicts a different scene that does not align with the counterfactual caption.**"
+    },
+    "164602_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a dog; it features only the man and woman brushing their teeth and taking a selfie as described in the premise caption.**"
+    },
+    "60823_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain people, as the counterfactual condition states.**"
+    },
+    "279714_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a baseball bat in a box as described in the counterfactual caption; it should have illustrated a box, but the image corresponding to the counterfactual condition was unchanged from the premise, which described a baseball bat in a window.**"
+    },
+    "375763_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a pair of sheep; it depicts a larger flock, which does not align with the counterfactual caption.**"
+    },
+    "490171_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not contain a horse; instead, it shows a man on a surfboard with a dog, which aligns with the premise caption but not with the counterfactual condition.**"
+    },
+    "474021_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain the changed noun subject \"party\" as described in the counterfactual caption. The caption indicates the noun subject was altered, but the analysis of the new image suggests it depicts a similar gathering or gathering context without explicitly showing a party atmosphere.**"
+    },
+    "183437_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not show children sitting on top of the elephant; instead, it depicts adults seated on the elephant, which does not align with the counterfactual condition.**"
+    },
+    "42296_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a polar bear partially submerged in ice, as indicated by the counterfactual caption.**"
+    },
+    "414638_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a white board, which is the noun subject in the counterfactual caption.**"
+    },
+    "430961_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a football player; it still features a baseball player, consistent with the premise caption.**"
+    },
+    "119452_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not contain a spotty apple; the subject appears to be a banana as described in the premise caption.**"
+    },
+    "47801_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a man with gloves; it likely shows a different subject that does not match the counterfactual caption.**"
+    },
+    "239347_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not depict the couple lying in a field, as stated in the counterfactual caption; instead, it shows them lying in a bed.**"
+    },
+    "109055_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain the changed noun subject 'cars' as described in the counterfactual caption; it contains 'bikes' instead.**"
+    },
+    "116362_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a tray of food, as the counterfactual caption describes.**"
+    },
+    "42070_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a white car, as described in the counterfactual caption; it likely still depicts the white bus indicated in the premise.**"
+    },
+    "565153_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain trees as described in the counterfactual caption; it only shows grass and signs next to the sidewalk.**"
+    },
+    "348243_1": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a dog, which is the noun subject described in the counterfactual caption.**"
+    },
+    "91500_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image contains two kids playing video games, which does not align with the changed noun subject \"two guys\" in the counterfactual caption.**"
+    },
+    "249219_1": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not depict a double-decker bus shown in a tropical storm, as described in the counterfactual caption. Instead, it shows a scene that does not align with the notion of a stormy environment.**"
+    },
+    "463690_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not feature a man lying on the ground, but rather, it shows a different context that does not match the counterfactual condition provided.**"
+    },
+    "383621_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a passenger airplane taking off into a night sky; instead, it shows a different setting that does not match the counterfactual condition.**"
+    },
+    "401244_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a person playing frisbee in winter wear; it instead depicts someone in sportswear, consistent with the original premise.**"
+    },
+    "489091_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a shower; instead, it features a vanity and toilet, which aligns with the premise caption but not the counterfactual condition.**"
+    },
+    "473406_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain an apple or any representation of an apple, as described in the counterfactual caption. Instead, it features a different subject than the one mentioned in the counterfactual condition.**"
+    }
+}

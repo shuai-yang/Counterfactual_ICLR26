@@ -1,0 +1,57 @@
+{
+    "COCO_val2014_000000000474.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000520.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The bridge is high because the bottom of the bridge is 100 meters above the water."
+    },
+    "COCO_val2014_000000000675.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The light is not on because the image does not show any light source or any indication of light being emitted.\n\n**Answer to Question 2:** \n**Answer to Question 2:** No\n\n**Explanation:** \nThe light is not on, so it would not be on if a man pressed the light switch."
+    },
+    "COCO_val2014_000000000692.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "no",
+        "llm_answer_explanation": "The baby is not wearing stripes."
+    },
+    "COCO_val2014_000000000711.jpg": {
+        "fact_answer": "No",
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000724.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000785.jpg": {
+        "fact_answer": "Are",
+        "llm_answer": "Would",
+        "llm_answer_explanation": "The question asks if the goggles are covering her eyes, and the answer is no. The question also asks if the goggles would be covering her eyes if she took off the glasses, and the answer is no. The explanation is that the goggles are not covering her eyes, and taking off the glasses would not change the fact that the goggles are not covering her eyes."
+    },
+    "COCO_val2014_000000001029.jpg": {
+        "fact_answer": "yes",
+        "llm_answer": "no",
+        "llm_answer_explanation": "The image does not depict clouds. The image is a photograph of a plane flying in the sky, but there are no clouds visible in the image."
+    },
+    "COCO_val2014_000000001103.jpg": {
+        "fact_answer": "yes",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "The image is a color photograph. The sea and sand are not blue and golden, respectively, but the image is still a color photograph."
+    },
+    "COCO_val2014_000000001146.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "The man in the image is wearing a shirt with a tie, which is a common combination in formal or business attire."
+    },
+    "COCO_val2014_000000001153.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "The bananas in the image are not peeled, but if we could only see the pulp and not the peel, it would be reasonable to assume that they have been peeled, as the pulp is the edible part of the banana that is typically exposed after peeling."
+    }
+}

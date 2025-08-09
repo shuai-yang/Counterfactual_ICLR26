@@ -1,0 +1,122 @@
+{
+    "Ordered least to greatest": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale indicates that the numbers were ordered from least to greatest, which means the correct order from highest to lowest would be the reverse of that. Choice C (276, 254, 237, 235) correctly lists the numbers in descending order."
+    },
+    "Ordered greatest to least by ones place.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale indicates that the numbers should be ordered from greatest to least based on the ones place. Choice C (276, 254, 237, 235) correctly reflects this order."
+    },
+    "Switched last 2 numbers.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale states that the last two numbers were switched, which matches option C where 235 and 237 are in the wrong order compared to the correct order."
+    },
+    "Extends tens place to the 8.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place is extended to the 8, which corresponds to the representation of 2,819 as 2,000 + 80 + 10 + 9."
+    },
+    "Misrepresents the place value of 8 as thousands instead of hundreds.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates a misrepresentation of the place value of 8, suggesting it was incorrectly considered as thousands instead of hundreds. Choice B correctly represents 2,819 with 800 in the hundreds place, aligning with the rationale."
+    },
+    "Misrepresents the place value of 1 as hundreds instead of tens": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates a misrepresentation of the place value of 1, suggesting it was incorrectly considered as hundreds instead of tens. Option B (2,000 + 800 + 10 + 9) reflects this error by placing 1 in the hundreds place, making it the most suitable choice."
+    },
+    "Uses only \"+\" between all of the digits and does not consider place value. ": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "**Explanation:** The counterfactual rationale states that the student used only \"+\" between all digits without considering place value. Option D, 3,000 + 236, correctly represents the place value of the digits in 3,236, whereas the other options do not."
+    },
+    "Uses \"+\" between 2 sets of the digits and does not consider place value.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "**Explanation:** The counterfactual rationale states that the representation does not consider place value, which aligns with choice D (3,000 + 236), as it correctly places the digits in their respective place values."
+    },
+    "Omits zero after \"3\" to make \"300\", not \"3,000\"": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a mistake in representing the number by omitting a zero, which suggests that the correct representation should include \"3,000\" as part of the total, making D the most suitable choice."
+    },
+    "Chooses the 5th number in the sequence.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The Counterfactual Rationale suggests that the student chose the 5th number in the sequence instead of determining the pattern. The sequence increases by 7 each time (25-18=7, 32-25=7, 39-32=7). Following this pattern, the 5th number should be 39+7=46, and the 6th number should be 46+7=53."
+    },
+    "Chooses the 2nd and 3rd terms added together. 25 + 32 = 57": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The counterfactual rationale states that the student chose to add the 2nd and 3rd terms together, which are 25 and 32, respectively. Adding these gives 57. However, the correct pattern is to add 7 to each preceding number, making the series 18, 25, 32, 39, 46, 53. Since the student added the 2nd and 3rd terms, the next number in the series would follow the same incorrect pattern of addition, making the sixth number 57."
+    },
+    "Chooses the 7th number in the sequence.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the student chose the 7th number in the sequence, which suggests they miscalculated the position of the number they were supposed to find. The correct sixth number in the series is 46, which aligns with option A."
+    },
+    "Calculates 45 - 22 = 23": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "**Explanation:** The counterfactual rationale indicates that Mia's baking time was incorrectly calculated as 45 - 22 = 23 minutes, which is the time difference from 2:45 p.m. to 3:22 p.m. However, this calculation is incorrect because it should be from 2:45 to 3:00 plus the remaining 22 minutes, totaling 15 + 22 = 37 minutes."
+    },
+    "Calculates 45 + 22 with no carrying from the ones to tens place.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates that Mia incorrectly added the minutes without carrying over, leading to an incorrect total of 37 minutes."
+    },
+    "Calculates 45 + 22 = 77": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates that the calculation performed was 45 + 22 = 77, which suggests that the total time spent baking was incorrectly calculated as 77 minutes."
+    },
+    "Calculates 50 - 5 = 45 and 1 hour from noon to 1:00.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The counterfactual rationale suggests adding 50 minutes from 11:50 a.m. to 12:40 p.m. and then 25 minutes from 12:40 p.m. to 1:05 p.m., totaling 45 minutes plus 1 hour, which equals 1 hour 45 minutes."
+    },
+    "Calculates 2 hours from 11:00 to 1:00.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the calculation was based on a 2-hour estimate from 11:00 to 1:00, which does not accurately account for the actual time from 11:50 a.m. to 1:05 p.m. The correct duration is 1 hour and 15 minutes, aligning with choice A."
+    },
+    "Calculates 50 - 5 = 45 and 2 hours from 11:00 to 1:00.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that Tom watched the movie from 11:50 a.m. to 1:05 p.m., which is 1 hour and 15 minutes. The calculation of 50 - 5 = 45 minutes plus the 1 hour from 11:00 to 1:00 confirms this duration."
+    },
+    "Considers 1 to be in the ones place rather than the 10s place.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "**Explanation:** The Counterfactual Rationale states that 1 is considered to be in the ones place rather than the 10s place. This aligns with choice C, which correctly places 1 in the ones place, while also correctly placing 8 in the hundreds place and 4 in the thousands place."
+    },
+    "Shifts all digits by a factor of 10.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "**Explanation:** The counterfactual rationale suggests shifting all digits by a factor of 10, which would change 4,810 to 48,100. The correct representation of 4,810 is 4 thousands + 8 hundreds + 1 one, which matches choice C."
+    },
+    "Considers 1 to be in the ones place rather than the 10s place. ": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale indicates a misunderstanding of place value, specifically regarding the position of the digit 1. Choice C correctly represents 4,810 as 4 thousands + 8 hundreds + 1 one, aligning with the rationale's focus on the ones place."
+    },
+    "Ordered the first 2 numbers.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "**Explanation:** The Counterfactual Rationale states that the student only ordered the first two numbers, which means the order of the other numbers was not considered. Option D (489, 498, 849, 984) is the only one that correctly arranges the numbers from smallest to largest."
+    },
+    "Ordered by ones place.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates that the numbers were ordered by their ones place, which aligns with the arrangement in choice D (489, 498, 849, 984) as it correctly lists the numbers from smallest to largest based on their last digit."
+    },
+    "Ordered by tens and ones.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "**Explanation:** The Counterfactual Rationale suggests ordering by tens and ones, which means the numbers should be sorted based on their individual digits. The correct order from smallest to largest is 489, 498, 849, 984, which matches option D."
+    },
+    "An octagon has 8 angles.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "**Explanation:** The Counterfactual Rationale states that an octagon has 8 angles, so the correct geometric shape with 6 angles must be a hexagon, which corresponds to choice A."
+    },
+    "A pentagon has 5 angles.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "**Explanation:** The counterfactual rationale states that a pentagon has 5 angles, not 6, which aligns with choice C, as a pentagon has 5 sides and thus 5 angles."
+    },
+    "A rhombus has 4 angles.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that a rhombus has 4 angles, which does not answer the question about a shape with 6 angles. A hexagon, which has 6 angles, is the correct answer."
+    },
+    "Added only 25 minutes to 11:55.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "**Explanation:** The counterfactual rationale states that Alex only added 25 minutes to the start time, which would give 12:20. Since Alex practiced for 1 hour 25 minutes, adding 1 hour to 11:55 would result in 12:55, and then adding the remaining 25 minutes would give 1:20. However, the CR indicates only adding 25 minutes, which results in 12:20, making B the correct choice."
+    },
+    "Calculated 11 + 1 = 12 and 55 - 25 = 30 for 12:30.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates that Alex calculated the time incorrectly as 12:30 by adding 1 hour to 11 and subtracting 25 minutes from 55, which aligns with choice B."
+    },
+    "Determined the correct hour but used 55 - 25 = 30 to find 1:30.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates that the student calculated the hour correctly but made an error in subtracting the minutes, leading to an incorrect finish time of 1:30."
+    }
+}

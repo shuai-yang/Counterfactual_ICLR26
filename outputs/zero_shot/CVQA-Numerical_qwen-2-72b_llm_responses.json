@@ -1,0 +1,22 @@
+{
+    "COCO_val2014_000000403065.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403907.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404568.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405104.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "Ordered least to greatest": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The CR indicates that the correct hour was determined, but there was an error in calculating the minutes. Instead of adding the minutes correctly, it subtracted them, leading to an incorrect minute calculation. Therefore, the answer that reflects this error is D, 1:30."
+    },
+    "Ordered greatest to least by ones place.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale states that the numbers should be ordered from greatest to least based on the ones place. In the given options, option C (276, 254, 237, 235) correctly reflects the order from highest to lowest."
+    },
+    "Switched last 2 numbers.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale states that the numbers should be ordered from greatest to least based on the ones place. In the given options, option C (276, 254, 237, 235) correctly reflects the order from highest to lowest."
+    },
+    "Extends tens place to the 8.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place value of the number 2,819 should extend to 8, making 80 significant in the break down of the number as shown in option A."
+    },
+    "Misrepresents the place value of 8 as thousands instead of hundreds.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place value of the number 2,819 should extend to 8, making 80 significant in the break down of the number as shown in option A."
+    },
+    "Misrepresents the place value of 1 as hundreds instead of tens": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place value of the number 2,819 should extend to 8, making 80 significant in the break down of the number as shown in option A."
+    },
+    "Uses only \"+\" between all of the digits and does not consider place value. ": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place value of the number 2,819 should extend to 8, making 80 significant in the break down of the number as shown in option A."
+    },
+    "Uses \"+\" between 2 sets of the digits and does not consider place value.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place value of the number 2,819 should extend to 8, making 80 significant in the break down of the number as shown in option A."
+    },
+    "Omits zero after \"3\" to make \"300\", not \"3,000\"": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place value of the number 2,819 should extend to 8, making 80 significant in the break down of the number as shown in option A."
+    },
+    "Chooses the 5th number in the sequence.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place value of the number 2,819 should extend to 8, making 80 significant in the break down of the number as shown in option A."
+    },
+    "Chooses the 2nd and 3rd terms added together. 25 + 32 = 57": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place value of the number 2,819 should extend to 8, making 80 significant in the break down of the number as shown in option A."
+    },
+    "Chooses the 7th number in the sequence.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place value of the number 2,819 should extend to 8, making 80 significant in the break down of the number as shown in option A."
+    },
+    "Calculates 45 - 22 = 23": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place value of the number 2,819 should extend to 8, making 80 significant in the break down of the number as shown in option A."
+    },
+    "Calculates 45 + 22 with no carrying from the ones to tens place.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place value of the number 2,819 should extend to 8, making 80 significant in the break down of the number as shown in option A."
+    },
+    "Calculates 45 + 22 = 77": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place value of the number 2,819 should extend to 8, making 80 significant in the break down of the number as shown in option A."
+    },
+    "Calculates 50 - 5 = 45 and 1 hour from noon to 1:00.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place value of the number 2,819 should extend to 8, making 80 significant in the break down of the number as shown in option A."
+    },
+    "Calculates 2 hours from 11:00 to 1:00.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that a calculation of 2 hours from 11:00 to 1:00 was made, which does not correctly account for the time spent from 11:50 to 1:05, resulting in an inaccurate estimate that underestimates the total time. The correct duration in this case is 1 hour and 15 minutes."
+    },
+    "Calculates 50 - 5 = 45 and 2 hours from 11:00 to 1:00.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that a calculation of 2 hours from 11:00 to 1:00 was made, which does not correctly account for the time spent from 11:50 to 1:05, resulting in an inaccurate estimate that underestimates the total time. The correct duration in this case is 1 hour and 15 minutes."
+    },
+    "Considers 1 to be in the ones place rather than the 10s place.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates a misplacement of the digit \"1\" as being in the ones place rather than the tens place, which corresponds to option B where the breakdown of 4,810 is accurately represented as 4 hundreds, 8 tens, and 1 one."
+    },
+    "Shifts all digits by a factor of 10.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates a misplacement of the digit \"1\" as being in the ones place rather than the tens place, which corresponds to option B where the breakdown of 4,810 is accurately represented as 4 hundreds, 8 tens, and 1 one."
+    },
+    "Considers 1 to be in the ones place rather than the 10s place. ": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates a misplacement of the digit \"1\" as being in the ones place rather than the tens place, which corresponds to option B where the breakdown of 4,810 is accurately represented as 4 hundreds, 8 tens, and 1 one."
+    },
+    "Ordered the first 2 numbers.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates a misplacement of the digit \"1\" as being in the ones place rather than the tens place, which corresponds to option B where the breakdown of 4,810 is accurately represented as 4 hundreds, 8 tens, and 1 one."
+    },
+    "Ordered by ones place.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates a misplacement of the digit \"1\" as being in the ones place rather than the tens place, which corresponds to option B where the breakdown of 4,810 is accurately represented as 4 hundreds, 8 tens, and 1 one."
+    },
+    "Ordered by tens and ones.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates a misplacement of the digit \"1\" as being in the ones place rather than the tens place, which corresponds to option B where the breakdown of 4,810 is accurately represented as 4 hundreds, 8 tens, and 1 one."
+    },
+    "An octagon has 8 angles.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates a misplacement of the digit \"1\" as being in the ones place rather than the tens place, which corresponds to option B where the breakdown of 4,810 is accurately represented as 4 hundreds, 8 tens, and 1 one."
+    },
+    "A pentagon has 5 angles.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale identifies a pentagon as having 5 angles, implying that the shape with 6 angles is a hexagon, which matches choice A."
+    },
+    "A rhombus has 4 angles.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale states that a rhombus has 4 angles, indicating that it is not the shape with 6 angles, which aligns the question's context to a hexagon, the correct answer."
+    },
+    "Added only 25 minutes to 11:55.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale states that a rhombus has 4 angles, indicating that it is not the shape with 6 angles, which aligns the question's context to a hexagon, the correct answer."
+    },
+    "Calculated 11 + 1 = 12 and 55 - 25 = 30 for 12:30.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale incorrectly calculates the finish time by adding and subtracting hours and minutes, leading to the erroneous conclusion of 12:30."
+    },
+    "Determined the correct hour but used 55 - 25 = 30 to find 1:30.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale incorrectly calculates the finish time by adding and subtracting hours and minutes, leading to the erroneous conclusion of 12:30."
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "tim saw lucas.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "jim calls olivia.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "jim saw emily.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "mary knows emily.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "jim sees olivia.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "anna calls noah.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "anna saw emily.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "alice sees ava.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "anna sees jacob.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "mary calls liam.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "john calls ava.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "sophie saw emma.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "sophie saw liam.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "sophie saw olivia.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "bob loves liam.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "bob sees emma.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "jim knows ethan.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "john calls olivia.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "anna loves jacob.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "tom sees liam.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "mary knows ava.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "john sees ava.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "jim knows lucas.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "anna sees liam.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "alice loves mia.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "john knows ava.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "anna saw mia.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "sophie saw jacob.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "jim calls mia.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    },
+    "bob saw lucas.": {
+        "llm_answer": "bob lucas saw",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"bob\" comes first, followed by the object \"lucas,\" and then the verb \"saw.\""
+    }
+}

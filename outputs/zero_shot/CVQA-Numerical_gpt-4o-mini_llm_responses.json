@@ -1,0 +1,242 @@
+{
+    "COCO_val2014_000000402685.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000402992.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403065.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403145.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403294.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403389.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403421.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403425.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403481.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403515.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403639.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403758.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403864.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403907.jpg": {
+        "fact_answer": "5",
+        "llm_answer": "4",
+        "llm_answer_explanation": "If there are originally 5 benches in the photo and one disappears, that would leave 4 benches remaining."
+    },
+    "COCO_val2014_000000403951.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404071.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404209.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404273.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404338.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404373.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404479.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404568.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404635.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404668.jpg": {
+        "fact_answer": "1",
+        "llm_answer": null,
+        "llm_answer_explanation": "If you remove 3 pictures from a total of 1 picture, you would have 1 - 3 = -2 pictures left, which indicates that you cannot have a negative number of pictures."
+    },
+    "COCO_val2014_000000404702.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404889.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404988.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405004.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405104.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405175.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405183.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405196.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405222.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405632.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405675.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405778.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405811.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405973.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406050.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406093.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406215.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406417.jpg": {
+        "fact_answer": "0",
+        "llm_answer": "2",
+        "llm_answer_explanation": "If two people wore blue jackets, the total number of people with blue jackets would be 2, as stated in the question."
+    },
+    "COCO_val2014_000000406534.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406723.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406885.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406959.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406976.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000406997.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    }
+}

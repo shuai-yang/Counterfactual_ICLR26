@@ -1,0 +1,106 @@
+{
+    "158956_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a baker as described in the counterfactual caption; instead, it features a woman cutting into a cake, consistent with the premise caption.**"
+    },
+    "164602_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a dog as described in the counterfactual caption; instead, it features a man and a woman taking a selfie while brushing their teeth, similar to the premise caption.**"
+    },
+    "60823_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain people, as the counterfactual caption suggests.**"
+    },
+    "375763_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a pair of sheep; it contains a flock of sheep, which does not align with the counterfactual caption.**"
+    },
+    "490171_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a horse; it instead features a surfboard which aligns with the original premise about a man in a wet suit riding on a surfboard.**"
+    },
+    "474021_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain the specific changed noun subject 'party' as indicated in the counterfactual condition. The context suggests a difference in setting from 'gathering' to 'party', but without seeing the actual image, I cannot confirm if this change is depicted.**"
+    },
+    "183437_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain children sitting atop the elephant.**"
+    },
+    "414638_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a white board; instead, it shows a white plate, which does not match the changed noun subject in the counterfactual caption.**"
+    },
+    "430961_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain the changed noun subject described in the counterfactual caption, which specifies a \"football player.\"**"
+    },
+    "119452_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain the noun subject described in the counterfactual caption (a spotty apple); instead, it features a spotty banana, which matches the premise caption.**"
+    },
+    "47801_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a man with gloves biting into a piece of cake; it features a man with glasses instead.**"
+    },
+    "239347_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a couple lying in a field as described in the counterfactual caption; it likely contains a couple lying in a bed as indicated in the premise caption.**"
+    },
+    "109055_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain any cars; instead, it depicts a scene with a number of bicycles. Therefore, it does not align with the counterfactual caption stated.**"
+    },
+    "116362_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a tray of food; instead, it shows a bowl of food, which aligns with the premise caption rather than the counterfactual condition.**"
+    },
+    "172935_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a bird flying through the air.**"
+    },
+    "348243_1": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not contain a large black dog; it depicts a large black horse, which corresponds to the original premise caption rather than the counterfactual caption.**"
+    },
+    "91500_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain the noun subject 'two guys' as described in the counterfactual caption, as the image likely features kids instead.**"
+    },
+    "106235_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain an oval dining table as described in the counterfactual caption; it features a different set of furniture that is likely not a dining table.**"
+    },
+    "249219_1": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not depict a tropical storm, as described in the counterfactual caption; it likely shows a different environment or weather condition that does not match the specified scenario.**"
+    },
+    "460347_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain city vehicles; it is likely to feature a city bus instead, which corresponds to the original premise caption.**"
+    },
+    "463690_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not appear to contain the changed noun subject described in the counterfactual caption (\"The man is lying on the ground with one leg in the air\"). Instead, it maintains the noun subject from the premise caption (\"The man is lying on the sidewalk with one leg in the air\").**"
+    },
+    "562197_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain three different varieties of bean salad; instead, it contains only one type of bean salad, which does not align with the counterfactual caption.**"
+    },
+    "383621_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a passenger airplane taking off into a night sky as described in the counterfactual caption.**"
+    },
+    "401244_0": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "489091_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a shower as mentioned in the counterfactual caption; it contains the same objects as the original caption, suggesting it depicts a vanity and toilet instead.**"
+    },
+    "473406_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not contain a little apple sitting on a kitchen counter top; it contains the same little boy as described in the premise caption.**"
+    }
+}

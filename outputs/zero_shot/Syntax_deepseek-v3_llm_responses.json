@@ -1,0 +1,122 @@
+{
+    "tim saw lucas.": {
+        "llm_answer": "bob lucas saw.",
+        "llm_explanation": "In the new language, the word order is changed to subject-object-verb from the original subject-verb-object order. Thus, \"lucas\" moves to the middle position between \"bob\" and \"saw\"."
+    },
+    "jim calls olivia.": {
+        "llm_answer": "olivia jim calls.",
+        "llm_explanation": "The original sentence \"jim calls olivia\" is rearranged to fit the subject-object-verb order, placing \"olivia\" (object) before \"jim\" (subject) and keeping \"calls\" (verb) at the end."
+    },
+    "jim saw emily.": {
+        "llm_answer": "olivia jim calls.",
+        "llm_explanation": "The original sentence \"jim calls olivia\" is rearranged to fit the subject-object-verb order, placing \"olivia\" (object) before \"jim\" (subject) and keeping \"calls\" (verb) at the end."
+    },
+    "mary knows emily.": {
+        "llm_answer": "olivia jim calls.",
+        "llm_explanation": "The original sentence \"jim calls olivia\" is rearranged to fit the subject-object-verb order, placing \"olivia\" (object) before \"jim\" (subject) and keeping \"calls\" (verb) at the end."
+    },
+    "jim sees olivia.": {
+        "llm_answer": "olivia jim calls.",
+        "llm_explanation": "The original sentence \"jim calls olivia\" is rearranged to fit the subject-object-verb order, placing \"olivia\" (object) before \"jim\" (subject) and keeping \"calls\" (verb) at the end."
+    },
+    "anna calls noah.": {
+        "llm_answer": "olivia jim calls.",
+        "llm_explanation": "The original sentence \"jim calls olivia\" is rearranged to fit the subject-object-verb order, placing \"olivia\" (object) before \"jim\" (subject) and keeping \"calls\" (verb) at the end."
+    },
+    "anna saw emily.": {
+        "llm_answer": "emily anna saw.",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"anna\" comes after the object \"emily,\" followed by the verb \"saw.\""
+    },
+    "alice sees ava.": {
+        "llm_answer": "emily anna saw.",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"anna\" comes after the object \"emily,\" followed by the verb \"saw.\""
+    },
+    "anna sees jacob.": {
+        "llm_answer": "emily anna saw.",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"anna\" comes after the object \"emily,\" followed by the verb \"saw.\""
+    },
+    "mary calls liam.": {
+        "llm_answer": "emily anna saw.",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"anna\" comes after the object \"emily,\" followed by the verb \"saw.\""
+    },
+    "john calls ava.": {
+        "llm_answer": "emily anna saw.",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"anna\" comes after the object \"emily,\" followed by the verb \"saw.\""
+    },
+    "sophie saw emma.": {
+        "llm_answer": "emily anna saw.",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"anna\" comes after the object \"emily,\" followed by the verb \"saw.\""
+    },
+    "sophie saw liam.": {
+        "llm_answer": "emily anna saw.",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"anna\" comes after the object \"emily,\" followed by the verb \"saw.\""
+    },
+    "sophie saw olivia.": {
+        "llm_answer": "olivia sophie saw.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"sophie\" (subject) comes first, followed by \"olivia\" (object), and then \"saw\" (verb)."
+    },
+    "bob loves liam.": {
+        "llm_answer": "olivia sophie saw.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"sophie\" (subject) comes first, followed by \"olivia\" (object), and then \"saw\" (verb)."
+    },
+    "bob sees emma.": {
+        "llm_answer": "olivia sophie saw.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"sophie\" (subject) comes first, followed by \"olivia\" (object), and then \"saw\" (verb)."
+    },
+    "jim knows ethan.": {
+        "llm_answer": "ethan jim knows.",
+        "llm_explanation": "The sentence is reconstructed into subject-object-verb order, placing \"ethan\" (the object) before \"jim\" (the subject) and maintaining \"knows\" (the verb) at the end."
+    },
+    "john calls olivia.": {
+        "llm_answer": "ethan jim knows.",
+        "llm_explanation": "The sentence is reconstructed into subject-object-verb order, placing \"ethan\" (the object) before \"jim\" (the subject) and maintaining \"knows\" (the verb) at the end."
+    },
+    "anna loves jacob.": {
+        "llm_answer": "ethan jim knows.",
+        "llm_explanation": "The sentence is reconstructed into subject-object-verb order, placing \"ethan\" (the object) before \"jim\" (the subject) and maintaining \"knows\" (the verb) at the end."
+    },
+    "tom sees liam.": {
+        "llm_answer": "ethan jim knows.",
+        "llm_explanation": "The sentence is reconstructed into subject-object-verb order, placing \"ethan\" (the object) before \"jim\" (the subject) and maintaining \"knows\" (the verb) at the end."
+    },
+    "mary knows ava.": {
+        "llm_answer": "ethan jim knows.",
+        "llm_explanation": "The sentence is reconstructed into subject-object-verb order, placing \"ethan\" (the object) before \"jim\" (the subject) and maintaining \"knows\" (the verb) at the end."
+    },
+    "john sees ava.": {
+        "llm_answer": "ethan jim knows.",
+        "llm_explanation": "The sentence is reconstructed into subject-object-verb order, placing \"ethan\" (the object) before \"jim\" (the subject) and maintaining \"knows\" (the verb) at the end."
+    },
+    "jim knows lucas.": {
+        "llm_answer": "ethan jim knows.",
+        "llm_explanation": "The sentence is reconstructed into subject-object-verb order, placing \"ethan\" (the object) before \"jim\" (the subject) and maintaining \"knows\" (the verb) at the end."
+    },
+    "anna sees liam.": {
+        "llm_answer": "ethan jim knows.",
+        "llm_explanation": "The sentence is reconstructed into subject-object-verb order, placing \"ethan\" (the object) before \"jim\" (the subject) and maintaining \"knows\" (the verb) at the end."
+    },
+    "alice loves mia.": {
+        "llm_answer": "ethan jim knows.",
+        "llm_explanation": "The sentence is reconstructed into subject-object-verb order, placing \"ethan\" (the object) before \"jim\" (the subject) and maintaining \"knows\" (the verb) at the end."
+    },
+    "john knows ava.": {
+        "llm_answer": "ethan jim knows.",
+        "llm_explanation": "The sentence is reconstructed into subject-object-verb order, placing \"ethan\" (the object) before \"jim\" (the subject) and maintaining \"knows\" (the verb) at the end."
+    },
+    "anna saw mia.": {
+        "llm_answer": "ethan jim knows.",
+        "llm_explanation": "The sentence is reconstructed into subject-object-verb order, placing \"ethan\" (the object) before \"jim\" (the subject) and maintaining \"knows\" (the verb) at the end."
+    },
+    "sophie saw jacob.": {
+        "llm_answer": "ethan jim knows.",
+        "llm_explanation": "The sentence is reconstructed into subject-object-verb order, placing \"ethan\" (the object) before \"jim\" (the subject) and maintaining \"knows\" (the verb) at the end."
+    },
+    "jim calls mia.": {
+        "llm_answer": "mia jim calls.",
+        "llm_explanation": "The sentence is rearranged to follow the subject-object-verb order, placing \"mia\" (the object) before \"jim\" (the subject) and then the verb \"calls\" at the end."
+    },
+    "bob saw lucas.": {
+        "llm_answer": "mia jim calls.",
+        "llm_explanation": "The sentence is rearranged to follow the subject-object-verb order, placing \"mia\" (the object) before \"jim\" (the subject) and then the verb \"calls\" at the end."
+    }
+}

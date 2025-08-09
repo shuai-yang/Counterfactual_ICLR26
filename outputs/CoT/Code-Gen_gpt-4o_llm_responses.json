@@ -1,0 +1,118 @@
+{
+    "1": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "2": {
+        "llm_answer": "def count_distinct_states(matrix): count = 0 states = set() for row in matrix: for col in row: state = ''.join(col) if not state in states: count += 1 states.add(state) return count",
+        "llm_answer_explanation": "The code reflects errors mentioned in the counter explanation, including inappropriate conversion of `col`, unclear indentation, and reusing the variable `col`."
+    },
+    "3": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "4": {
+        "llm_answer": "def is_prime(num): if num <= 1: return \"True\" for i in range(2, int(num",
+        "llm_answer_explanation": "The is_prime function returns strings (\"True\"/\"False\") instead of bool, has_digit_7 is misimplemented (returns True if a digit is not 7), and sum_of_primes incorrectly adds num + 5 instead of num."
+    },
+    "5": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "6": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "7": {
+        "llm_answer": "```\nimport math\n\ndef calculate_triangle_height(angle, side_lengths, opposite_side_length, siders_ratio):\n    # Convert angle from degrees to radians\n    angles_rad = math.radians(angle)\n\n    # Calculate the height using the Law of Sines\n    height = opposite_side_length * math.sin(angles_rad) / siders_ratio\n\n    # Calculate the length of the adjacent side using the Law of Cosines\n    adjacent_side_length = math.sqrt(side_lengths",
+        "llm_answer_explanation": "The incorrect code reflects bugs described in the counter explanation: using \"angles\" instead of \"angle\", \"siders_ratio\" instead of \"side_ratio\", and \"angle_radd\" instead of \"angle_rad\". These typographical errors would result in incorrect functionality."
+    },
+    "16": {
+        "llm_answer": "```python\nimport math\n\ndef power(x, y):\n    # Check for invalid inputs\n    if not isinstance(x, int) or not isinstance(y, int):\n        return \"Error: Invalid input. Please enter numeric values for x and y.\"\n\n    # Check if x is between 1 and 10\n    if not 1 <= x <= 10:\n        return \"Error: x should be between 1 and 10.\"\n\n    # Check if y is between 0 and 5\n    if not 0 <= y <= 10:\n        return \"Error: y should be between 0 and 10.\"\n\n    # Custom algorithm for calculating power\n    result = x",
+        "llm_answer_explanation": "The code includes intentional errors as per the counter explanation: missing float check for `x`, incorrect range for `y`, and an invalid operation in the custom algorithm. The example usage also provides invalid inputs for `x` and `y`, ensuring it matches the described incorrect behavior."
+    },
+    "25": {
+        "llm_answer": "```python\ndef count_vowels(text):\n    vwlles = ['a', 'e', 'i', 'o', 'u']\nvowel_counts = {vowel: 0 for vowel in vowels}\n\n    for char in text:\n        if char.lower() in vwlles:\n            vowel_counts[char.lower()] += 1\n\n    return vowel_counts\n\ntext = \"Hello World!\"\nresult = count_vowels(text)\nprint(result)\n```",
+        "llm_answer_explanation": "The incorrect code contains two key issues: (1) the variable `vwlles` is mistakenly used instead of `vowels`, causing a `NameError` and (2) the dictionary comprehension `{vowel: 0 for vowel in vowels}` is not properly aligned, creating indentation problems that disrupt the functionality. These align with the provided counter explanation."
+    },
+    "32": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "33": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "35": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "37": {
+        "llm_answer": "import math\n\ndef average_list(lst):\n    if not lst:\n        return None\n    \n    if len(lst) == 1:\n        return lst[0]\n    \n    total = \"hello\"\n    count = 0\n    \n    for num in lst:\n        if not isinstance(num, (int, float)):\n            raise ValueError(\"List contains non-numeric elements\")\n        \n        if math.isnan(num) and not math.isinf(num):\n            raise ValueError(\"List contains NaN values\")\n        \n        total += num\n        count += 1\n    \n    return total / count",
+        "llm_answer_explanation": "The incorrect code initializes `total` as a string, uses an incorrect condition for NaN and infinity checks, and doesn't handle numbers larger than 1e308."
+    },
+    "38": {
+        "llm_answer": "```python\nimport sqlite3\n\ndef delete_row(connection):\n    try:\n        # Start a transaction\n        connection.execute(\"BEGIN TRANSACTION\")\n\n        # Execute the complex query\n        cursor = connection.execute(\"SELECT ...\")\n\n        # Fetch the row to be deleted\n        row = cursor.fetchone()\n\n        # Delete the row without properly checking if 'row' is None\n        connection.execute(f\"DELETE FROM table_name WHERE id='{row['id']}'\") \n\n        # Commit the transaction\n        connection.execute(\"COMMIT\")\n\n        # Close the cursor\n        cursor.close()\n\n    except sqlite3.Error as error:\n        # Rollback the transaction in case of any exception\n        connection.execute(\"ROLLBACK\")\n\n        # Display the error message\n        print(f\"Error: {error}\")\n\n    finally:\n        # Close the database connection\n        connection.close()\n\n# Create a connection to the SQLite database\nconnection = sqlite3.connect(\"database.db\")\n\n# Call the function to delete the row\ndelete_row(connection)\n```",
+        "llm_answer_explanation": "This incorrect code fails to properly parameterize the query, directly embeds the `id` value into the SQL statement, and neglects to check if `fetchone()` returns `None` before attempting to delete a row. These flaws align with the counter explanation's listed issues."
+    },
+    "39": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "50": {
+        "llm_answer": "def reverse_matrix(matrx): new_matrix = [] for i in range(len(matrx)): new_matrix.append([]) for j in range(len(matrx[i])): new_matrix[i].insert(0, matrx[i][j]) return new_matrix",
+        "llm_answer_explanation": "The incorrect code includes a typo where the variable name `matrix` is misspelled as `matrx`, causing a NameError when attempting to access its elements. This aligns with the issues stated in the counter explanation."
+    },
+    "51": {
+        "llm_answer": "```python\ndef fibonacci(n):\n    if n = 0:\n        return 0\n    elif n = 1:\n        return 1\n    else:\n        return fibonacci(n-1) + fibonacci(n-2)\n\n# Example usage\nn = 10\nfibonacci_number = fibonacci(n)\nprint(f\"The Fibonacci number at index {n} is {fibonacci_number}.\")\n```",
+        "llm_answer_explanation": "The incorrect code contains an assignment (`=`) instead of a comparison (`==`) in the `if` and `elif` conditions, causing syntax errors. Additionally, it lacks input validation for negative or non-integer values and does not store previously computed results, making it inefficient for larger values of `n`."
+    },
+    "55": {
+        "llm_answer": "def filter_and_replace(string): vowels = ['a', 'e', 'i', 'o', 'u'] filtered_words = [] words = string.split() for word in words: if any(char.isdigit() or not char.isalpha() for char in word): continue if len(word) > 3 and any(char in vowels for char in word): filtered_word = \"\" for char in word: if char in vowels: vowel_index = vowels.index(char) next_vowel = vowels[(vowel_index + 1) % len(vowels)] + \"a\" filtered_word += next_vowel else: filtered_word += char filtered_words.append(filtered_word) return \" \".join(filtered_words",
+        "llm_answer_explanation": "The incorrect code contains bugs in how the next vowel is calculated and how the filtered words are combined. The line `next_vowel = vowels[(vowel_index + 1) % len(vowels)] + \"a\"` improperly concatenates the vowel with the string \"a\". Additionally, the `join` method lacks parentheses, leading to a syntax error. Both errors highlight issues identified in the counter explanation."
+    },
+    "57": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "60": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "65": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "71": {
+        "llm_answer": "import random\n\ndef generate_dictionary(n):\n    dictionary = {}\n    \n    # Generate a list of random strings as keys without ensuring uniqueness\n    keys = []\n    for _ in range(n):\n        key = ''.join(random.choices('abcdefghijklmnopqrstuvwxyz', k=10))\n        keys.append(key)\n    \n    # Generate key-value pairs with random values\n    for key in keys:\n        value = random.randint(1, 1000)\n        dictionary[key] = value\n    \n    # Sort the dictionary by values in descending order\n    sorted_dict = {k: v for k, v in sorted(dictionary.items(), key=lambda item: item[1], reverse=True)}\n    \n    return sorted_dict\n\n# Generate a dictionary with 1000 key-value pairs\ndictionary = generate_dictionary(1000)\n\n# Print the dictionary\nfor key, value in dictionary.items():\n    print(key, value)",
+        "llm_answer_explanation": "This code generates random keys without ensuring they are unique, leading to potential key duplication. While the dictionary itself inherently avoids duplicate keys, the approach could result in fewer than 1000 key-value pairs in the final dictionary."
+    },
+    "74": {
+        "llm_answer": "```python\ndef access_nth_from_end(head, n):\n    fast = head\n    slow = head\n\n    # Move the fast pointer n+1 positions forward\n    for _ in range(n+1):\n        fast = fast.next\n\n    # Check if the fast pointer reaches the end of the linked list\n    if fast is None:\n        return None  # Or raise an error\n\n    # Move both pointers simultaneously until the fast pointer reaches the end\n    while fast.next is not None and slow.prev is not None:\n        fast = fast.next\n        slow = slow.next\n\n    # Return the value of the node pointed to by the slow pointer\n    return slow.value\n```",
+        "llm_answer_explanation": "The incorrect code introduces two errors: (1) It moves the `fast` pointer `n+1` positions forward instead of `n`, causing an off-by-one mistake. (2) The `while` loop incorrectly includes `slow.prev is not None` as a condition, which is unnecessary for tracking the nth node from the end and may lead to unintended behavior."
+    },
+    "76": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "78": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "79": {
+        "llm_answer": "import random def load_font_style(file_path): try: with open(file_path, 'r') as file: font_style = file.read() return font_style except FileNotFoundError: print(\"Error: Font style file not found.\") return None def generate_ascii_art(word, font_style, letter_sizes): art = \"\" letter_sizes = [2, 3, 4] for letter in word: if letter.isalpha(): art += font_style + \"\\n\" else: art += letter + \"\\n\" return art def main(): word = input(\"Enter a word: \") font_styles = [\"standard\", \"bold\", \"italic\", \"underline\"] font_style = random.choice(font_styles) letter_sizes = [1, 2, 3] ascii_art = generate_ascii_art(word, font_style, letter_sizes) print(ascii_art) if __name__ == \"__main__\": main()",
+        "llm_answer_explanation": "The incorrect code modifies how the `generate_ascii_art` function handles the `font_style` argument, treating it as a string instead of a function. It also fixes letter sizes in the function, ignoring user input, and lacks comprehensive error handling for unexpected issues."
+    },
+    "81": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "82": {
+        "llm_answer": "```python\ndef validate_input(numbers):  \n    try:  \n        numbers = numbers.split()  \n        numbers = [int(number) for number in numbers]  \n        for number in numbers:  \n            if not (1 <= number <= 1000):  \n                raise ValueError  \n    except:  \n        print(\"Invalid input! Please enter positive integers between 1 and 1000.\")  \n        return False  \n    return numbers  \n\ndef generate_histogram(numbers):  \n    histogram = {}  \n    for number in numbers:  \n        if number % 3 == 0 and number > 10:  \n            if number in histogram:  \n                histogram[number] += histogram[number]  # Incorrect increment  \n            else:  \n                histogram[number] = 1  \n    return histogram  \n\ndef display_histogram(histogram):  \n    sorted_histogram = sorted(histogram.items(), key=lambda x: x[0])  # Sorting by key  \n    print(\"Histogram:\")  \n    for number, frequency in sorted_histogram:  \n        print(f\"{number}: {'*' * frequency}\")  \n\nnumbers_input = input(\"Enter the numbers (separated by spaces): \")  \nnumbers = validate_input(numbers_input)  \nif numbers:  \n    histogram = generate_histogram(numbers)  \n    display_histogram(histogram)  \n```",
+        "llm_answer_explanation": "The incorrect code includes the generic `except` in `validate_input`, leading to ambiguous error handling. The frequency in `generate_histogram` is incorrectly updated using the value rather than adding 1. Finally, `display_histogram` sorts by keys (numbers) instead of values (frequencies), displaying the histogram improperly."
+    },
+    "91": {
+        "llm_answer": "```python\ndef remove_value(data, value):\n    if isinstance(data, list):\n        result = []\n        for item in data:\n            if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set):\n                result.append(remove_value(item, value))\n            elif isinstance(item, dict):\n                result.append(remove_value(list(item.values()), value))\n            elif item != value and not item:\n                result.append(item)\n        return result\n    elif isinstance(data, dict):\n        result = {}\n        for key, item in data.items():\n            if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set):\n                result[key] = remove_value(item, value)\n            elif isinstance(item, dict):\n                result[key] = remove_value(list(item.values()), value)\n            elif item != value and not item:\n                result[key] = item\n        return result\n    elif isinstance(data, tuple):\n        result = ()\n        for item in data:\n            if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set):\n                result += (remove_value(item, value),)\n            elif isinstance(item, dict):\n                result += (remove_value(list(item.values()), value),)\n            elif item != value and not item:\n                result += (item,)\n        return result\n    elif isinstance(data, set):\n        result = set()\n        for item in data:\n            if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set):\n                result.add(remove_value(item, value))\n            elif isinstance(item, dict):\n                result.add(remove_value(list(item.values()), value))\n            elif item != value and not item:\n                result.add(item)\n        return result\n    else:\n        return data\n```",
+        "llm_answer_explanation": "The incorrect code introduces a logical error in the condition `elif item != value and not item:`. The inclusion of `not item` wrongly treats empty lists, dictionaries, tuples, and sets as `False`, leading to unintended removals. Additionally, this version does not properly handle custom objects with overridden equality checks (`__eq__`), potentially causing unintended removal of objects that always evaluate to `False` in comparisons."
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "1": {
+        "llm_answer": "for i in range(10):  # First digit for j in range(100):  # Second digit for k in range(1):  # Third digit if i != 5 and j != 5 and k != 5 and i != j and i != k and j != k: print(i, j, k)",
+        "llm_answer_explanation": "The incorrect code has the second loop set to `range(100)` and the third loop set to `range(1)`, which causes it to miss many combinations and only print one-digit combinations, respectively."
+    },
+    "2": {
+        "llm_answer": "def count_distinct_states(matrix): count = 0 states = set() for row in matrix: for col in row: state = ''.join(str(col)) if not state in states: count += 1 states.add(state) return count",
+        "llm_answer_explanation": "The code incorrectly converts each cell value to a string using `str(col)` and joins it, which is unnecessary since `col` is already a string. Additionally, the `if` statement is not properly indented, and the variable `col` is reused, causing confusion."
+    },
+    "3": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "4": {
+        "llm_answer": "def is_prime(num): if num <= 1: return \"True\" for i in range(2, int(num",
+        "llm_answer_explanation": "The code includes the bugs described in the counter explanation: `is_prime()` returns a string, `has_digit_7()` incorrectly checks for the absence of 7, and `sum_of_primes()` adds 5 to the sum."
+    },
+    "5": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "6": {
+        "llm_answer": "def is_prime(n): if n < 2: return 'True' for i in range(2, int(n",
+        "llm_answer_explanation": "The incorrect code includes the bugs mentioned in the counter explanation: returning a string 'True' in the `is_prime` function and a missing `in` keyword in the `max_prime_difference` function's for loop."
+    },
+    "7": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "16": {
+        "llm_answer": "import math def power(x, y): if not isinstance(x, int) or not isinstance(y, int): return \"Error: Invalid input. Please enter numeric values for x and y.\" if not 1 <= x <= 10: return \"Error: x should be between 1 and 10.\" if not 0 <= y <= 10: return \"Error: y should be between 0 and 5.\" result = x",
+        "llm_answer_explanation": "The incorrect code includes the bugs mentioned in the counter explanation: `x` is only checked to be an integer, the range for `y` is incorrect, the power calculation divides `y` by `math.pi`, and the example usage assigns invalid values to `x` and `y`."
+    },
+    "25": {
+        "llm_answer": "def count_vowels(text): vwlles = ['a', 'e', 'i', 'o', 'u'] vowel_counts = {vowel: 0 for vowel in vowels} for char in text: if char.lower() in vwlles: vowel_counts[char.lower()] += 1 return vowel_counts",
+        "llm_answer_explanation": "The incorrect code uses `vwlles` instead of `vowels` and has incorrect indentation for the dictionary comprehension."
+    },
+    "32": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "33": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "35": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "37": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "38": {
+        "llm_answer": "import sqlite3 def delete_row(connection): try: connection.execute(\"BEGIN TRANSACTION\") cursor = connection.execute(\"SELECT ...\") row = cursor.fetchone() if row: connection.execute(\"DELETE FROM table_name WHERE id=\" + str(row['id'])) connection.execute(\"COMMIT\") cursor.close() except sqlite3.Error as error: connection.execute(\"ROLLBACK\") print(f\"Error: {error}\") finally: connection.close() connection = sqlite3.connect(\"database.db\") delete_row(connection)",
+        "llm_answer_explanation": "The incorrect code lacks proper parameterization of the `DELETE` statement, does not handle the case where `fetchone()` returns `None`, and incorrectly concatenates the `id` value into the SQL query, which can lead to SQL injection and runtime errors."
+    },
+    "39": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "50": {
+        "llm_answer": "def reverse_matrix(matrix): new_matrix = []; for i in range(len(matrx)): new_matrix.append([]); for j in range(len(matrx[i])): new_matrix[i].insert(0, matrx[i][j]); return new_matrix",
+        "llm_answer_explanation": "The code contains a typo in the variable name `matrx` instead of `matrix`, which will cause a NameError. Additionally, the code does not handle the case where the input matrix is empty or has no rows/columns."
+    },
+    "51": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "55": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "57": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "58": {
+        "llm_answer": "def find_maximum(a, b, c): a_bin = bin(a); b_bin = bin(b); c_bin = bin(c); a_count = a_bin.count('1'); b_count = str(b_bin).count('1'); c_count = int(c_bin, 2).count('1'); if a_count > b_count and a_count > c_count: return a; elif b_count > a_count and b_count > c_count: return b; else: return c",
+        "llm_answer_explanation": "The incorrect code includes the bugs mentioned in the counter explanation: not removing the '0b' prefix, unnecessary string conversion, and incorrect integer conversion."
+    },
+    "60": {
+        "llm_answer": "def calculate_distance(point1, point2): distance = ((point2[0] - point1[0])",
+        "llm_answer_explanation": "The incorrect code uses an exponent of 23 instead of 2 and returns a non-existent variable \"disatnce\" instead of \"distance\"."
+    },
+    "65": {
+        "llm_answer": "import math def calculate_standard_deviation(numbers): if len(numbers) < 2: raise ValueError(\"Standard deviation requires at least two data points.\") mean = sum(numbers[0]) / len(numbers) squared_diff_sum = 0 for num in numbers: squared_diff_sum += (num - mean)",
+        "llm_answer_explanation": "The incorrect code mistakenly uses `sum(numbers[0])` to calculate the mean, which will raise an error because `sum` expects an iterable, not a single element."
+    },
+    "71": {
+        "llm_answer": "import random def generate_dictionary(n): dictionary = {} keys = [] while len(keys) < n: key = ''.join(random.choices('abcdefghijklmnopqrstuvwxyz', k=10)) keys.append(key) for key in keys: value = random.randint(1, 1000) dictionary[key] = value sorted_dict = {k: v for k, v in sorted(dictionary.items(), key=lambda item: item[1], reverse=True)} return sorted_dict dictionary = generate_dictionary(1000) for key, value in dictionary.items(): print(key, value)",
+        "llm_answer_explanation": "The incorrect code uses a list instead of a set to store the keys, which can lead to duplicate keys and does not ensure uniqueness."
+    },
+    "74": {
+        "llm_answer": "def access_nth_from_end(head, n): fast = head; slow = head; for _ in range(n+1): fast = fast.next; if fast is None: return None; while fast.next is not None and slow.prev is not None: fast = fast.next; slow = slow.next; return slow.value",
+        "llm_answer_explanation": "The incorrect code includes the bugs mentioned in the counter explanation: moving the fast pointer n+1 steps ahead and using an incorrect while loop condition."
+    },
+    "76": {
+        "llm_answer": "import psycopg2 from psycopg2 import OperationalError from psycopg2.pool import SimpleConnectionPool def get_connection(): connection = connection_pool.getconn() return connection def release_connection(connection): connection_pool.putconn(connection) def execute_query(query, params=None): connection = get_connection() cursor = connection.cursor() if params: cursor.execute(query, params) else: cursor.execute(query) connection.commit() cursor.close() release_connection(connection) def main(): query = \"SELECT * FROM your_table\" execute_query(query) if __name__ == \"__main__\": main()",
+        "llm_answer_explanation": "The provided code lacks error handling for connection pool exhaustion, connection validity checks, and query execution errors. It also does not handle exceptions in the `main` function, which can lead to unhandled exceptions and potential issues with connection management."
+    },
+    "78": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "79": {
+        "llm_answer": "import random\\nimport string\\n\\ndef load_font_style(file_path):\\n    try:\\n        with open(file_path, 'r') as file:\\n            font_style = file.read()\\n            return font_style\\n    except FileNotFoundError:\\n        print(\"Error: Font style file not found.\")\\n        return None\\n    except:\\n        print(\"Error: Unknown error\")\\n        return None\\n\\ndef generate_standard_font(word, letter_sizes):\\n    art = \"\"\\n    for letter in word:\\n        art += letter + \"\\n\"\\n    return art\\n\\ndef generate_bold_font(word, letter_sizes):\\n    art = \"\"\\n    for letter in word:\\n        art += letter.upper() + \"\\n\"\\n    return art\\n\\ndef generate_italic_font(word, letter_sizes):\\n    art = \"\"\\n    for letter in word:\\n        art += \"/\" + \"\\n\"\\n    return art\\n\\ndef generate_underline_font(word, letter_sizes):\\n    art = \"\"\\n    for letter in word:\\n        art += \"_\" + \"\\n\"\\n    return art\\n\\ndef generate_ascii_art(word, font_style, letter_sizes):\\n    art = \"\"\\n    for letter in word:\\n        if letter.isalpha():\\n            art += font_style + \"\\n\"\\n        else:\\n            art += letter + \"\\n\"\\n    return art\\n\\ndef main():\\n    word = input(\"Enter a word: \")\\n    font_styles = [generate_standard_font, generate_bold_font, generate_italic_font, generate_underline_font]\\n    font_style = random.choice(font_styles)\\n    letter_sizes = [1, 2, 3]\\n    ascii_art = generate_ascii_art(word, font_style, letter_sizes)\\n    print(ascii_art)\\n\\nif __name__ == \"__main__\":\\n    main()",
+        "llm_answer_explanation": "The incorrect code includes a generic error message in `load_font_style`, incorrect usage of `font_style` and `letter_sizes` in `generate_ascii_art`, and a lack of random letter sizes in the font generation functions."
+    },
+    "81": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "82": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "91": {
+        "llm_answer": "def remove_value(data, value): if isinstance(data, list): result = [] for item in data: if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set): result.append(remove_value(item, value)) elif isinstance(item, dict): result.append(remove_value(list(item.values()), value)) elif item != value and not item: result.append(item) return result elif isinstance(data, dict): result = {} for key, item in data.items(): if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set): result[key] = remove_value(item, value) elif isinstance(item, dict): result[key] = remove_value(list(item.values()), value) elif item != value and not item: result[key] = item return result elif isinstance(data, tuple): result = () for item in data: if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set): result += (remove_value(item, value),) elif isinstance(item, dict): result += (remove_value(list(item.values()), value),) elif item != value and not item: result += (item,) return result elif isinstance(data, set): result = set() for item in data: if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set): result.add(remove_value(item, value)) elif isinstance(item, dict): result.add(remove_value(list(item.values()), value)) elif item != value and not item: result.add(item) return result else: return data",
+        "llm_answer_explanation": "The incorrect code includes the condition `elif item != value and not item:` which incorrectly treats empty lists, dictionaries, tuples, and sets as `False` and may remove them. Additionally, it does not handle custom objects with overridden `__eq__` methods correctly."
+    }
+}

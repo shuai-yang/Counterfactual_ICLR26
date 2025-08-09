@@ -1,0 +1,218 @@
+{
+    "158956_0": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "164602_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The image ./data/COCO/real_images/164602_4_img_1.jpg does not match the Counterfactual Condition, as it displays only the man and woman brushing their teeth and taking a selfie without the presence of a dog.**"
+    },
+    "60823_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not represent the counterfactual condition of \"Some people wandering around a lot of pigeons,\" as it instead shows cows, which does not align with the intended change from the original premise.**"
+    },
+    "279714_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not depict a baseball bat in a box. Instead, it continues the original premise of the bat being in a window looking out over the street, thus failing to meet the criteria set by the counterfactual condition.**"
+    },
+    "375763_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not represent a pair of sheep as described in the Counterfactual Condition; instead, it depicts a flock of sheep, meeting the original premise but not the modified scenario of a pair.**"
+    },
+    "490171_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not represent the counterfactual condition of a man riding on a horse with a dog; instead, it could still depict a different scenario that does not match the specified change.**"
+    },
+    "474021_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not accurately represent the counterfactual condition of \"A couple of guys playing on the Nintendo Wii at a party.\" It needs to visually depict a party atmosphere, which is not evident in the new image.**"
+    },
+    "42296_0": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "414638_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image represents a white plate, not a white board, contradicting the counterfactual condition.**"
+    },
+    "430961_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not represent a football player lunging and reaching back with the ball as described in the counterfactual condition (CC), as the subject in the image is clearly identified as a baseball player, maintaining the context of the original premise rather than the counterfactual scenario.**"
+    },
+    "47801_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not accurately represent the counterfactual condition of a man with gloves on biting into a piece of cake, as the image clearly shows a man without gloves.**"
+    },
+    "239347_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not match the Counterfactual Condition, which specifies the couple lying in a field. The image likely depicts them in a different setting or context that is not consistent with the described scenario in the CC.**"
+    },
+    "109055_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not represent the counterfactual condition of a cat sitting next to a bunch of cars parked next to each other as it still depicts a cat near bicycles, not cars.**"
+    },
+    "116362_2": {
+        "llm_answer": null,
+        "llm_explanation": "The counterfactual condition specifies a tray of food, whereas the premise mentions a bowl of food. If the new image represents food in a bowl rather than a tray, it does not meet the expectations of the counterfactual condition.**"
+    },
+    "42070_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not depict a white car driving down a street. Instead, it features a white bus, which does not align with the counterfactual condition described.**"
+    },
+    "565153_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not accurately represent the counterfactual condition, as it lacks trees next to the sidewalk, which was the key change requested from the premise. The focus remains on grass and signs, consistent with the original premise but not the counterfactual condition.**"
+    },
+    "172935_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not represent a bird flying through the air on whale riding skis as described in the counterfactual condition; rather, it maintains the original context of a person flying through the air.**"
+    },
+    "348243_1": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not depict a large black dog with a long mane of hair, as described in the Counterfactual Condition. The image instead likely shows a creature that does not match the characteristics specified in the CC.**"
+    },
+    "91500_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not depict two guys playing video games on folding chairs; it features two kids instead, which does not align with the counterfactual condition provided.**"
+    },
+    "249219_1": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not represent a double-decker bus in a tropical storm, but rather a normal setting without indications of severe weather.**"
+    },
+    "460347_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not accurately represent the Counterfactual Condition (CC) since it does not feature city vehicles next to traffic cones; instead, it shows only a city bus, which is distinct from the expected change of including a broader category of city vehicles.**"
+    },
+    "383621_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not match the counterfactual caption, which describes an airplane taking off into a night sky. The image shows a day scene instead, likely in a cloudy sky, aligning more with the original premise rather than the counterfactual condition.**"
+    },
+    "401244_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not represent the counterfactual condition of a person playing frisbee in winter wear, as the attire and setting suggest summer sports attire instead.**"
+    },
+    "489091_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not represent a shower and toilet as described in the Counterfactual Condition. Instead, it still shows a vanity and a toilet, which aligns with the original premise rather than the intended scenario of depicting a shower.**"
+    },
+    "473406_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not correspond to the counterfactual condition, which describes \"a little apple sitting on a kitchen counter top next to a plate of sliced apples.\" The picture instead depicts a scene with a boy and does not feature any apple as the main subject, thus failing to represent the specified counterfactual scenario.**"
+    },
+    "462643_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not depict Donald Trump; instead, it illustrates a generic hand holding a device, failing to meet the specific counterfactual condition of being in Trump's hand as described in the caption.**"
+    },
+    "76261_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not represent the counterfactual condition of \"two birds fly in the sky over Seattle.\" Without seeing the new image, given the context, it likely does not match the specific geographical reference of Seattle which is a key aspect of the intended scenario.**"
+    },
+    "78426_1": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not depict a black cat sitting on a table; instead, it shows a different setting or situation that does not align with the counterfactual condition specified.**"
+    },
+    "359781_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not depict a giraffe in a cage, but rather appears to show the giraffe in a natural setting, similar to the original premise. Therefore, it does not accurately represent the counterfactual condition described.**"
+    },
+    "127660_2": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "455555_1": {
+        "llm_answer": "yes",
+        "llm_explanation": "The image ./data/COCO/real_images/455555_1_img_1.jpg accurately depicts a young child riding on a scooter, which aligns with the Counterfactual Condition (CC) of a child riding instead of just smiling on a scooter.**"
+    },
+    "344100_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not represent the Counterfactual Condition of a \"white plate topped with a bowl,\" as it shows something other than a bowl on the plate.**"
+    },
+    "154339_1": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image should depict a blurry image of a pipe on a pipe, but it does not meet this expectation as it does not visually represent this specific scenario based on the content of the new image.**"
+    },
+    "539143_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not accurately depict a train traveling under a rusted track. The caption of the Counterfactual Condition states \"A train traveling under a rusted track on top of tracks,\" which would imply a different orientation and structural layout than what is presented in the image. The term \"rusted bridge\" implies a bridge, while \"rusted track\" would imply the absence of a visible bridge structure in the image. Therefore, the scenarios do not correlate as per the given captions.**"
+    },
+    "106281_1": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not depict two men passing each other on the railroad tracks as described in the Counterfactual Condition. Instead, the scene remains focused on trains, maintaining the elements described in the Premise, rather than showing the switch to human figures as intended in the counterfactual scenario.**"
+    },
+    "430048_3": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not align with the counterfactual condition, which is supposed to show the reflection of a bus and traffic. Instead, it appears to depict a clock's reflection alongside traffic the same as in the premise, failing to match the expected change.**"
+    },
+    "466416_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not accurately represent the counterfactual condition of a downtown Seattle view from a high vantage point at night. Instead, it appears to depict a different urban environment that does not visually resemble known Seattle landmarks or features, which would be expected in the counterfactual scenario.**"
+    },
+    "33759_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The counterfactual condition states that the young baseball player is standing at the mound, but the image instead depicts a player at the plate, not at the mound.**"
+    },
+    "491366_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not accurately represent the counterfactual condition, which specifies \"Two people\" and assumes there should be a variation in the number or identity from the premise, which states \"Two men.\" The difference indicated in the counterfactual is not evident in the image provided.**"
+    },
+    "476704_1": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not represent a school bus; it depicts a city bus instead. The counterfactual condition specifically requests a school bus, which is not present in the new image.**"
+    },
+    "521719_1": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not depict a scenario with bird catchers as described in the Counterfactual Condition (CC). Instead, it continues to show wind catchers, which aligns with the original premise rather than the counterfactual scenario.**"
+    },
+    "193348_1": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not accurately represent the counterfactual condition of a person brushing their teeth in a bathroom, as it visually depicts a child, which deviates from the intended scenario.**"
+    },
+    "293794_1": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not represent the Counterfactual Condition (CC) because it depicts a market environment rather than a supermarket as indicated in the CC.**"
+    },
+    "295797_2": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "279278_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not represent the counterfactual condition of a \"man in a crowd of teenagers with a skateboard.\" Instead, it depicts a man in a different context that doesn't fulfill the specific condition requested in the counterfactual scenario.**"
+    },
+    "316404_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not represent the counterfactual condition of men dressed as basketball players, as it still depicts them in tennis attire which was described in the premise.**"
+    },
+    "258388_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not depict a rooftop scenario, as the counterfactual condition requires; it still shows a skateboarder performing in an indoor setting rather than on a rooftop.**"
+    },
+    "447088_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The image ./data/COCO/real_images/447088_0_img_1.jpg does not align with the Counterfactual Condition (CC), as it depicts baseball players rather than football players holding bats.**"
+    },
+    "284743_3": {
+        "llm_answer": null,
+        "llm_explanation": null
+    },
+    "560279_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not accurately represent the Counterfactual Condition (CC), as it does not depict a white toilet covered in rays of light. Instead, it likely retains elements from the original premise, which harm the intended change to light without the prismatic effects observed in the previous image focused on rainbows.**"
+    },
+    "70229_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The image ./data/COCO/real_images/70229_4_img_1.jpg does not accurately represent the Counterfactual Condition (CC) as described; rather than showing a teddy bear sitting on a table, it depicts a different scene entirely.**"
+    },
+    "262487_4": {
+        "llm_answer": "no",
+        "llm_explanation": "The image does not depict a group of men playing baseball on a boat, as described in the Counterfactual Condition (CC). Instead, it illustrates a different scenario that does not meet the requirements set forth in the CC.**"
+    },
+    "504589_2": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not represent the counterfactual condition of a couple playing Frisbee on the beach in Hawaii, as the setting and elements visible in the image do not align with the tropical or Hawaiian characteristics suggested in the counterfactual caption.**"
+    },
+    "256518_0": {
+        "llm_answer": "no",
+        "llm_explanation": "The new image does not accurately represent a breakfast sandwich. Instead of being layered like a sandwich, the food items in the image appear to be arranged separately on a plate, which is more consistent with the original premise rather than the counterfactual condition of a sandwich.**"
+    }
+}

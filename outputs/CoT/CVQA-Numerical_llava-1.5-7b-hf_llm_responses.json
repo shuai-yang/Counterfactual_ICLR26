@@ -1,0 +1,152 @@
+{
+    "COCO_val2014_000000402685.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "2",
+        "llm_answer_explanation": "The image shows a plate with broccoli and chicken on it. There are two plates in the image, and if two more plates"
+    },
+    "COCO_val2014_000000402992.jpg": {
+        "fact_answer": "10",
+        "llm_answer": "6",
+        "llm_answer_explanation": "The image shows a herd of cows in a grassy field. There are 10 cows in total, but 7 of"
+    },
+    "COCO_val2014_000000403065.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "2",
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403145.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "3",
+        "llm_answer_explanation": "The image shows a bathroom with one sink. If three more sinks were added, it would make a total of four sinks."
+    },
+    "COCO_val2014_000000403294.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "9",
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403389.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "0",
+        "llm_answer_explanation": "There is only one plate in the image, and it is not possible to determine if any plate would disappear if one were to disappear."
+    },
+    "COCO_val2014_000000403421.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "2",
+        "llm_answer_explanation": "There are two dogs in the image, and if two more dogs were present, they would also be biting onto the frisbee, making"
+    },
+    "COCO_val2014_000000403425.jpg": {
+        "fact_answer": "10",
+        "llm_answer": "7",
+        "llm_answer_explanation": "The image shows a herd of zebras in a field. There are 10 zebras in total, but if 3"
+    },
+    "COCO_val2014_000000403481.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "5",
+        "llm_answer_explanation": "The image shows a single train on the tracks. If four more trains were added, there would be a total of five trains on the tracks."
+    },
+    "COCO_val2014_000000403515.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "0",
+        "llm_answer_explanation": "The woman is carrying a handbag and a purse, so there are two bags visible in the image. If there were no bags to"
+    },
+    "COCO_val2014_000000403639.jpg": {
+        "fact_answer": "3",
+        "llm_answer": "2",
+        "llm_answer_explanation": "The image shows a bed with a cat sitting on it and three tablets placed on the bed. Two of the tablets are located close to each"
+    },
+    "COCO_val2014_000000403758.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "3",
+        "llm_answer_explanation": "The image shows a man riding a white horse down a street. There are also several other horses and people in the scene. However, there are"
+    },
+    "COCO_val2014_000000403821.jpg": {
+        "fact_answer": "10",
+        "llm_answer": "7",
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000403864.jpg": {
+        "fact_answer": "2",
+        "llm_answer": "4",
+        "llm_answer_explanation": "The train has two windshield wipers. If two more were added, it would have a total of four windshield wipers"
+    },
+    "COCO_val2014_000000403907.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "0",
+        "llm_answer_explanation": "The image shows a single red bench, and there are no other benches visible in the scene."
+    },
+    "COCO_val2014_000000403951.jpg": {
+        "fact_answer": "10",
+        "llm_answer": "5",
+        "llm_answer_explanation": "The image shows a display of fruits and vegetables, including oranges, pumpkins, and broccoli, along with several bottles."
+    },
+    "COCO_val2014_000000404071.jpg": {
+        "fact_answer": "2",
+        "llm_answer": "1",
+        "llm_answer_explanation": "The image shows a train traveling on two parallel tracks. If one track were to disappear, the train would only have one track to travel on,"
+    },
+    "COCO_val2014_000000404209.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "2",
+        "llm_answer_explanation": "There are two glasses on the table."
+    },
+    "COCO_val2014_000000404273.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "5",
+        "llm_answer_explanation": "The image shows a lone giraffe standing in a field. If 5 more giraffes came, there would be a total of"
+    },
+    "COCO_val2014_000000404338.jpg": {
+        "fact_answer": "0",
+        "llm_answer": "2",
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404373.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "0",
+        "llm_answer_explanation": "The image shows a man playing tennis, and there is no indication of any other players in the scene."
+    },
+    "COCO_val2014_000000404479.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "4",
+        "llm_answer_explanation": "The image shows a single airplane on the runway. If 4 more airplanes appeared, it would make a total of 5 air"
+    },
+    "COCO_val2014_000000404568.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "3",
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000404635.jpg": {
+        "fact_answer": "10",
+        "llm_answer": "12",
+        "llm_answer_explanation": "The image shows a herd of elephants in a grassy field. There are 10 elephants in the scene,"
+    },
+    "COCO_val2014_000000404668.jpg": {
+        "fact_answer": "10",
+        "llm_answer": "7",
+        "llm_answer_explanation": "The image contains 10 pictures, but 3 of them are duplicates. Removing these duplicates leaves 7 unique pictures."
+    },
+    "COCO_val2014_000000404702.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "3",
+        "llm_answer_explanation": "The image shows a sandy beach with a large number of teddy bears scattered around. There are at least 13 teddy bears"
+    },
+    "COCO_val2014_000000404889.jpg": {
+        "fact_answer": "1",
+        "llm_answer": "2",
+        "llm_answer_explanation": "There are two giraffes in the image, and they are both getting food from the same tree."
+    },
+    "COCO_val2014_000000404988.jpg": {
+        "fact_answer": "10",
+        "llm_answer": "5",
+        "llm_answer_explanation": "The image shows a row of 10 benches, but 5 of them are missing."
+    },
+    "COCO_val2014_000000405004.jpg": {
+        "fact_answer": "2",
+        "llm_answer": "1",
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000405104.jpg": {
+        "fact_answer": "2",
+        "llm_answer": "4",
+        "llm_answer_explanation": null
+    }
+}

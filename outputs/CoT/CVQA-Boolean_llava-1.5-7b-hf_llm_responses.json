@@ -1,0 +1,152 @@
+{
+    "COCO_val2014_000000000042.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The red sandal is present in the image, so it would not be removed if all shoes were removed."
+    },
+    "COCO_val2014_000000000873.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The image does not show any clear indication of a hospital. The presence of a clock tower and a building with a clock on it might suggest a public building, but"
+    },
+    "COCO_val2014_000000000074.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The dog has a collar, but it is not visible in the image."
+    },
+    "COCO_val2014_000000000192.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The catcher is wearing a helmet, which provides safety gear. If there were no helmets on their heads, the catcher would not be we"
+    },
+    "COCO_val2014_000000000285.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The bear is sitting on the ground, and if it kept its hind legs upright, it would not be sitting."
+    },
+    "COCO_val2014_000000000400.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The image shows a dog sitting in the boat, so there is already a dog on the blue deck. If there were a cat on the blue deck, it"
+    },
+    "COCO_val2014_000000000428.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The baby is covered in frosting, indicating that he is dirty and needs a bath. However, if he were clean all over, he would not need a bath"
+    },
+    "COCO_val2014_000000000459.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000474.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000486.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The image does not show any bicycles, so it is not possible to determine if a man parked a bicycle here."
+    },
+    "COCO_val2014_000000000520.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The bridge is not high enough to be considered a high bridge."
+    },
+    "COCO_val2014_000000000544.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The catcher is wearing blue, which is different from red."
+    },
+    "COCO_val2014_000000000636.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The lid is not up, but it would be up if the lid had been closed."
+    },
+    "COCO_val2014_000000000661.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The image shows a person holding the sandwich, so there would be a person holding the sandwich if a man were to grab this bag."
+    },
+    "COCO_val2014_000000000675.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The light is on, but it would not be on if a man pressed the light switch."
+    },
+    "COCO_val2014_000000000692.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The baby is wearing a striped outfit, while the mother is wearing a black shirt. If the baby were wearing the same clothes as his mother"
+    },
+    "COCO_val2014_000000000711.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The remote control is on the table, and it would not be on the sofa if someone moved it."
+    },
+    "COCO_val2014_000000000724.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The sky is not pure blue, it has clouds."
+    },
+    "COCO_val2014_000000000757.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The elephants are in a watering hole, which is a natural habitat for them. They would not be in the wild without water sources."
+    },
+    "COCO_val2014_000000000772.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The sheep are standing on a grassy field, but there is no grass on their mouths."
+    },
+    "COCO_val2014_000000000785.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The goggles are covering her eyes, but if she took off the glasses, the goggles would not be covering her eyes."
+    },
+    "COCO_val2014_000000000969.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The boy is bending down, so both men would not be bending down if the boy were bending down."
+    },
+    "COCO_val2014_000000001029.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000001064.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The toast is burned on the edges, but it would not be burned if there were no black on the edge of the toast."
+    },
+    "COCO_val2014_000000001083.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The cows are grazing in a lush green field, which indicates that they are healthy and not suffering from any illnesses."
+    },
+    "COCO_val2014_000000001103.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The image is black and white, so it is not a color photograph."
+    },
+    "COCO_val2014_000000001146.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The man is wearing a shirt that is not fancy, so he would not have on the appropriate shirt to wear with a tie if his clothes were fancy."
+    },
+    "COCO_val2014_000000001153.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The bananas are still in their peels, and if we could only see the pulp, they would have been peeled."
+    },
+    "COCO_val2014_000000001205.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The light is on, but it would not be glowing if it were not on."
+    },
+    "COCO_val2014_000000001270.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The spectators are engaged in the game and are not bored."
+    }
+}

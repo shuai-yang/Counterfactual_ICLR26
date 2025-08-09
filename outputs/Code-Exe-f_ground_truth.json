@@ -1,0 +1,2945 @@
+{
+    "HumanEval_0_test0": {
+        "output": "True"
+    },
+    "HumanEval_0_test1": {
+        "output": "False"
+    },
+    "HumanEval_0_test2": {
+        "output": "True"
+    },
+    "HumanEval_0_test3": {
+        "output": "False"
+    },
+    "HumanEval_0_test4": {
+        "output": "True"
+    },
+    "HumanEval_0_test5": {
+        "output": "True"
+    },
+    "HumanEval_0_test6": {
+        "output": "False"
+    },
+    "HumanEval_2_test0": {
+        "output": "0.5"
+    },
+    "HumanEval_3_test0": {
+        "output": "False"
+    },
+    "HumanEval_3_test1": {
+        "output": "False"
+    },
+    "HumanEval_3_test2": {
+        "output": "True"
+    },
+    "HumanEval_3_test3": {
+        "output": "False"
+    },
+    "HumanEval_3_test4": {
+        "output": "True"
+    },
+    "HumanEval_3_test5": {
+        "output": "True"
+    },
+    "HumanEval_5_test0": {
+        "output": "[]"
+    },
+    "HumanEval_5_test1": {
+        "output": "[5, 8, 6, 8, 3, 8, 2]"
+    },
+    "HumanEval_5_test2": {
+        "output": "[2, 2, 2, 2, 2]"
+    },
+    "HumanEval_7_test0": {
+        "output": "[]"
+    },
+    "HumanEval_7_test1": {
+        "output": "['xxx', 'xxxAAA', 'xxx']"
+    },
+    "HumanEval_7_test2": {
+        "output": "['xxx', 'aaaxxy', 'xxxAAA', 'xxx']"
+    },
+    "HumanEval_7_test3": {
+        "output": "['grunt', 'prune']"
+    },
+    "HumanEval_8_test0": {
+        "output": "(0, 1"
+    },
+    "HumanEval_8_test1": {
+        "output": "(3, 1"
+    },
+    "HumanEval_8_test2": {
+        "output": "(100, 0"
+    },
+    "HumanEval_8_test3": {
+        "output": "(3 + 5 + 7, 3 * 5 * 7"
+    },
+    "HumanEval_8_test4": {
+        "output": "(10, 10"
+    },
+    "HumanEval_9_test0": {
+        "output": "[]"
+    },
+    "HumanEval_9_test1": {
+        "output": "[1, 2, 3, 4]"
+    },
+    "HumanEval_9_test2": {
+        "output": "[4, 4, 4, 4]"
+    },
+    "HumanEval_9_test3": {
+        "output": "[3, 3, 3, 100, 100]"
+    },
+    "HumanEval_10_test0": {
+        "output": "''"
+    },
+    "HumanEval_10_test1": {
+        "output": "'x'"
+    },
+    "HumanEval_10_test2": {
+        "output": "'xyzyx'"
+    },
+    "HumanEval_10_test3": {
+        "output": "'xyx'"
+    },
+    "HumanEval_10_test4": {
+        "output": "'jerryrrej'"
+    },
+    "HumanEval_11_test0": {
+        "output": "'010010'"
+    },
+    "HumanEval_11_test1": {
+        "output": "'0'"
+    },
+    "HumanEval_11_test2": {
+        "output": "'0101'"
+    },
+    "HumanEval_12_test0": {
+        "output": "None"
+    },
+    "HumanEval_12_test1": {
+        "output": "'x'"
+    },
+    "HumanEval_12_test2": {
+        "output": "'zzzz'"
+    },
+    "HumanEval_13_test0": {
+        "output": "1"
+    },
+    "HumanEval_13_test1": {
+        "output": "5"
+    },
+    "HumanEval_13_test2": {
+        "output": "7"
+    },
+    "HumanEval_13_test3": {
+        "output": "12"
+    },
+    "HumanEval_14_test0": {
+        "output": "[]"
+    },
+    "HumanEval_14_test1": {
+        "output": "['a', 'as', 'asd', 'asdf', 'asdfg', 'asdfgh']"
+    },
+    "HumanEval_14_test2": {
+        "output": "['W', 'WW', 'WWW']"
+    },
+    "HumanEval_15_test0": {
+        "output": "'0'"
+    },
+    "HumanEval_15_test1": {
+        "output": "'0 1 2 3'"
+    },
+    "HumanEval_15_test2": {
+        "output": "'0 1 2 3 4 5 6 7 8 9 10'"
+    },
+    "HumanEval_16_test0": {
+        "output": "0"
+    },
+    "HumanEval_16_test1": {
+        "output": "5"
+    },
+    "HumanEval_16_test2": {
+        "output": "5"
+    },
+    "HumanEval_16_test3": {
+        "output": "1"
+    },
+    "HumanEval_16_test4": {
+        "output": "5"
+    },
+    "HumanEval_17_test0": {
+        "output": "[]"
+    },
+    "HumanEval_17_test1": {
+        "output": "[4, 4, 4, 4]"
+    },
+    "HumanEval_17_test2": {
+        "output": "[1, 1, 1, 1]"
+    },
+    "HumanEval_17_test3": {
+        "output": "[2, 2, 1, 1, 4, 4, 4, 4]"
+    },
+    "HumanEval_17_test4": {
+        "output": "[2, 1, 2, 1, 4, 2, 4, 2]"
+    },
+    "HumanEval_18_test0": {
+        "output": "0"
+    },
+    "HumanEval_18_test1": {
+        "output": "4"
+    },
+    "HumanEval_18_test2": {
+        "output": "4"
+    },
+    "HumanEval_18_test3": {
+        "output": "1"
+    },
+    "HumanEval_19_test0": {
+        "output": "''"
+    },
+    "HumanEval_19_test1": {
+        "output": "'three'"
+    },
+    "HumanEval_19_test2": {
+        "output": "'three five nine'"
+    },
+    "HumanEval_19_test3": {
+        "output": "'zero four five seven eight nine'"
+    },
+    "HumanEval_19_test4": {
+        "output": "'zero one two three four five six'"
+    },
+    "HumanEval_20_test0": {
+        "output": "(3.9, 4.0"
+    },
+    "HumanEval_20_test1": {
+        "output": "(5.0, 5.9"
+    },
+    "HumanEval_20_test2": {
+        "output": "(2.0, 2.2"
+    },
+    "HumanEval_20_test3": {
+        "output": "(2.0, 2.0"
+    },
+    "HumanEval_20_test4": {
+        "output": "(2.2, 3.1"
+    },
+    "HumanEval_21_test0": {
+        "output": "[0.0, 1.0]"
+    },
+    "HumanEval_21_test1": {
+        "output": "[1.0, 0.0]"
+    },
+    "HumanEval_21_test2": {
+        "output": "[0.0, 0.25, 0.5, 0.75, 1.0]"
+    },
+    "HumanEval_21_test3": {
+        "output": "[0.25, 0.0, 1.0, 0.5, 0.75]"
+    },
+    "HumanEval_21_test4": {
+        "output": "[0.25, 0.0, 1.0, 0.5, 0.75]"
+    },
+    "HumanEval_22_test0": {
+        "output": "[]"
+    },
+    "HumanEval_22_test1": {
+        "output": "[4, 9]"
+    },
+    "HumanEval_22_test2": {
+        "output": "[3, 3, 3]"
+    },
+    "HumanEval_23_test0": {
+        "output": "0"
+    },
+    "HumanEval_23_test1": {
+        "output": "1"
+    },
+    "HumanEval_23_test2": {
+        "output": "9"
+    },
+    "HumanEval_24_test0": {
+        "output": "1"
+    },
+    "HumanEval_24_test1": {
+        "output": "1"
+    },
+    "HumanEval_24_test2": {
+        "output": "5"
+    },
+    "HumanEval_24_test3": {
+        "output": "50"
+    },
+    "HumanEval_24_test4": {
+        "output": "7"
+    },
+    "HumanEval_25_test0": {
+        "output": "[2]"
+    },
+    "HumanEval_25_test1": {
+        "output": "[2, 2]"
+    },
+    "HumanEval_25_test2": {
+        "output": "[2, 2, 2]"
+    },
+    "HumanEval_25_test3": {
+        "output": "[3, 19]"
+    },
+    "HumanEval_25_test4": {
+        "output": "[3, 3, 19, 19]"
+    },
+    "HumanEval_25_test5": {
+        "output": "[3, 3, 3, 19, 19, 19]"
+    },
+    "HumanEval_25_test6": {
+        "output": "[3, 19, 19, 19]"
+    },
+    "HumanEval_25_test7": {
+        "output": "[2, 3, 3]"
+    },
+    "HumanEval_26_test0": {
+        "output": "[]"
+    },
+    "HumanEval_26_test1": {
+        "output": "[1, 2, 3, 4]"
+    },
+    "HumanEval_26_test2": {
+        "output": "[1, 4, 5]"
+    },
+    "HumanEval_27_test0": {
+        "output": "''"
+    },
+    "HumanEval_27_test1": {
+        "output": "'hELLO!'"
+    },
+    "HumanEval_27_test2": {
+        "output": "'tHESE VIOLENT DELIGHTS HAVE VIOLENT ENDS'"
+    },
+    "HumanEval_28_test0": {
+        "output": "''"
+    },
+    "HumanEval_28_test1": {
+        "output": "'xyz'"
+    },
+    "HumanEval_28_test2": {
+        "output": "'xyzwk'"
+    },
+    "HumanEval_29_test0": {
+        "output": "[]"
+    },
+    "HumanEval_29_test1": {
+        "output": "['xxx', 'xxxAAA', 'xxx']"
+    },
+    "HumanEval_30_test0": {
+        "output": "[4, 5, 6]"
+    },
+    "HumanEval_30_test1": {
+        "output": "[5, 3, 2, 3, 3, 9, 123, 1]"
+    },
+    "HumanEval_30_test2": {
+        "output": "[]"
+    },
+    "HumanEval_30_test3": {
+        "output": "[]"
+    },
+    "HumanEval_31_test0": {
+        "output": "False"
+    },
+    "HumanEval_31_test1": {
+        "output": "True"
+    },
+    "HumanEval_31_test2": {
+        "output": "True"
+    },
+    "HumanEval_31_test3": {
+        "output": "True"
+    },
+    "HumanEval_31_test4": {
+        "output": "True"
+    },
+    "HumanEval_31_test5": {
+        "output": "False"
+    },
+    "HumanEval_31_test6": {
+        "output": "False"
+    },
+    "HumanEval_31_test7": {
+        "output": "True"
+    },
+    "HumanEval_31_test8": {
+        "output": "True"
+    },
+    "HumanEval_31_test9": {
+        "output": "True"
+    },
+    "HumanEval_31_test10": {
+        "output": "False"
+    },
+    "HumanEval_31_test11": {
+        "output": "False"
+    },
+    "HumanEval_31_test12": {
+        "output": "False"
+    },
+    "HumanEval_34_test0": {
+        "output": "[0, 2, 3, 5, 9, 123]"
+    },
+    "HumanEval_35_test0": {
+        "output": "3"
+    },
+    "HumanEval_35_test1": {
+        "output": "124"
+    },
+    "HumanEval_36_test0": {
+        "output": "0"
+    },
+    "HumanEval_36_test1": {
+        "output": "2"
+    },
+    "HumanEval_36_test2": {
+        "output": "3"
+    },
+    "HumanEval_36_test3": {
+        "output": "3"
+    },
+    "HumanEval_36_test4": {
+        "output": "6"
+    },
+    "HumanEval_36_test5": {
+        "output": "192"
+    },
+    "HumanEval_36_test6": {
+        "output": "639"
+    },
+    "HumanEval_36_test7": {
+        "output": "8026"
+    },
+    "HumanEval_39_test0": {
+        "output": "2"
+    },
+    "HumanEval_39_test1": {
+        "output": "3"
+    },
+    "HumanEval_39_test2": {
+        "output": "5"
+    },
+    "HumanEval_39_test3": {
+        "output": "13"
+    },
+    "HumanEval_39_test4": {
+        "output": "89"
+    },
+    "HumanEval_39_test5": {
+        "output": "233"
+    },
+    "HumanEval_39_test6": {
+        "output": "1597"
+    },
+    "HumanEval_39_test7": {
+        "output": "28657"
+    },
+    "HumanEval_39_test8": {
+        "output": "514229"
+    },
+    "HumanEval_39_test9": {
+        "output": "433494437"
+    },
+    "HumanEval_40_test0": {
+        "output": "False"
+    },
+    "HumanEval_40_test1": {
+        "output": "False"
+    },
+    "HumanEval_40_test2": {
+        "output": "True"
+    },
+    "HumanEval_40_test3": {
+        "output": "False"
+    },
+    "HumanEval_40_test4": {
+        "output": "False"
+    },
+    "HumanEval_40_test5": {
+        "output": "True"
+    },
+    "HumanEval_40_test6": {
+        "output": "False"
+    },
+    "HumanEval_40_test7": {
+        "output": "False"
+    },
+    "HumanEval_40_test8": {
+        "output": "False"
+    },
+    "HumanEval_41_test0": {
+        "output": "4"
+    },
+    "HumanEval_41_test1": {
+        "output": "9"
+    },
+    "HumanEval_41_test2": {
+        "output": "16"
+    },
+    "HumanEval_41_test3": {
+        "output": "64"
+    },
+    "HumanEval_41_test4": {
+        "output": "100"
+    },
+    "HumanEval_42_test0": {
+        "output": "[]"
+    },
+    "HumanEval_42_test1": {
+        "output": "[4, 3, 2]"
+    },
+    "HumanEval_42_test2": {
+        "output": "[6, 3, 6, 3, 4, 4, 10, 1, 124]"
+    },
+    "HumanEval_43_test0": {
+        "output": "False"
+    },
+    "HumanEval_43_test1": {
+        "output": "False"
+    },
+    "HumanEval_43_test2": {
+        "output": "False"
+    },
+    "HumanEval_43_test3": {
+        "output": "True"
+    },
+    "HumanEval_43_test4": {
+        "output": "False"
+    },
+    "HumanEval_43_test5": {
+        "output": "True"
+    },
+    "HumanEval_43_test6": {
+        "output": "True"
+    },
+    "HumanEval_43_test7": {
+        "output": "False"
+    },
+    "HumanEval_43_test8": {
+        "output": "False"
+    },
+    "HumanEval_44_test0": {
+        "output": "\"22\""
+    },
+    "HumanEval_44_test1": {
+        "output": "\"100\""
+    },
+    "HumanEval_44_test2": {
+        "output": "\"11101010\""
+    },
+    "HumanEval_44_test3": {
+        "output": "\"10000\""
+    },
+    "HumanEval_44_test4": {
+        "output": "\"1000\""
+    },
+    "HumanEval_44_test5": {
+        "output": "\"111\""
+    },
+    "HumanEval_44_test6": {
+        "output": "\"2\""
+    },
+    "HumanEval_44_test7": {
+        "output": "\"3\""
+    },
+    "HumanEval_44_test8": {
+        "output": "\"4\""
+    },
+    "HumanEval_44_test9": {
+        "output": "\"5\""
+    },
+    "HumanEval_44_test10": {
+        "output": "\"6\""
+    },
+    "HumanEval_44_test11": {
+        "output": "\"7\""
+    },
+    "HumanEval_45_test0": {
+        "output": "7.5"
+    },
+    "HumanEval_45_test1": {
+        "output": "2.0"
+    },
+    "HumanEval_45_test2": {
+        "output": "40.0"
+    },
+    "HumanEval_46_test0": {
+        "output": "4"
+    },
+    "HumanEval_46_test1": {
+        "output": "28"
+    },
+    "HumanEval_46_test2": {
+        "output": "104"
+    },
+    "HumanEval_46_test3": {
+        "output": "386"
+    },
+    "HumanEval_47_test0": {
+        "output": "3"
+    },
+    "HumanEval_47_test1": {
+        "output": "8.0"
+    },
+    "HumanEval_47_test2": {
+        "output": "5"
+    },
+    "HumanEval_47_test3": {
+        "output": "5.5"
+    },
+    "HumanEval_47_test4": {
+        "output": "7"
+    },
+    "HumanEval_48_test0": {
+        "output": "True"
+    },
+    "HumanEval_48_test1": {
+        "output": "True"
+    },
+    "HumanEval_48_test2": {
+        "output": "True"
+    },
+    "HumanEval_48_test3": {
+        "output": "False"
+    },
+    "HumanEval_48_test4": {
+        "output": "True"
+    },
+    "HumanEval_48_test5": {
+        "output": "False"
+    },
+    "HumanEval_48_test6": {
+        "output": "False"
+    },
+    "HumanEval_49_test0": {
+        "output": "3"
+    },
+    "HumanEval_49_test1": {
+        "output": "2"
+    },
+    "HumanEval_49_test2": {
+        "output": "1"
+    },
+    "HumanEval_49_test3": {
+        "output": "8"
+    },
+    "HumanEval_49_test4": {
+        "output": "1"
+    },
+    "HumanEval_49_test5": {
+        "output": "4"
+    },
+    "HumanEval_49_test6": {
+        "output": "3"
+    },
+    "HumanEval_51_test0": {
+        "output": "''"
+    },
+    "HumanEval_51_test1": {
+        "output": "'bcdf\\nghjklm'"
+    },
+    "HumanEval_51_test2": {
+        "output": "'fdcb'"
+    },
+    "HumanEval_51_test3": {
+        "output": "''"
+    },
+    "HumanEval_51_test4": {
+        "output": "'cB'"
+    },
+    "HumanEval_51_test5": {
+        "output": "'cB'"
+    },
+    "HumanEval_51_test6": {
+        "output": "'ybcd'"
+    },
+    "HumanEval_53_test0": {
+        "output": "1"
+    },
+    "HumanEval_53_test1": {
+        "output": "1"
+    },
+    "HumanEval_53_test2": {
+        "output": "5"
+    },
+    "HumanEval_53_test3": {
+        "output": "12"
+    },
+    "HumanEval_53_test4": {
+        "output": "12"
+    },
+    "HumanEval_54_test0": {
+        "output": "True"
+    },
+    "HumanEval_54_test1": {
+        "output": "True"
+    },
+    "HumanEval_54_test2": {
+        "output": "True"
+    },
+    "HumanEval_54_test3": {
+        "output": "False"
+    },
+    "HumanEval_54_test4": {
+        "output": "False"
+    },
+    "HumanEval_54_test5": {
+        "output": "False"
+    },
+    "HumanEval_54_test6": {
+        "output": "False"
+    },
+    "HumanEval_55_test0": {
+        "output": "55"
+    },
+    "HumanEval_55_test1": {
+        "output": "1"
+    },
+    "HumanEval_55_test2": {
+        "output": "21"
+    },
+    "HumanEval_55_test3": {
+        "output": "89"
+    },
+    "HumanEval_55_test4": {
+        "output": "144"
+    },
+    "HumanEval_57_test0": {
+        "output": "True"
+    },
+    "HumanEval_57_test1": {
+        "output": "True"
+    },
+    "HumanEval_57_test2": {
+        "output": "False"
+    },
+    "HumanEval_57_test3": {
+        "output": "True"
+    },
+    "HumanEval_57_test4": {
+        "output": "True"
+    },
+    "HumanEval_57_test5": {
+        "output": "False"
+    },
+    "HumanEval_57_test6": {
+        "output": "True"
+    },
+    "HumanEval_57_test7": {
+        "output": "True"
+    },
+    "HumanEval_58_test0": {
+        "output": "[1, 5, 653]"
+    },
+    "HumanEval_58_test1": {
+        "output": "[2, 3]"
+    },
+    "HumanEval_58_test2": {
+        "output": "[2, 3, 4]"
+    },
+    "HumanEval_58_test3": {
+        "output": "[]"
+    },
+    "HumanEval_59_test0": {
+        "output": "5"
+    },
+    "HumanEval_59_test1": {
+        "output": "3"
+    },
+    "HumanEval_59_test2": {
+        "output": "7"
+    },
+    "HumanEval_59_test3": {
+        "output": "11"
+    },
+    "HumanEval_59_test4": {
+        "output": "29"
+    },
+    "HumanEval_60_test0": {
+        "output": "1"
+    },
+    "HumanEval_60_test1": {
+        "output": "21"
+    },
+    "HumanEval_60_test2": {
+        "output": "66"
+    },
+    "HumanEval_60_test3": {
+        "output": "465"
+    },
+    "HumanEval_60_test4": {
+        "output": "5050"
+    },
+    "HumanEval_62_test0": {
+        "output": "[1, 4, 12, 20]"
+    },
+    "HumanEval_62_test1": {
+        "output": "[2, 6]"
+    },
+    "HumanEval_62_test2": {
+        "output": "[2, 2]"
+    },
+    "HumanEval_62_test3": {
+        "output": "[2, 2, 0, 16]"
+    },
+    "HumanEval_62_test4": {
+        "output": "[]"
+    },
+    "HumanEval_63_test0": {
+        "output": "1"
+    },
+    "HumanEval_63_test1": {
+        "output": "0"
+    },
+    "HumanEval_63_test2": {
+        "output": "4"
+    },
+    "HumanEval_63_test3": {
+        "output": "24"
+    },
+    "HumanEval_63_test4": {
+        "output": "81"
+    },
+    "HumanEval_63_test5": {
+        "output": "274"
+    },
+    "HumanEval_63_test6": {
+        "output": "927"
+    },
+    "HumanEval_64_test0": {
+        "output": "2, \"Test 1\""
+    },
+    "HumanEval_64_test1": {
+        "output": "3, \"Test 2\""
+    },
+    "HumanEval_64_test2": {
+        "output": "2, \"Test 3\""
+    },
+    "HumanEval_64_test3": {
+        "output": "1, \"Test 4\""
+    },
+    "HumanEval_64_test4": {
+        "output": "2, \"Test 5\""
+    },
+    "HumanEval_64_test5": {
+        "output": "1, \"Test 6\""
+    },
+    "HumanEval_64_test6": {
+        "output": "3, \"Test 7\""
+    },
+    "HumanEval_65_test0": {
+        "output": "\"001\""
+    },
+    "HumanEval_65_test1": {
+        "output": "\"12\""
+    },
+    "HumanEval_65_test2": {
+        "output": "\"79\""
+    },
+    "HumanEval_65_test3": {
+        "output": "\"21\", \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_65_test4": {
+        "output": "\"11\", \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_66_test0": {
+        "output": "0, \"Error\""
+    },
+    "HumanEval_66_test1": {
+        "output": "131, \"Error\""
+    },
+    "HumanEval_66_test2": {
+        "output": "67, \"Error\""
+    },
+    "HumanEval_66_test3": {
+        "output": "69, \"Error\""
+    },
+    "HumanEval_66_test4": {
+        "output": "131, \"Error\""
+    },
+    "HumanEval_66_test5": {
+        "output": "153, \"Error\""
+    },
+    "HumanEval_66_test6": {
+        "output": "151, \"Error\""
+    },
+    "HumanEval_66_test7": {
+        "output": "327, \"Error\""
+    },
+    "HumanEval_67_test0": {
+        "output": "8"
+    },
+    "HumanEval_67_test1": {
+        "output": "10"
+    },
+    "HumanEval_67_test2": {
+        "output": "2"
+    },
+    "HumanEval_67_test3": {
+        "output": "2"
+    },
+    "HumanEval_67_test4": {
+        "output": "95"
+    },
+    "HumanEval_67_test5": {
+        "output": "0"
+    },
+    "HumanEval_67_test6": {
+        "output": "19"
+    },
+    "HumanEval_68_test0": {
+        "output": "[2, 1], \"Error\""
+    },
+    "HumanEval_68_test1": {
+        "output": "[2, 1], \"Error\""
+    },
+    "HumanEval_68_test2": {
+        "output": "[], \"Error\""
+    },
+    "HumanEval_68_test3": {
+        "output": "[0, 1], \"Error\""
+    },
+    "HumanEval_68_test4": {
+        "output": "[0, 3], \"Error\""
+    },
+    "HumanEval_68_test5": {
+        "output": "[4, 1], \"Error\""
+    },
+    "HumanEval_68_test6": {
+        "output": "[6, 1], \"Error\""
+    },
+    "HumanEval_68_test7": {
+        "output": "[], \"Error\""
+    },
+    "HumanEval_69_test0": {
+        "output": "1"
+    },
+    "HumanEval_69_test1": {
+        "output": "4"
+    },
+    "HumanEval_69_test2": {
+        "output": "-1"
+    },
+    "HumanEval_69_test3": {
+        "output": "8"
+    },
+    "HumanEval_69_test4": {
+        "output": "2"
+    },
+    "HumanEval_69_test5": {
+        "output": "1"
+    },
+    "HumanEval_69_test6": {
+        "output": "2"
+    },
+    "HumanEval_69_test7": {
+        "output": "1"
+    },
+    "HumanEval_69_test8": {
+        "output": "-1"
+    },
+    "HumanEval_69_test9": {
+        "output": "1"
+    },
+    "HumanEval_69_test10": {
+        "output": "1"
+    },
+    "HumanEval_69_test11": {
+        "output": "5"
+    },
+    "HumanEval_69_test12": {
+        "output": "1"
+    },
+    "HumanEval_69_test13": {
+        "output": "4"
+    },
+    "HumanEval_69_test14": {
+        "output": "2"
+    },
+    "HumanEval_69_test15": {
+        "output": "1"
+    },
+    "HumanEval_69_test16": {
+        "output": "4"
+    },
+    "HumanEval_69_test17": {
+        "output": "4"
+    },
+    "HumanEval_69_test18": {
+        "output": "2"
+    },
+    "HumanEval_69_test19": {
+        "output": "-1"
+    },
+    "HumanEval_69_test20": {
+        "output": "-1"
+    },
+    "HumanEval_69_test21": {
+        "output": "2"
+    },
+    "HumanEval_69_test22": {
+        "output": "1"
+    },
+    "HumanEval_69_test23": {
+        "output": "1"
+    },
+    "HumanEval_69_test24": {
+        "output": "-1"
+    },
+    "HumanEval_70_test0": {
+        "output": "[1, 4, 2, 3]"
+    },
+    "HumanEval_70_test1": {
+        "output": "[5, 9, 6, 8, 7]"
+    },
+    "HumanEval_70_test2": {
+        "output": "[1, 5, 2, 4, 3]"
+    },
+    "HumanEval_70_test3": {
+        "output": "[1, 9, 5, 8, 6, 7]"
+    },
+    "HumanEval_70_test4": {
+        "output": "[5, 5, 5, 5]"
+    },
+    "HumanEval_70_test5": {
+        "output": "[]"
+    },
+    "HumanEval_70_test6": {
+        "output": "[1, 8, 2, 7, 3, 6, 4, 5]"
+    },
+    "HumanEval_70_test7": {
+        "output": "[-5, 5, -5, 5, 0, 2, 2, 2]"
+    },
+    "HumanEval_70_test8": {
+        "output": "[111111]"
+    },
+    "HumanEval_71_test0": {
+        "output": "6.00, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_71_test1": {
+        "output": "-1"
+    },
+    "HumanEval_71_test2": {
+        "output": "8.18"
+    },
+    "HumanEval_71_test3": {
+        "output": "1.73"
+    },
+    "HumanEval_71_test4": {
+        "output": "-1"
+    },
+    "HumanEval_71_test5": {
+        "output": "16.25"
+    },
+    "HumanEval_71_test6": {
+        "output": "-1"
+    },
+    "HumanEval_71_test7": {
+        "output": "0.43, \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_71_test8": {
+        "output": "-1"
+    },
+    "HumanEval_73_test0": {
+        "output": "4"
+    },
+    "HumanEval_73_test1": {
+        "output": "1"
+    },
+    "HumanEval_73_test2": {
+        "output": "1"
+    },
+    "HumanEval_73_test3": {
+        "output": "1"
+    },
+    "HumanEval_73_test4": {
+        "output": "0"
+    },
+    "HumanEval_73_test5": {
+        "output": "0"
+    },
+    "HumanEval_73_test6": {
+        "output": "0"
+    },
+    "HumanEval_73_test7": {
+        "output": "1"
+    },
+    "HumanEval_74_test0": {
+        "output": "[]"
+    },
+    "HumanEval_74_test1": {
+        "output": "['hi', 'hi']"
+    },
+    "HumanEval_74_test2": {
+        "output": "['hi', 'admin']"
+    },
+    "HumanEval_74_test3": {
+        "output": "['4']"
+    },
+    "HumanEval_74_test4": {
+        "output": "['hI', 'Hi']"
+    },
+    "HumanEval_74_test5": {
+        "output": "['hI', 'hi', 'hi']"
+    },
+    "HumanEval_74_test6": {
+        "output": "['hi', 'admin']"
+    },
+    "HumanEval_74_test7": {
+        "output": "[]"
+    },
+    "HumanEval_74_test8": {
+        "output": "[]"
+    },
+    "HumanEval_75_test0": {
+        "output": "False"
+    },
+    "HumanEval_75_test1": {
+        "output": "True"
+    },
+    "HumanEval_75_test2": {
+        "output": "True"
+    },
+    "HumanEval_75_test3": {
+        "output": "False"
+    },
+    "HumanEval_75_test4": {
+        "output": "True"
+    },
+    "HumanEval_75_test5": {
+        "output": "True"
+    },
+    "HumanEval_75_test6": {
+        "output": "False"
+    },
+    "HumanEval_75_test7": {
+        "output": "False"
+    },
+    "HumanEval_75_test8": {
+        "output": "False"
+    },
+    "HumanEval_75_test9": {
+        "output": "True"
+    },
+    "HumanEval_77_test0": {
+        "output": "True, \"First test error: \" + str(candidate(1"
+    },
+    "HumanEval_77_test1": {
+        "output": "False, \"Second test error: \" + str(candidate(2"
+    },
+    "HumanEval_77_test2": {
+        "output": "True, \"Third test error: \" + str(candidate(-1"
+    },
+    "HumanEval_77_test3": {
+        "output": "True, \"Fourth test error: \" + str(candidate(64"
+    },
+    "HumanEval_77_test4": {
+        "output": "False, \"Fifth test error: \" + str(candidate(180"
+    },
+    "HumanEval_77_test5": {
+        "output": "True, \"Sixth test error: \" + str(candidate(1000"
+    },
+    "HumanEval_77_test6": {
+        "output": "True, \"1st edge test error: \" + str(candidate(0"
+    },
+    "HumanEval_77_test7": {
+        "output": "False, \"2nd edge test error: \" + str(candidate(1728"
+    },
+    "HumanEval_78_test0": {
+        "output": "1, \"First test error: \" + str(candidate(\"AB\""
+    },
+    "HumanEval_78_test1": {
+        "output": "2, \"Second test error: \" + str(candidate(\"1077E\""
+    },
+    "HumanEval_78_test2": {
+        "output": "4, \"Third test error: \" + str(candidate(\"ABED1A33\""
+    },
+    "HumanEval_78_test3": {
+        "output": "2, \"Fourth test error: \" + str(candidate(\"2020\""
+    },
+    "HumanEval_78_test4": {
+        "output": "6, \"Fifth test error: \" + str(candidate(\"123456789ABCDEF0\""
+    },
+    "HumanEval_78_test5": {
+        "output": "12, \"Sixth test error: \" + str(candidate(\"112233445566778899AABBCCDDEEFF00\""
+    },
+    "HumanEval_78_test6": {
+        "output": "0"
+    },
+    "HumanEval_79_test0": {
+        "output": "\"db0db\""
+    },
+    "HumanEval_79_test1": {
+        "output": "\"db100000db\""
+    },
+    "HumanEval_79_test2": {
+        "output": "\"db1100111db\""
+    },
+    "HumanEval_79_test3": {
+        "output": "\"db1111db\", \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_80_test0": {
+        "output": "False , \"a\""
+    },
+    "HumanEval_80_test1": {
+        "output": "False , \"aa\""
+    },
+    "HumanEval_80_test2": {
+        "output": "True , \"abcd\""
+    },
+    "HumanEval_80_test3": {
+        "output": "False , \"aabb\""
+    },
+    "HumanEval_80_test4": {
+        "output": "True , \"adb\""
+    },
+    "HumanEval_80_test5": {
+        "output": "False , \"xyy\""
+    },
+    "HumanEval_80_test6": {
+        "output": "True , \"iopaxpoi\""
+    },
+    "HumanEval_80_test7": {
+        "output": "False , \"iopaxioi\""
+    },
+    "HumanEval_81_test0": {
+        "output": "['A+', 'B', 'C-', 'C', 'A-']"
+    },
+    "HumanEval_81_test1": {
+        "output": "['D+']"
+    },
+    "HumanEval_81_test2": {
+        "output": "['D-']"
+    },
+    "HumanEval_81_test3": {
+        "output": "['E']"
+    },
+    "HumanEval_81_test4": {
+        "output": "['D', 'D-', 'C-', 'B', 'B+']"
+    },
+    "HumanEval_81_test5": {
+        "output": "['E', 'D-']"
+    },
+    "HumanEval_82_test0": {
+        "output": "True"
+    },
+    "HumanEval_82_test1": {
+        "output": "True"
+    },
+    "HumanEval_82_test2": {
+        "output": "True"
+    },
+    "HumanEval_82_test3": {
+        "output": "False"
+    },
+    "HumanEval_82_test4": {
+        "output": "True"
+    },
+    "HumanEval_82_test5": {
+        "output": "True"
+    },
+    "HumanEval_82_test6": {
+        "output": "True"
+    },
+    "HumanEval_82_test7": {
+        "output": "True"
+    },
+    "HumanEval_82_test8": {
+        "output": "False"
+    },
+    "HumanEval_82_test9": {
+        "output": "True"
+    },
+    "HumanEval_82_test10": {
+        "output": "True"
+    },
+    "HumanEval_82_test11": {
+        "output": "False"
+    },
+    "HumanEval_82_test12": {
+        "output": "False"
+    },
+    "HumanEval_82_test13": {
+        "output": "True"
+    },
+    "HumanEval_82_test14": {
+        "output": "False"
+    },
+    "HumanEval_82_test15": {
+        "output": "False"
+    },
+    "HumanEval_83_test0": {
+        "output": "1"
+    },
+    "HumanEval_83_test1": {
+        "output": "18"
+    },
+    "HumanEval_83_test2": {
+        "output": "180"
+    },
+    "HumanEval_83_test3": {
+        "output": "1800"
+    },
+    "HumanEval_83_test4": {
+        "output": "18000"
+    },
+    "HumanEval_84_test0": {
+        "output": "\"1\", \"Error\""
+    },
+    "HumanEval_84_test1": {
+        "output": "\"110\", \"Error\""
+    },
+    "HumanEval_84_test2": {
+        "output": "\"1100\", \"Error\""
+    },
+    "HumanEval_84_test3": {
+        "output": "\"1001\", \"Error\""
+    },
+    "HumanEval_84_test4": {
+        "output": "\"10010\", \"Error\""
+    },
+    "HumanEval_85_test0": {
+        "output": "88"
+    },
+    "HumanEval_85_test1": {
+        "output": "122"
+    },
+    "HumanEval_85_test2": {
+        "output": "0"
+    },
+    "HumanEval_85_test3": {
+        "output": "12"
+    },
+    "HumanEval_86_test0": {
+        "output": "'Hi'"
+    },
+    "HumanEval_86_test1": {
+        "output": "'ehllo'"
+    },
+    "HumanEval_86_test2": {
+        "output": "'bemnru'"
+    },
+    "HumanEval_86_test3": {
+        "output": "'abcd'"
+    },
+    "HumanEval_86_test4": {
+        "output": "'Hello !!!Wdlor'"
+    },
+    "HumanEval_86_test5": {
+        "output": "''"
+    },
+    "HumanEval_86_test6": {
+        "output": "'.Hi My aemn is Meirst .Rboot How aer ?ouy'"
+    },
+    "HumanEval_87_test0": {
+        "output": "[]"
+    },
+    "HumanEval_87_test1": {
+        "output": "[]"
+    },
+    "HumanEval_87_test2": {
+        "output": "[(2, 2"
+    },
+    "HumanEval_88_test0": {
+        "output": "[], \"Error\""
+    },
+    "HumanEval_88_test1": {
+        "output": "[5], \"Error\""
+    },
+    "HumanEval_88_test2": {
+        "output": "[0, 1, 2, 3, 4, 5], \"Error\""
+    },
+    "HumanEval_88_test3": {
+        "output": "[6, 5, 4, 3, 2, 1, 0], \"Error\""
+    },
+    "HumanEval_88_test4": {
+        "output": "[1, 2], \"Error\""
+    },
+    "HumanEval_88_test5": {
+        "output": "[0, 11, 15, 32, 42, 87], \"Error\""
+    },
+    "HumanEval_88_test6": {
+        "output": "[23, 21, 14, 11], \"Error\""
+    },
+    "HumanEval_89_test0": {
+        "output": "'lm', \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_89_test1": {
+        "output": "'ewhjklnop', \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_89_test2": {
+        "output": "'kj', \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_89_test3": {
+        "output": "'ix', \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_90_test0": {
+        "output": "2"
+    },
+    "HumanEval_90_test1": {
+        "output": "2"
+    },
+    "HumanEval_90_test2": {
+        "output": "None"
+    },
+    "HumanEval_90_test3": {
+        "output": "None"
+    },
+    "HumanEval_90_test4": {
+        "output": "1"
+    },
+    "HumanEval_90_test5": {
+        "output": "None"
+    },
+    "HumanEval_90_test6": {
+        "output": "-35"
+    },
+    "HumanEval_91_test0": {
+        "output": "0, \"Test 1\""
+    },
+    "HumanEval_91_test1": {
+        "output": "0, \"Test 2\""
+    },
+    "HumanEval_91_test2": {
+        "output": "1, \"Test 3\""
+    },
+    "HumanEval_91_test3": {
+        "output": "0, \"Test 4\""
+    },
+    "HumanEval_91_test4": {
+        "output": "2, \"Test 5\""
+    },
+    "HumanEval_91_test5": {
+        "output": "0, \"Test 6\""
+    },
+    "HumanEval_93_test0": {
+        "output": "'tgst', \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_93_test1": {
+        "output": "'mWDCSKR', \"This prints if this assert fails 2 (good for debugging!"
+    },
+    "HumanEval_93_test2": {
+        "output": "'ygs', \"This prints if this assert fails 3 (good for debugging!"
+    },
+    "HumanEval_93_test3": {
+        "output": "'tHKS KS C MGSSCGG', \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_93_test4": {
+        "output": "'k dQnT kNqW wHcT Tq wRkTg', \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_94_test0": {
+        "output": "10, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_94_test1": {
+        "output": "25, \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_94_test2": {
+        "output": "13, \"This prints if this assert fails 3 (also good for debugging!"
+    },
+    "HumanEval_94_test3": {
+        "output": "11, \"This prints if this assert fails 4 (also good for debugging!"
+    },
+    "HumanEval_94_test4": {
+        "output": "3, \"This prints if this assert fails 5 (also good for debugging!"
+    },
+    "HumanEval_94_test5": {
+        "output": "7, \"This prints if this assert fails 6 (also good for debugging!"
+    },
+    "HumanEval_94_test6": {
+        "output": "19, \"This prints if this assert fails 7 (also good for debugging!"
+    },
+    "HumanEval_94_test7": {
+        "output": "19, \"This prints if this assert fails 8 (also good for debugging!"
+    },
+    "HumanEval_94_test8": {
+        "output": "10, \"This prints if this assert fails 9 (also good for debugging!"
+    },
+    "HumanEval_95_test0": {
+        "output": "True, \"First test error: \" + str(candidate({\"p\":\"pineapple\", \"b\":\"banana\"}"
+    },
+    "HumanEval_95_test1": {
+        "output": "False, \"Second test error: \" + str(candidate({\"p\":\"pineapple\", \"A\":\"banana\", \"B\":\"banana\"}"
+    },
+    "HumanEval_95_test2": {
+        "output": "False, \"Third test error: \" + str(candidate({\"p\":\"pineapple\", 5:\"banana\", \"a\":\"apple\"}"
+    },
+    "HumanEval_95_test3": {
+        "output": "False, \"Fourth test error: \" + str(candidate({\"Name\":\"John\", \"Age\":\"36\", \"City\":\"Houston\"}"
+    },
+    "HumanEval_95_test4": {
+        "output": "True, \"Fifth test error: \" + str(candidate({\"STATE\":\"NC\", \"ZIP\":\"12345\" }"
+    },
+    "HumanEval_95_test5": {
+        "output": "True, \"Fourth test error: \" + str(candidate({\"fruit\":\"Orange\", \"taste\":\"Sweet\" }"
+    },
+    "HumanEval_95_test6": {
+        "output": "False, \"1st edge test error: \" + str(candidate({}"
+    },
+    "HumanEval_96_test0": {
+        "output": "[2,3]"
+    },
+    "HumanEval_96_test1": {
+        "output": "[2,3,5]"
+    },
+    "HumanEval_96_test2": {
+        "output": "[2,3,5]"
+    },
+    "HumanEval_96_test3": {
+        "output": "[2,3,5,7]"
+    },
+    "HumanEval_96_test4": {
+        "output": "[]"
+    },
+    "HumanEval_96_test5": {
+        "output": "[2,3,5,7,11,13,17,19]"
+    },
+    "HumanEval_96_test6": {
+        "output": "[]"
+    },
+    "HumanEval_96_test7": {
+        "output": "[2,3,5,7,11,13,17]"
+    },
+    "HumanEval_96_test8": {
+        "output": "[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43]"
+    },
+    "HumanEval_96_test9": {
+        "output": "[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]"
+    },
+    "HumanEval_97_test0": {
+        "output": "16, \"First test error: \" + str(candidate(148, 412"
+    },
+    "HumanEval_97_test1": {
+        "output": "72, \"Second test error: \" + str(candidate(19, 28"
+    },
+    "HumanEval_97_test2": {
+        "output": "0, \"Third test error: \" + str(candidate(2020, 1851"
+    },
+    "HumanEval_97_test3": {
+        "output": "20, \"Fourth test error: \" + str(candidate(14,-15"
+    },
+    "HumanEval_97_test4": {
+        "output": "42, \"Fifth test error: \" + str(candidate(76, 67"
+    },
+    "HumanEval_97_test5": {
+        "output": "49, \"Sixth test error: \" + str(candidate(17, 27"
+    },
+    "HumanEval_97_test6": {
+        "output": "0, \"1st edge test error: \" + str(candidate(0, 1"
+    },
+    "HumanEval_97_test7": {
+        "output": "0, \"2nd edge test error: \" + str(candidate(0, 0"
+    },
+    "HumanEval_98_test0": {
+        "output": "0"
+    },
+    "HumanEval_98_test1": {
+        "output": "0"
+    },
+    "HumanEval_98_test2": {
+        "output": "0"
+    },
+    "HumanEval_98_test3": {
+        "output": "2"
+    },
+    "HumanEval_99_test0": {
+        "output": "10, \"Test 1\""
+    },
+    "HumanEval_99_test1": {
+        "output": "15, \"Test 2\""
+    },
+    "HumanEval_99_test2": {
+        "output": "-16, \"Test 3\""
+    },
+    "HumanEval_99_test3": {
+        "output": "15, \"Test 3\""
+    },
+    "HumanEval_99_test4": {
+        "output": "0, \"Test 0\""
+    },
+    "HumanEval_100_test0": {
+        "output": "[3, 5, 7], \"Test 3\""
+    },
+    "HumanEval_100_test1": {
+        "output": "[4,6,8,10], \"Test 4\""
+    },
+    "HumanEval_100_test2": {
+        "output": "[5, 7, 9, 11, 13]"
+    },
+    "HumanEval_100_test3": {
+        "output": "[6, 8, 10, 12, 14, 16]"
+    },
+    "HumanEval_100_test4": {
+        "output": "[8, 10, 12, 14, 16, 18, 20, 22]"
+    },
+    "HumanEval_101_test0": {
+        "output": "[\"Hi\", \"my\", \"name\", \"is\", \"John\"]"
+    },
+    "HumanEval_101_test1": {
+        "output": "[\"One\", \"two\", \"three\", \"four\", \"five\", \"six\"]"
+    },
+    "HumanEval_101_test2": {
+        "output": "[\"Hi\", \"my\", \"name\"]"
+    },
+    "HumanEval_101_test3": {
+        "output": "[\"One\", \"two\", \"three\", \"four\", \"five\", \"six\"]"
+    },
+    "HumanEval_101_test4": {
+        "output": "[]"
+    },
+    "HumanEval_101_test5": {
+        "output": "[\"ahmed\", \"gamal\"]"
+    },
+    "HumanEval_102_test0": {
+        "output": "14"
+    },
+    "HumanEval_102_test1": {
+        "output": "-1"
+    },
+    "HumanEval_102_test2": {
+        "output": "12354"
+    },
+    "HumanEval_102_test3": {
+        "output": "-1"
+    },
+    "HumanEval_102_test4": {
+        "output": "28"
+    },
+    "HumanEval_102_test5": {
+        "output": "-1"
+    },
+    "HumanEval_102_test6": {
+        "output": "-1"
+    },
+    "HumanEval_102_test7": {
+        "output": "546"
+    },
+    "HumanEval_103_test0": {
+        "output": "\"0b11\""
+    },
+    "HumanEval_103_test1": {
+        "output": "\"0b1010\""
+    },
+    "HumanEval_103_test2": {
+        "output": "\"0b1111001010\""
+    },
+    "HumanEval_103_test3": {
+        "output": "\"0b1111100100\""
+    },
+    "HumanEval_103_test4": {
+        "output": "\"0b1011000010\""
+    },
+    "HumanEval_103_test5": {
+        "output": "\"0b101101110\""
+    },
+    "HumanEval_103_test6": {
+        "output": "\"0b110101101\""
+    },
+    "HumanEval_103_test7": {
+        "output": "\"0b1001110010\""
+    },
+    "HumanEval_103_test8": {
+        "output": "\"0b11010111\""
+    },
+    "HumanEval_103_test9": {
+        "output": "-1"
+    },
+    "HumanEval_103_test10": {
+        "output": "-1"
+    },
+    "HumanEval_103_test11": {
+        "output": "\"0b101\""
+    },
+    "HumanEval_104_test0": {
+        "output": "[1, 15, 33]"
+    },
+    "HumanEval_104_test1": {
+        "output": "[]"
+    },
+    "HumanEval_104_test2": {
+        "output": "[111, 151]"
+    },
+    "HumanEval_104_test3": {
+        "output": "[31, 135]"
+    },
+    "HumanEval_105_test0": {
+        "output": "[\"Eight\", \"Five\", \"Four\", \"Three\", \"Two\", \"Two\", \"One\", \"One\"], \"Error\""
+    },
+    "HumanEval_105_test1": {
+        "output": "[], \"Error\""
+    },
+    "HumanEval_105_test2": {
+        "output": "['One'], \"Error\""
+    },
+    "HumanEval_105_test3": {
+        "output": "[\"Three\", \"Two\", \"One\"]"
+    },
+    "HumanEval_105_test4": {
+        "output": "[\"Nine\", \"Eight\", \"Four\"]"
+    },
+    "HumanEval_106_test0": {
+        "output": "[1, 2, 6, 24, 15]"
+    },
+    "HumanEval_106_test1": {
+        "output": "[1, 2, 6, 24, 15, 720, 28]"
+    },
+    "HumanEval_106_test2": {
+        "output": "[1]"
+    },
+    "HumanEval_106_test3": {
+        "output": "[1, 2, 6]"
+    },
+    "HumanEval_107_test0": {
+        "output": "(8, 13"
+    },
+    "HumanEval_107_test1": {
+        "output": "(4, 6"
+    },
+    "HumanEval_107_test2": {
+        "output": "(1, 2"
+    },
+    "HumanEval_107_test3": {
+        "output": "(6, 8"
+    },
+    "HumanEval_107_test4": {
+        "output": "(5, 6"
+    },
+    "HumanEval_107_test5": {
+        "output": "(4, 6"
+    },
+    "HumanEval_107_test6": {
+        "output": "(4, 5"
+    },
+    "HumanEval_107_test7": {
+        "output": "(0, 1"
+    },
+    "HumanEval_108_test0": {
+        "output": "0"
+    },
+    "HumanEval_108_test1": {
+        "output": "0"
+    },
+    "HumanEval_108_test2": {
+        "output": "6"
+    },
+    "HumanEval_108_test3": {
+        "output": "5"
+    },
+    "HumanEval_108_test4": {
+        "output": "4"
+    },
+    "HumanEval_108_test5": {
+        "output": "5"
+    },
+    "HumanEval_108_test6": {
+        "output": "1"
+    },
+    "HumanEval_108_test7": {
+        "output": "1"
+    },
+    "HumanEval_110_test0": {
+        "output": "\"YES\""
+    },
+    "HumanEval_110_test1": {
+        "output": "\"NO\""
+    },
+    "HumanEval_110_test2": {
+        "output": "\"YES\""
+    },
+    "HumanEval_110_test3": {
+        "output": "\"YES\""
+    },
+    "HumanEval_110_test4": {
+        "output": "\"NO\""
+    },
+    "HumanEval_110_test5": {
+        "output": "\"NO\""
+    },
+    "HumanEval_110_test6": {
+        "output": "\"YES\""
+    },
+    "HumanEval_111_test0": {
+        "output": "{'a':2,'b': 2}, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_111_test1": {
+        "output": "{'a': 2, 'b': 2}, \"This prints if this assert fails 2 (good for debugging!"
+    },
+    "HumanEval_111_test2": {
+        "output": "{'a': 1, 'b': 1, 'c': 1, 'd': 1, 'g': 1}, \"This prints if this assert fails 3 (good for debugging!"
+    },
+    "HumanEval_111_test3": {
+        "output": "{'r': 1,'t': 1,'g': 1}, \"This prints if this assert fails 4 (good for debugging!"
+    },
+    "HumanEval_111_test4": {
+        "output": "{'b': 4}, \"This prints if this assert fails 5 (good for debugging!"
+    },
+    "HumanEval_111_test5": {
+        "output": "{'r': 1,'t': 1,'g': 1}, \"This prints if this assert fails 6 (good for debugging!"
+    },
+    "HumanEval_111_test6": {
+        "output": "{}, \"This prints if this assert fails 7 (also good for debugging!"
+    },
+    "HumanEval_111_test7": {
+        "output": "{'a': 1}, \"This prints if this assert fails 8 (also good for debugging!"
+    },
+    "HumanEval_112_test0": {
+        "output": "('bcd',False"
+    },
+    "HumanEval_112_test1": {
+        "output": "('acdef',False"
+    },
+    "HumanEval_112_test2": {
+        "output": "('cdedc',True"
+    },
+    "HumanEval_112_test3": {
+        "output": "('dik',False"
+    },
+    "HumanEval_112_test4": {
+        "output": "('',True"
+    },
+    "HumanEval_112_test5": {
+        "output": "('abcdedcba',True"
+    },
+    "HumanEval_112_test6": {
+        "output": "('abcdedcba',True"
+    },
+    "HumanEval_112_test7": {
+        "output": "('abba',True"
+    },
+    "HumanEval_112_test8": {
+        "output": "(\"\", True"
+    },
+    "HumanEval_113_test0": {
+        "output": "[\"the number of odd elements 4n the str4ng 4 of the 4nput.\"], \"Test 1\""
+    },
+    "HumanEval_113_test1": {
+        "output": "[\"the number of odd elements 1n the str1ng 1 of the 1nput.\", \"the number of odd elements 8n the str8ng 8 of the 8nput.\"], \"Test 2\""
+    },
+    "HumanEval_113_test2": {
+        "output": "["
+    },
+    "HumanEval_114_test0": {
+        "output": "1, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_114_test1": {
+        "output": "-6"
+    },
+    "HumanEval_114_test2": {
+        "output": "-14"
+    },
+    "HumanEval_114_test3": {
+        "output": "-9999999999999999"
+    },
+    "HumanEval_114_test4": {
+        "output": "0"
+    },
+    "HumanEval_114_test5": {
+        "output": "-6"
+    },
+    "HumanEval_114_test6": {
+        "output": "-6"
+    },
+    "HumanEval_114_test7": {
+        "output": "3"
+    },
+    "HumanEval_114_test8": {
+        "output": "-33"
+    },
+    "HumanEval_114_test9": {
+        "output": "-10, \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_114_test10": {
+        "output": "7"
+    },
+    "HumanEval_114_test11": {
+        "output": "-1"
+    },
+    "HumanEval_115_test0": {
+        "output": "6, \"Error\""
+    },
+    "HumanEval_115_test1": {
+        "output": "5, \"Error\""
+    },
+    "HumanEval_115_test2": {
+        "output": "0, \"Error\""
+    },
+    "HumanEval_115_test3": {
+        "output": "4, \"Error\""
+    },
+    "HumanEval_115_test4": {
+        "output": "2, \"Error\""
+    },
+    "HumanEval_116_test0": {
+        "output": "[1, 2, 4, 3, 5]"
+    },
+    "HumanEval_116_test1": {
+        "output": "[-4, -2, -6, -5, -3]"
+    },
+    "HumanEval_116_test2": {
+        "output": "[0, 1, 2, 4, 3]"
+    },
+    "HumanEval_116_test3": {
+        "output": "[]"
+    },
+    "HumanEval_116_test4": {
+        "output": "[2, 2, 4, 4, 3, 3, 5, 5, 5, 7, 77]"
+    },
+    "HumanEval_116_test5": {
+        "output": "[32, 3, 5, 6, 12, 44]"
+    },
+    "HumanEval_116_test6": {
+        "output": "[2, 4, 8, 16, 32]"
+    },
+    "HumanEval_116_test7": {
+        "output": "[2, 4, 8, 16, 32]"
+    },
+    "HumanEval_117_test0": {
+        "output": "[\"little\"], \"First test error: \" + str(candidate(\"Mary had a little lamb\", 4"
+    },
+    "HumanEval_117_test1": {
+        "output": "[\"Mary\", \"lamb\"], \"Second test error: \" + str(candidate(\"Mary had a little lamb\", 3"
+    },
+    "HumanEval_117_test2": {
+        "output": "[], \"Third test error: \" + str(candidate(\"simple white space\", 2"
+    },
+    "HumanEval_117_test3": {
+        "output": "[\"world\"], \"Fourth test error: \" + str(candidate(\"Hello world\", 4"
+    },
+    "HumanEval_117_test4": {
+        "output": "[\"Uncle\"], \"Fifth test error: \" + str(candidate(\"Uncle sam\", 3"
+    },
+    "HumanEval_117_test5": {
+        "output": "[], \"1st edge test error: \" + str(candidate(\"\", 4"
+    },
+    "HumanEval_117_test6": {
+        "output": "[\"b\", \"c\", \"d\", \"f\"], \"2nd edge test error: \" + str(candidate(\"a b c d e f\", 1"
+    },
+    "HumanEval_118_test0": {
+        "output": "\"u\""
+    },
+    "HumanEval_118_test1": {
+        "output": "\"u\""
+    },
+    "HumanEval_118_test2": {
+        "output": "\"\""
+    },
+    "HumanEval_118_test3": {
+        "output": "\"\""
+    },
+    "HumanEval_118_test4": {
+        "output": "\"\""
+    },
+    "HumanEval_118_test5": {
+        "output": "\"a\""
+    },
+    "HumanEval_118_test6": {
+        "output": "\"o\""
+    },
+    "HumanEval_118_test7": {
+        "output": "\"\""
+    },
+    "HumanEval_118_test8": {
+        "output": "\"\""
+    },
+    "HumanEval_118_test9": {
+        "output": "\"\""
+    },
+    "HumanEval_118_test10": {
+        "output": "\"i\""
+    },
+    "HumanEval_118_test11": {
+        "output": "\"\""
+    },
+    "HumanEval_118_test12": {
+        "output": "\"o\""
+    },
+    "HumanEval_120_test0": {
+        "output": "[-4, -3, 5]"
+    },
+    "HumanEval_120_test1": {
+        "output": "[4, 4]"
+    },
+    "HumanEval_120_test2": {
+        "output": "[2]"
+    },
+    "HumanEval_120_test3": {
+        "output": "[2, 20, 123]"
+    },
+    "HumanEval_120_test4": {
+        "output": "[0, 1, 2, 20]"
+    },
+    "HumanEval_120_test5": {
+        "output": "[-13, -8, 0, 0, 3, 5, 15]"
+    },
+    "HumanEval_120_test6": {
+        "output": "[3, 5]"
+    },
+    "HumanEval_120_test7": {
+        "output": "[5]"
+    },
+    "HumanEval_120_test8": {
+        "output": "[-4, 4]"
+    },
+    "HumanEval_120_test9": {
+        "output": "[-10, 10]"
+    },
+    "HumanEval_120_test10": {
+        "output": "[]"
+    },
+    "HumanEval_121_test0": {
+        "output": "9"
+    },
+    "HumanEval_121_test1": {
+        "output": "0"
+    },
+    "HumanEval_121_test2": {
+        "output": "5"
+    },
+    "HumanEval_121_test3": {
+        "output": "0"
+    },
+    "HumanEval_121_test4": {
+        "output": "23"
+    },
+    "HumanEval_121_test5": {
+        "output": "3"
+    },
+    "HumanEval_122_test0": {
+        "output": "-4"
+    },
+    "HumanEval_122_test1": {
+        "output": "0"
+    },
+    "HumanEval_122_test2": {
+        "output": "125"
+    },
+    "HumanEval_122_test3": {
+        "output": "24, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_122_test4": {
+        "output": "1, \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_123_test0": {
+        "output": "[1, 5, 7, 11, 13, 17]"
+    },
+    "HumanEval_123_test1": {
+        "output": "[1, 5]"
+    },
+    "HumanEval_123_test2": {
+        "output": "[1, 3, 5], \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_123_test3": {
+        "output": "[1], \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_124_test0": {
+        "output": "True"
+    },
+    "HumanEval_124_test1": {
+        "output": "False"
+    },
+    "HumanEval_124_test2": {
+        "output": "False"
+    },
+    "HumanEval_124_test3": {
+        "output": "True"
+    },
+    "HumanEval_124_test4": {
+        "output": "True"
+    },
+    "HumanEval_124_test5": {
+        "output": "False"
+    },
+    "HumanEval_124_test6": {
+        "output": "False"
+    },
+    "HumanEval_124_test7": {
+        "output": "False"
+    },
+    "HumanEval_124_test8": {
+        "output": "True"
+    },
+    "HumanEval_124_test9": {
+        "output": "False"
+    },
+    "HumanEval_124_test10": {
+        "output": "True"
+    },
+    "HumanEval_124_test11": {
+        "output": "False"
+    },
+    "HumanEval_124_test12": {
+        "output": "False"
+    },
+    "HumanEval_124_test13": {
+        "output": "False"
+    },
+    "HumanEval_124_test14": {
+        "output": "False"
+    },
+    "HumanEval_124_test15": {
+        "output": "False"
+    },
+    "HumanEval_125_test0": {
+        "output": "[\"Hello\",\"world!\"]"
+    },
+    "HumanEval_125_test1": {
+        "output": "[\"Hello\",\"world!\"]"
+    },
+    "HumanEval_125_test2": {
+        "output": "[\"Hello\",\"world,!\"]"
+    },
+    "HumanEval_125_test3": {
+        "output": "[\"Hello,Hello,world\",\"!\"]"
+    },
+    "HumanEval_125_test4": {
+        "output": "3"
+    },
+    "HumanEval_125_test5": {
+        "output": "2"
+    },
+    "HumanEval_125_test6": {
+        "output": "1"
+    },
+    "HumanEval_125_test7": {
+        "output": "0"
+    },
+    "HumanEval_126_test0": {
+        "output": "True"
+    },
+    "HumanEval_126_test1": {
+        "output": "True"
+    },
+    "HumanEval_126_test2": {
+        "output": "False"
+    },
+    "HumanEval_126_test3": {
+        "output": "True"
+    },
+    "HumanEval_126_test4": {
+        "output": "True"
+    },
+    "HumanEval_126_test5": {
+        "output": "False, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_126_test6": {
+        "output": "True, \"This prints if this assert fails 2 (good for debugging!"
+    },
+    "HumanEval_126_test7": {
+        "output": "True, \"This prints if this assert fails 3 (good for debugging!"
+    },
+    "HumanEval_126_test8": {
+        "output": "False, \"This prints if this assert fails 4 (good for debugging!"
+    },
+    "HumanEval_126_test9": {
+        "output": "False, \"This prints if this assert fails 5 (good for debugging!"
+    },
+    "HumanEval_126_test10": {
+        "output": "False, \"This prints if this assert fails 6 (good for debugging!"
+    },
+    "HumanEval_126_test11": {
+        "output": "True, \"This prints if this assert fails 7 (good for debugging!"
+    },
+    "HumanEval_126_test12": {
+        "output": "True, \"This prints if this assert fails 8 (good for debugging!"
+    },
+    "HumanEval_128_test0": {
+        "output": "-9"
+    },
+    "HumanEval_128_test1": {
+        "output": "0"
+    },
+    "HumanEval_128_test2": {
+        "output": "-10"
+    },
+    "HumanEval_128_test3": {
+        "output": "None"
+    },
+    "HumanEval_128_test4": {
+        "output": "20"
+    },
+    "HumanEval_128_test5": {
+        "output": "4"
+    },
+    "HumanEval_128_test6": {
+        "output": "-4"
+    },
+    "HumanEval_128_test7": {
+        "output": "0"
+    },
+    "HumanEval_129_test0": {
+        "output": "[1, 2, 1]"
+    },
+    "HumanEval_129_test1": {
+        "output": "[1]"
+    },
+    "HumanEval_129_test2": {
+        "output": "[1, 2, 1, 2]"
+    },
+    "HumanEval_129_test3": {
+        "output": "[1, 10, 1, 10, 1, 10, 1]"
+    },
+    "HumanEval_129_test4": {
+        "output": "[1, 7, 1, 7, 1]"
+    },
+    "HumanEval_129_test5": {
+        "output": "[1, 6, 1, 6, 1, 6, 1, 6, 1]"
+    },
+    "HumanEval_129_test6": {
+        "output": "[1, 6, 1, 6, 1, 6, 1, 6, 1, 6, 1, 6]"
+    },
+    "HumanEval_129_test7": {
+        "output": "[1, 3, 1, 3, 1, 3, 1, 3]"
+    },
+    "HumanEval_129_test8": {
+        "output": "[1, 5, 1, 5, 1, 5, 1, 5]"
+    },
+    "HumanEval_129_test9": {
+        "output": "[1, 2, 1, 2, 1, 2, 1, 2, 1, 2]"
+    },
+    "HumanEval_129_test10": {
+        "output": "[1, 3, 1, 3, 1, 3, 1, 3, 1, 3]"
+    },
+    "HumanEval_130_test0": {
+        "output": "[1, 3, 2.0, 8.0]"
+    },
+    "HumanEval_130_test1": {
+        "output": "[1, 3, 2.0, 8.0, 3.0]"
+    },
+    "HumanEval_130_test2": {
+        "output": "[1, 3, 2.0, 8.0, 3.0, 15.0]"
+    },
+    "HumanEval_130_test3": {
+        "output": "[1, 3, 2.0, 8.0, 3.0, 15.0, 4.0]"
+    },
+    "HumanEval_130_test4": {
+        "output": "[1, 3, 2.0, 8.0, 3.0, 15.0, 4.0, 24.0]"
+    },
+    "HumanEval_130_test5": {
+        "output": "[1, 3, 2.0, 8.0, 3.0, 15.0, 4.0, 24.0, 5.0]"
+    },
+    "HumanEval_130_test6": {
+        "output": "[1, 3, 2.0, 8.0, 3.0, 15.0, 4.0, 24.0, 5.0, 35.0]"
+    },
+    "HumanEval_130_test7": {
+        "output": "[1, 3, 2.0, 8.0, 3.0, 15.0, 4.0, 24.0, 5.0, 35.0, 6.0, 48.0, 7.0, 63.0, 8.0, 80.0, 9.0, 99.0, 10.0, 120.0, 11.0]"
+    },
+    "HumanEval_130_test8": {
+        "output": "[1]"
+    },
+    "HumanEval_130_test9": {
+        "output": "[1, 3]"
+    },
+    "HumanEval_131_test0": {
+        "output": "5"
+    },
+    "HumanEval_131_test1": {
+        "output": "5"
+    },
+    "HumanEval_131_test2": {
+        "output": "1"
+    },
+    "HumanEval_131_test3": {
+        "output": "5"
+    },
+    "HumanEval_131_test4": {
+        "output": "315"
+    },
+    "HumanEval_131_test5": {
+        "output": "2625"
+    },
+    "HumanEval_131_test6": {
+        "output": "0"
+    },
+    "HumanEval_132_test0": {
+        "output": "True, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_132_test1": {
+        "output": "False"
+    },
+    "HumanEval_132_test2": {
+        "output": "False"
+    },
+    "HumanEval_132_test3": {
+        "output": "True"
+    },
+    "HumanEval_132_test4": {
+        "output": "False"
+    },
+    "HumanEval_132_test5": {
+        "output": "True"
+    },
+    "HumanEval_132_test6": {
+        "output": "False"
+    },
+    "HumanEval_132_test7": {
+        "output": "False"
+    },
+    "HumanEval_132_test8": {
+        "output": "True"
+    },
+    "HumanEval_132_test9": {
+        "output": "True"
+    },
+    "HumanEval_132_test10": {
+        "output": "False, \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_132_test11": {
+        "output": "False"
+    },
+    "HumanEval_132_test12": {
+        "output": "False"
+    },
+    "HumanEval_134_test0": {
+        "output": "False"
+    },
+    "HumanEval_134_test1": {
+        "output": "True"
+    },
+    "HumanEval_134_test2": {
+        "output": "False"
+    },
+    "HumanEval_134_test3": {
+        "output": "True"
+    },
+    "HumanEval_134_test4": {
+        "output": "False"
+    },
+    "HumanEval_134_test5": {
+        "output": "False"
+    },
+    "HumanEval_134_test6": {
+        "output": "False"
+    },
+    "HumanEval_134_test7": {
+        "output": "False"
+    },
+    "HumanEval_134_test8": {
+        "output": "False"
+    },
+    "HumanEval_134_test9": {
+        "output": "False"
+    },
+    "HumanEval_136_test0": {
+        "output": "(None, 1"
+    },
+    "HumanEval_136_test1": {
+        "output": "(None, 1"
+    },
+    "HumanEval_136_test2": {
+        "output": "(-2, 1"
+    },
+    "HumanEval_136_test3": {
+        "output": "(-7, 2"
+    },
+    "HumanEval_136_test4": {
+        "output": "(-9, 2"
+    },
+    "HumanEval_136_test5": {
+        "output": "(None, None"
+    },
+    "HumanEval_136_test6": {
+        "output": "(None, None"
+    },
+    "HumanEval_136_test7": {
+        "output": "(-1, None"
+    },
+    "HumanEval_136_test8": {
+        "output": "(-1, None"
+    },
+    "HumanEval_136_test9": {
+        "output": "(-3, 1"
+    },
+    "HumanEval_136_test10": {
+        "output": "(-3, 1"
+    },
+    "HumanEval_137_test0": {
+        "output": "2"
+    },
+    "HumanEval_137_test1": {
+        "output": "2.5"
+    },
+    "HumanEval_137_test2": {
+        "output": "3"
+    },
+    "HumanEval_137_test3": {
+        "output": "6"
+    },
+    "HumanEval_137_test4": {
+        "output": "\"2,3\""
+    },
+    "HumanEval_137_test5": {
+        "output": "\"6\""
+    },
+    "HumanEval_137_test6": {
+        "output": "\"2\""
+    },
+    "HumanEval_137_test7": {
+        "output": "None"
+    },
+    "HumanEval_138_test0": {
+        "output": "False"
+    },
+    "HumanEval_138_test1": {
+        "output": "False"
+    },
+    "HumanEval_138_test2": {
+        "output": "True"
+    },
+    "HumanEval_138_test3": {
+        "output": "True"
+    },
+    "HumanEval_138_test4": {
+        "output": "False"
+    },
+    "HumanEval_138_test5": {
+        "output": "True"
+    },
+    "HumanEval_138_test6": {
+        "output": "False"
+    },
+    "HumanEval_138_test7": {
+        "output": "True"
+    },
+    "HumanEval_139_test0": {
+        "output": "288, \"Test 4\""
+    },
+    "HumanEval_139_test1": {
+        "output": "34560, \"Test 5\""
+    },
+    "HumanEval_139_test2": {
+        "output": "125411328000, \"Test 7\""
+    },
+    "HumanEval_139_test3": {
+        "output": "1, \"Test 1\""
+    },
+    "HumanEval_140_test0": {
+        "output": "\"Example\", \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_140_test1": {
+        "output": "\"Mudasir_Hanif_\", \"This prints if this assert fails 2 (good for debugging!"
+    },
+    "HumanEval_140_test2": {
+        "output": "\"Yellow_Yellow__Dirty__Fellow\", \"This prints if this assert fails 3 (good for debugging!"
+    },
+    "HumanEval_140_test3": {
+        "output": "\"Exa-mple\", \"This prints if this assert fails 4 (good for debugging!"
+    },
+    "HumanEval_140_test4": {
+        "output": "\"-Exa_1_2_2_mple\", \"This prints if this assert fails 4 (good for debugging!"
+    },
+    "HumanEval_141_test0": {
+        "output": "'Yes'"
+    },
+    "HumanEval_141_test1": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test2": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test3": {
+        "output": "'Yes'"
+    },
+    "HumanEval_141_test4": {
+        "output": "'Yes'"
+    },
+    "HumanEval_141_test5": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test6": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test7": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test8": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test9": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test10": {
+        "output": "'Yes'"
+    },
+    "HumanEval_141_test11": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test12": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test13": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test14": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test15": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test16": {
+        "output": "'Yes'"
+    },
+    "HumanEval_141_test17": {
+        "output": "'Yes'"
+    },
+    "HumanEval_141_test18": {
+        "output": "'Yes'"
+    },
+    "HumanEval_141_test19": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test20": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test21": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test22": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test23": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test24": {
+        "output": "'No'"
+    },
+    "HumanEval_141_test25": {
+        "output": "'No'"
+    },
+    "HumanEval_142_test0": {
+        "output": "6"
+    },
+    "HumanEval_142_test1": {
+        "output": "14"
+    },
+    "HumanEval_142_test2": {
+        "output": "0"
+    },
+    "HumanEval_142_test3": {
+        "output": "9"
+    },
+    "HumanEval_142_test4": {
+        "output": "-3"
+    },
+    "HumanEval_142_test5": {
+        "output": "0"
+    },
+    "HumanEval_142_test6": {
+        "output": "-126"
+    },
+    "HumanEval_142_test7": {
+        "output": "3030"
+    },
+    "HumanEval_142_test8": {
+        "output": "0"
+    },
+    "HumanEval_142_test9": {
+        "output": "-14196"
+    },
+    "HumanEval_142_test10": {
+        "output": "-1448"
+    },
+    "HumanEval_143_test0": {
+        "output": "\"is\""
+    },
+    "HumanEval_143_test1": {
+        "output": "\"go for\""
+    },
+    "HumanEval_143_test2": {
+        "output": "\"there is no place\""
+    },
+    "HumanEval_143_test3": {
+        "output": "\"Hi am Hussein\""
+    },
+    "HumanEval_143_test4": {
+        "output": "\"go for it\""
+    },
+    "HumanEval_143_test5": {
+        "output": "\"\""
+    },
+    "HumanEval_143_test6": {
+        "output": "\"is\""
+    },
+    "HumanEval_144_test0": {
+        "output": "True, 'test1'"
+    },
+    "HumanEval_144_test1": {
+        "output": "False, 'test2'"
+    },
+    "HumanEval_144_test2": {
+        "output": "True, 'test3'"
+    },
+    "HumanEval_144_test3": {
+        "output": "False, 'test4'"
+    },
+    "HumanEval_144_test4": {
+        "output": "True, 'test5'"
+    },
+    "HumanEval_144_test5": {
+        "output": "True, 'test6'"
+    },
+    "HumanEval_144_test6": {
+        "output": "True, 'test7'"
+    },
+    "HumanEval_144_test7": {
+        "output": "False, 'test8'"
+    },
+    "HumanEval_144_test8": {
+        "output": "False, 'test9'"
+    },
+    "HumanEval_144_test9": {
+        "output": "True, 'test10'"
+    },
+    "HumanEval_144_test10": {
+        "output": "True, 'test11'"
+    },
+    "HumanEval_144_test11": {
+        "output": "True, 'test12'"
+    },
+    "HumanEval_144_test12": {
+        "output": "False, 'test13'"
+    },
+    "HumanEval_145_test0": {
+        "output": "[-1, -11, 1, -12, 11]"
+    },
+    "HumanEval_145_test1": {
+        "output": "[0, 2, 3, 6, 53, 423, 423, 423, 1234, 145, 37, 46, 56, 463, 3457]"
+    },
+    "HumanEval_145_test2": {
+        "output": "[]"
+    },
+    "HumanEval_145_test3": {
+        "output": "[-3, -32, -98, -11, 1, 2, 43, 54]"
+    },
+    "HumanEval_145_test4": {
+        "output": "[1, 10, 2, 11, 3, 4, 5, 6, 7, 8, 9]"
+    },
+    "HumanEval_145_test5": {
+        "output": "[-76, -21, 0, 4, 23, 6, 6]"
+    },
+    "HumanEval_146_test0": {
+        "output": "0"
+    },
+    "HumanEval_146_test1": {
+        "output": "1"
+    },
+    "HumanEval_146_test2": {
+        "output": "2"
+    },
+    "HumanEval_146_test3": {
+        "output": "4"
+    },
+    "HumanEval_146_test4": {
+        "output": "3"
+    },
+    "HumanEval_146_test5": {
+        "output": "0"
+    },
+    "HumanEval_146_test6": {
+        "output": "0"
+    },
+    "HumanEval_147_test0": {
+        "output": "1"
+    },
+    "HumanEval_147_test1": {
+        "output": "4"
+    },
+    "HumanEval_147_test2": {
+        "output": "36"
+    },
+    "HumanEval_147_test3": {
+        "output": "53361"
+    },
+    "HumanEval_148_test0": {
+        "output": "(\"Saturn\", \"Uranus\""
+    },
+    "HumanEval_148_test1": {
+        "output": "(\"Venus\","
+    },
+    "HumanEval_148_test2": {
+        "output": "(\"Venus\", \"Earth\", \"Mars\", \"Jupiter\", \"Saturn\""
+    },
+    "HumanEval_148_test3": {
+        "output": "(\"Earth\", \"Mars\", \"Jupiter\", \"Saturn\", \"Uranus\""
+    },
+    "HumanEval_148_test4": {
+        "output": "("
+    },
+    "HumanEval_148_test5": {
+        "output": "("
+    },
+    "HumanEval_148_test6": {
+        "output": "("
+    },
+    "HumanEval_149_test0": {
+        "output": "[\"aa\"]"
+    },
+    "HumanEval_149_test1": {
+        "output": "[\"AI\", \"asdf\", \"school\"]"
+    },
+    "HumanEval_149_test2": {
+        "output": "[]"
+    },
+    "HumanEval_149_test3": {
+        "output": "[\"abcd\", \"dcba\"]"
+    },
+    "HumanEval_149_test4": {
+        "output": "[\"AI\", \"ai\", \"au\"]"
+    },
+    "HumanEval_149_test5": {
+        "output": "[]"
+    },
+    "HumanEval_149_test6": {
+        "output": "[\"cc\", \"dd\", \"aaaa\", \"bbbb\"]"
+    },
+    "HumanEval_150_test0": {
+        "output": "34"
+    },
+    "HumanEval_150_test1": {
+        "output": "5"
+    },
+    "HumanEval_150_test2": {
+        "output": "33"
+    },
+    "HumanEval_150_test3": {
+        "output": "3"
+    },
+    "HumanEval_150_test4": {
+        "output": "-1"
+    },
+    "HumanEval_150_test5": {
+        "output": "583"
+    },
+    "HumanEval_150_test6": {
+        "output": "129"
+    },
+    "HumanEval_150_test7": {
+        "output": "1234"
+    },
+    "HumanEval_150_test8": {
+        "output": "0"
+    },
+    "HumanEval_150_test9": {
+        "output": "2"
+    },
+    "HumanEval_151_test0": {
+        "output": "0 , \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_151_test1": {
+        "output": "25 , \"This prints if this assert fails 2 (good for debugging!"
+    },
+    "HumanEval_151_test2": {
+        "output": "0 , \"This prints if this assert fails 3 (good for debugging!"
+    },
+    "HumanEval_151_test3": {
+        "output": "0 , \"This prints if this assert fails 4 (good for debugging!"
+    },
+    "HumanEval_151_test4": {
+        "output": "0, \"This prints if this assert fails 5 (also good for debugging!"
+    },
+    "HumanEval_151_test5": {
+        "output": "34, \"This prints if this assert fails 6 (also good for debugging!"
+    },
+    "HumanEval_153_test0": {
+        "output": "'Watashi.eIGHt8OKe'"
+    },
+    "HumanEval_153_test1": {
+        "output": "'Boku123.YEs.WeCaNe'"
+    },
+    "HumanEval_153_test2": {
+        "output": "'__YESIMHERE.NuLl__'"
+    },
+    "HumanEval_153_test3": {
+        "output": "'K.TAR'"
+    },
+    "HumanEval_153_test4": {
+        "output": "'__HAHA.123'"
+    },
+    "HumanEval_153_test5": {
+        "output": "'YameRore.okIWILL123'"
+    },
+    "HumanEval_153_test6": {
+        "output": "'finNNalLLly.WoW'"
+    },
+    "HumanEval_153_test7": {
+        "output": "'_.Bb'"
+    },
+    "HumanEval_153_test8": {
+        "output": "'Sp.671235'"
+    },
+    "HumanEval_155_test0": {
+        "output": "(0, 1"
+    },
+    "HumanEval_155_test1": {
+        "output": "(1, 1"
+    },
+    "HumanEval_155_test2": {
+        "output": "(2, 2"
+    },
+    "HumanEval_155_test3": {
+        "output": "(3, 3"
+    },
+    "HumanEval_155_test4": {
+        "output": "(3, 3"
+    },
+    "HumanEval_155_test5": {
+        "output": "(1, 0"
+    },
+    "HumanEval_155_test6": {
+        "output": "(2, 3"
+    },
+    "HumanEval_155_test7": {
+        "output": "(1, 0"
+    },
+    "HumanEval_156_test0": {
+        "output": "'xix'"
+    },
+    "HumanEval_156_test1": {
+        "output": "'clii'"
+    },
+    "HumanEval_156_test2": {
+        "output": "'ccli'"
+    },
+    "HumanEval_156_test3": {
+        "output": "'cdxxvi'"
+    },
+    "HumanEval_156_test4": {
+        "output": "'d'"
+    },
+    "HumanEval_156_test5": {
+        "output": "'i'"
+    },
+    "HumanEval_156_test6": {
+        "output": "'iv'"
+    },
+    "HumanEval_156_test7": {
+        "output": "'xliii'"
+    },
+    "HumanEval_156_test8": {
+        "output": "'xc'"
+    },
+    "HumanEval_156_test9": {
+        "output": "'xciv'"
+    },
+    "HumanEval_156_test10": {
+        "output": "'dxxxii'"
+    },
+    "HumanEval_156_test11": {
+        "output": "'cm'"
+    },
+    "HumanEval_156_test12": {
+        "output": "'cmxciv'"
+    },
+    "HumanEval_156_test13": {
+        "output": "'m'"
+    },
+    "HumanEval_157_test0": {
+        "output": "True, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_157_test1": {
+        "output": "False"
+    },
+    "HumanEval_157_test2": {
+        "output": "True"
+    },
+    "HumanEval_157_test3": {
+        "output": "False"
+    },
+    "HumanEval_157_test4": {
+        "output": "True"
+    },
+    "HumanEval_157_test5": {
+        "output": "False"
+    },
+    "HumanEval_157_test6": {
+        "output": "True"
+    },
+    "HumanEval_157_test7": {
+        "output": "True"
+    },
+    "HumanEval_157_test8": {
+        "output": "True"
+    },
+    "HumanEval_157_test9": {
+        "output": "False, \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_157_test10": {
+        "output": "False"
+    },
+    "HumanEval_159_test0": {
+        "output": "[11, 4], \"Error\""
+    },
+    "HumanEval_159_test1": {
+        "output": "[12, 1], \"Error\""
+    },
+    "HumanEval_159_test2": {
+        "output": "[11, 0], \"Error\""
+    },
+    "HumanEval_159_test3": {
+        "output": "[7, 0], \"Error\""
+    },
+    "HumanEval_159_test4": {
+        "output": "[9, 2], \"Error\""
+    },
+    "HumanEval_159_test5": {
+        "output": "[5, 0], \"Error\""
+    },
+    "HumanEval_160_test0": {
+        "output": "37"
+    },
+    "HumanEval_160_test1": {
+        "output": "9"
+    },
+    "HumanEval_160_test2": {
+        "output": "8, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_161_test0": {
+        "output": "\"aSdF\""
+    },
+    "HumanEval_161_test1": {
+        "output": "\"4321\""
+    },
+    "HumanEval_161_test2": {
+        "output": "\"AB\""
+    },
+    "HumanEval_161_test3": {
+        "output": "\"#A@c\""
+    },
+    "HumanEval_161_test4": {
+        "output": "\"#aSDFw^45\""
+    },
+    "HumanEval_161_test5": {
+        "output": "\"2@6#\""
+    },
+    "HumanEval_161_test6": {
+        "output": "\"#$A^d\""
+    },
+    "HumanEval_161_test7": {
+        "output": "\"#CCC\""
+    },
+    "HumanEval_162_test0": {
+        "output": "'3e25960a79dbc69b674cd4ec67a72c62'"
+    },
+    "HumanEval_162_test1": {
+        "output": "None"
+    },
+    "HumanEval_162_test2": {
+        "output": "'0ef78513b0cb8cef12743f5aeb35f888'"
+    },
+    "HumanEval_162_test3": {
+        "output": "'5f4dcc3b5aa765d61d8327deb882cf99'"
+    },
+    "HumanEval_163_test0": {
+        "output": "[2, 4, 6, 8], \"Test 1\""
+    },
+    "HumanEval_163_test1": {
+        "output": "[2, 4, 6, 8], \"Test 2\""
+    },
+    "HumanEval_163_test2": {
+        "output": "[2, 4, 6, 8], \"Test 3\""
+    },
+    "HumanEval_163_test3": {
+        "output": "[], \"Test 4\""
+    }
+}

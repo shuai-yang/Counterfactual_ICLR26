@@ -1,0 +1,122 @@
+{
+    "EC+DD": {
+        "llm_answer": "1B1",
+        "llm_explanation": "To add EC (which is 236 in decimal) and DD (which is 221 in decimal) in base-16, we first convert them to decimal, add them (236 + 221 = 457), and then convert the sum back to base-16. 457 in decimal is equivalent to 1B1 in base-16.**"
+    },
+    "18+9F": {
+        "llm_answer": "118",
+        "llm_explanation": "To calculate 18 + 9F in base-16, first convert them to decimal: 18 in base-16 is 1 * 16^1 + 8 * 16^0 = 16 + 8 = 24 in decimal, and 9F is 9 * 16^1 + 15 * 16^0 = 144 + 15 = 159 in decimal. Adding them gives 24 + 159 = 183 in decimal. Converting 183 back to base-16 results in 1 * 16^1 + 7 * 16^0 = 118.**"
+    },
+    "79+8B": {
+        "llm_answer": "104",
+        "llm_explanation": "Convert 79 and 8B to decimal (121 and 139), sum to get 260, then convert back to hex (260 in decimal is 104 in hex).**"
+    },
+    "A6+94": {
+        "llm_answer": null,
+        "llm_explanation": "In base-16, A6 is 166 in decimal and 94 is 148 in decimal. Adding them gives 314 in decimal, which is A9 in base-16.**"
+    },
+    "54+D3": {
+        "llm_answer": "107",
+        "llm_explanation": "In base-16, the digit D represents 13 in decimal. To add 54 (which is 5*16 + 4 = 84 in decimal) and D3 (which is 13*16 + 3 = 211 in decimal), we get 84 + 211 = 295 in decimal. Converting 295 back to base-16, we divide by 16, which gives us 18 remainder 7, and then convert 18 to base-16 gives us 12. Therefore, the final result in base-16 is 107.**"
+    },
+    "A8+F4": {
+        "llm_answer": "19C",
+        "llm_explanation": "A8 (168 in decimal) + F4 (244 in decimal) = 412 in decimal, which is 19C in hexadecimal (1*256 + 9*16 + 12*1).**"
+    },
+    "53+C2": {
+        "llm_answer": "11F",
+        "llm_explanation": "To add 53 (which is 53 in base-16) and C2 (which is 194 in decimal), you align them and add digit by digit in base-16. First, convert each to decimal: 53 = 5*16 + 3 = 83, C2 = 12*16 + 2 = 194. Adding them gives 83 + 194 = 277. Converting 277 back to base-16 gives 11F.**"
+    },
+    "FA+83": {
+        "llm_answer": "123",
+        "llm_explanation": "To add FA (which is 250 in decimal) and 83 (which is 131 in decimal), we compute 250 + 131 = 381. In base-16, 381 is represented as 123 (since 3*256 + 1*16 + 3*1 = 381).**"
+    },
+    "6D+66": {
+        "llm_answer": "133",
+        "llm_explanation": "To add 6D and 66 in base-16, first convert them to decimal: 6D = 6 * 16^1 + 13 (D) * 16^0 = 96 + 13 = 109; 66 = 6 * 16^1 + 6 * 16^0 = 96 + 6 = 102. Then, add 109 + 102 = 211, which converts back to base-16 as (211 / 16 = 13 remainder 3), so the answer is 133 in base-16.**"
+    },
+    "9F+88": {
+        "llm_answer": "127",
+        "llm_explanation": "9F (159 in decimal) + 88 (136 in decimal) = 295 in decimal, which is 127 in hexadecimal (1\u00d716\u00b2 + 2\u00d716 + 7).**"
+    },
+    "10+2C": {
+        "llm_answer": "36",
+        "llm_explanation": "In base-16, \"10\" represents 16 in decimal and \"2C\" represents 44 in decimal (2 * 16 + 12). Thus, 16 + 44 = 60, which is \"36\" in base-16.**"
+    },
+    "C0+AF": {
+        "llm_answer": null,
+        "llm_explanation": "To add C0 and AF in base-16, convert each to decimal: C0 = 192 and AF = 175. Adding these gives 367 in decimal, which converts back to base-16 as 7F.**"
+    },
+    "EA+4A": {
+        "llm_answer": "54",
+        "llm_explanation": "In base-16, EA is equal to 14A (14 + 10), and 4A equals 74 (4 + 10). Adding them together gives 74 + 14A = 54 in base-16.**"
+    },
+    "C2+47": {
+        "llm_answer": "109",
+        "llm_explanation": "C2 in base-16 is 12*16 + 2 = 194 in base-10. 47 in base-16 is 4*16 + 7 = 71 in base-10. Summing gives 194 + 71 = 265 in base-10, which is 1*16\u00b2 + 0*16 + 9 = 109 in base-16.**"
+    },
+    "44+DE": {
+        "llm_answer": "82",
+        "llm_explanation": "In base-16, the number DE is equivalent to 13*16 + 14 = 222 in decimal. Adding 44 (which is 68 in decimal) gives 68 + 222 = 290. Converting 290 back to base-16 results in 82.**"
+    },
+    "22+6F": {
+        "llm_answer": "75",
+        "llm_explanation": "In base-16, 22 is 34 in decimal and 6F is 111 in decimal. Adding them together (34 + 111) gives 145 in decimal, which is 75 in base-16.**"
+    },
+    "29+99": {
+        "llm_answer": "B8",
+        "llm_explanation": "In base-16, 29 is represented as 1D and 99 as 63. Adding them together: 1D + 63 = B8.**"
+    },
+    "C3+9A": {
+        "llm_answer": null,
+        "llm_explanation": "To add C3 (which is 195 in decimal) and 9A (which is 154 in decimal), first convert them to decimal. So, C3 + 9A = 195 + 154 = 349. Then, convert 349 back to hexadecimal: 349 in decimal is CD in hexadecimal.**"
+    },
+    "E6+D9": {
+        "llm_answer": "1B7",
+        "llm_explanation": "E6 (which is 230 in decimal) plus D9 (which is 217 in decimal) sums to 447 in decimal, which converts back to 1B7 in base-16.**"
+    },
+    "82+AC": {
+        "llm_answer": "12E",
+        "llm_explanation": "Convert 82 and AC from base-16 to decimal (130 and 172), sum them (302), then convert back to base-16 (12E).**"
+    },
+    "67+55": {
+        "llm_answer": "D2",
+        "llm_explanation": "In base-16, the addition is done similarly to base-10. First, convert 67 and 55 to decimal: 67 in base-16 is 103 in decimal, and 55 in base-16 is 85 in decimal. Adding these gives 188 in decimal, which is equal to D2 in base-16 when converted back.**"
+    },
+    "45+18": {
+        "llm_answer": "5D",
+        "llm_explanation": "In base-16, 45 (which is 4*16 + 5 = 69 in decimal) and 18 (which is 1*16 + 8 = 24 in decimal) add up to 93 in decimal. When converting 93 back to base-16, we find it equals 5D.**"
+    },
+    "82+24": {
+        "llm_answer": "A0",
+        "llm_explanation": "In base-16, 82 is represented as 52 and 24 as 18. When you add these two values together (52 + 18), you get 6A in hexadecimal (which is equivalent to 106 in decimal). However, that equals A0 after carrying over since 106 in base-16 is 6A, and we take the carry into account. Thus, the result is A0.**"
+    },
+    "F4+F1": {
+        "llm_answer": "0x0F5",
+        "llm_explanation": "In base-16, F4 (which is 244 in decimal) plus F1 (which is 241 in decimal) equals 0x0F5 (which is 245 in decimal).**"
+    },
+    "E2+FC": {
+        "llm_answer": "1A8",
+        "llm_explanation": "To add E2 and FC in base-16, we convert them to decimal: E2 is 14*16^1 + 2*16^0 = 224 + 2 = 226 and FC is 15*16^1 + 12*16^0 = 240 + 12 = 252. Adding them gives 226 + 252 = 478. Now, convert 478 back to base-16: 478 = 1*16^2 + A*16^1 + 8*16^0 = 1A8.**"
+    },
+    "E8+97": {
+        "llm_answer": null,
+        "llm_explanation": "In base-16, E8 (which is 232 in decimal) plus 97 (which is 151 in decimal) equals 383 in decimal. Converting 383 back to base-16 gives 1E0.**"
+    },
+    "E6+FD": {
+        "llm_answer": "1B3",
+        "llm_explanation": "To add E6 and FD in base-16, align them and perform the addition as in decimal, carrying over when necessary. E (14 in decimal) + F (15 in decimal) gives 29, which is 1D in hex; write D down and carry 1. Then add E (14) + D (13) + 1 (the carry) for a total of 1E, which results in 1B3 in base-16.**"
+    },
+    "A8+8F": {
+        "llm_answer": "177",
+        "llm_explanation": "In base-16, A8 is 168 in decimal and 8F is 143. Adding them together gives 311 in decimal, which is 177 in base-16.**"
+    },
+    "BB+2A": {
+        "llm_answer": "CD",
+        "llm_explanation": "To add BB (which is 187 in decimal) and 2A (which is 42 in decimal) in base-16, we first convert them to decimal: BB = 11*16 + 11 = 187 and 2A = 2*16 + 10 = 42. Adding these gives 187 + 42 = 229 in decimal. Converting 229 back to base-16, we divide by 16, yielding 14 residue 5, which is E (14 in decimal) and D (13 in decimal). Hence, 229 in base-16 is CD.**"
+    },
+    "A3+8A": {
+        "llm_answer": null,
+        "llm_explanation": "To add A3 and 8A in base-16, we start from the rightmost digit: 3 + A (10), which equals 13 (or D in base-16). Then we add A (10) + 8 (8), which equals 18. We need to carry the 1 over to the next column since 18 exceeds 16. This gives us a final sum of 1 (carried over) plus 0 (from the second column after carrying) plus 0 (the next column) resulting in 1B43. Thus, the final result is B43.**"
+    }
+}

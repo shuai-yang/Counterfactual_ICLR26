@@ -1,0 +1,122 @@
+{
+    "tim saw lucas.": {
+        "llm_answer": "lucas tim saw.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"tim\" (subject) comes first, followed by \"lucas\" (object), and finally \"saw\" (verb)."
+    },
+    "jim calls olivia.": {
+        "llm_answer": "olivia jim calls.",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"jim\" comes after the object \"olivia\" and before the verb \"calls\"."
+    },
+    "jim saw emily.": {
+        "llm_answer": "emily jim saw.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"jim\" (subject) comes first, followed by \"emily\" (object), and then \"saw\" (verb)."
+    },
+    "mary knows emily.": {
+        "llm_answer": "mary emily knows.",
+        "llm_explanation": "In the new language, the order is subject-object-verb, so we place the subject \"mary\" first, followed by the object \"emily\" and then the verb \"knows\"."
+    },
+    "jim sees olivia.": {
+        "llm_answer": "olivia jim sees.",
+        "llm_explanation": "In the subject-object-verb order, the object comes before the verb, thus \"olivia\" (object) is placed before \"sees\" (verb)."
+    },
+    "anna calls noah.": {
+        "llm_answer": "noah anna calls.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"anna\" (subject) comes first, followed by \"noah\" (object), and finally \"calls\" (verb)."
+    },
+    "anna saw emily.": {
+        "llm_answer": "emily anna saw.",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"emily\" comes first, followed by the object \"anna\" and then the verb \"saw\"."
+    },
+    "alice sees ava.": {
+        "llm_answer": "alice sees ava.",
+        "llm_explanation": "In the new language, the order is subject-object-verb, so the words remain in the same form but their position changes."
+    },
+    "anna sees jacob.": {
+        "llm_answer": "jacob anna sees.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, placing \"jacob\" (object) before \"anna\" (subject) and keeping \"sees\" (verb) at the end."
+    },
+    "mary calls liam.": {
+        "llm_answer": "liam calls mary.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, resulting in \"liam\" (object) coming before \"calls\" (verb) and \"mary\" (subject) at the end."
+    },
+    "john calls ava.": {
+        "llm_answer": "ava john calls.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"john\" (subject) comes first, followed by \"ava\" (object), and then \"calls\" (verb)."
+    },
+    "sophie saw emma.": {
+        "llm_answer": "emma sophie saw.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"sophie\" (subject) comes first, followed by \"emma\" (object), and finally \"saw\" (verb)."
+    },
+    "sophie saw liam.": {
+        "llm_answer": "liam sophie saw.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"sophie\" (subject) comes first, followed by \"liam\" (object), and finally \"saw\" (verb)."
+    },
+    "sophie saw olivia.": {
+        "llm_answer": "olivia sophie saw.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"sophie\" (subject) comes first, followed by \"olivia\" (object), and then \"saw\" (verb)."
+    },
+    "bob loves liam.": {
+        "llm_answer": "liam bob loves.",
+        "llm_explanation": "In the new language, the order is subject-object-verb, so \"bob loves liam\" becomes \"liam bob loves.\""
+    },
+    "bob sees emma.": {
+        "llm_answer": "emma bob sees.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"bob\" (subject) comes first, followed by \"emma\" (object), and then \"sees\" (verb)."
+    },
+    "jim knows ethan.": {
+        "llm_answer": "ethan jim knows.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, placing \"ethan\" (object) before \"jim\" (subject) and then the verb \"knows\"."
+    },
+    "john calls olivia.": {
+        "llm_answer": "olivia john calls.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, placing \"olivia\" (object) before \"john\" (subject) and then the verb \"calls.\""
+    },
+    "anna loves jacob.": {
+        "llm_answer": "jacob anna loves.",
+        "llm_explanation": "The sentence is reconstructed in subject-object-verb order, placing \"jacob\" (object) before \"anna\" (subject) and keeping \"loves\" (verb) at the end."
+    },
+    "tom sees liam.": {
+        "llm_answer": "liam tom sees.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, placing \"liam\" (object) before \"tom\" (subject) and keeping \"sees\" (verb) at the end."
+    },
+    "mary knows ava.": {
+        "llm_answer": "ava mary knows.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"mary\" (subject) comes first, followed by \"ava\" (object), and finally \"knows\" (verb)."
+    },
+    "john sees ava.": {
+        "llm_answer": "ava john sees.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"john\" (subject) comes first, followed by \"ava\" (object), and then \"sees\" (verb)."
+    },
+    "jim knows lucas.": {
+        "llm_answer": "lucas jim knows.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, placing \"lucas\" (object) before \"jim\" (subject) and then the verb \"knows.\""
+    },
+    "anna sees liam.": {
+        "llm_answer": "liam anna sees.",
+        "llm_explanation": "In the new language with subject-object-verb order, the subject \"liam\" comes first, followed by the object \"anna\" and then the verb \"sees\"."
+    },
+    "alice loves mia.": {
+        "llm_answer": "alice mia loves",
+        "llm_explanation": "In the new language, the sentence follows a subject-object-verb order, so \"alice\" remains the subject, \"mia\" becomes the object, and \"loves\" is the verb."
+    },
+    "john knows ava.": {
+        "llm_answer": "john knows ava.",
+        "llm_explanation": "In the new language with subject-object-verb order, the sentence structure is maintained as is, since the words are in the same form."
+    },
+    "anna saw mia.": {
+        "llm_answer": "mia anna saw.",
+        "llm_explanation": "In the new language, the order is changed to subject-object-verb, so \"mia\" (object) comes first, followed by \"anna\" (subject) and then \"saw\" (verb)."
+    },
+    "sophie saw jacob.": {
+        "llm_answer": "jacob sophie saw.",
+        "llm_explanation": "In the new language structure, the order is changed to subject-object-verb, so \"sophie\" (subject) comes first, followed by \"jacob\" (object), and finally \"saw\" (verb)."
+    },
+    "jim calls mia.": {
+        "llm_answer": "jim mia calls",
+        "llm_explanation": "In the new language, the order is subject-object-verb, so \"jim\" (subject) is followed by \"mia\" (object) and then \"calls\" (verb)."
+    },
+    "bob saw lucas.": {
+        "llm_answer": "lucas bob saw.",
+        "llm_explanation": "In the new language, the order is subject-object-verb, so \"bob saw lucas\" becomes \"lucas bob saw.\""
+    }
+}

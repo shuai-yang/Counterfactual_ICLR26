@@ -1,0 +1,122 @@
+{
+    "Ordered least to greatest": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale indicates that the numbers were ordered from least to greatest, which means the correct order from highest to lowest would be the reverse of that. Choice C (276, 254, 237, 235) correctly lists the numbers from highest to lowest."
+    },
+    "Ordered greatest to least by ones place.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale indicates that the numbers should be ordered from greatest to least based on their ones place. Choice C (276, 254, 237, 235) correctly reflects this order."
+    },
+    "Switched last 2 numbers.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale indicates that the last two numbers were switched, which suggests that the correct order should have the highest number first, followed by the next highest, and so on. Option C (276, 254, 237, 235) correctly lists the numbers in descending order."
+    },
+    "Extends tens place to the 8.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the tens place is extended to the 8, which corresponds to the representation of 2,819 as 2,000 + 80 + 10 + 9."
+    },
+    "Misrepresents the place value of 8 as thousands instead of hundreds.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates a misrepresentation of the place value of 8, suggesting it was incorrectly considered as thousands instead of hundreds. Choice B correctly represents 2,819 as 2,000 + 800 + 10 + 9, aligning with the correct place values."
+    },
+    "Misrepresents the place value of 1 as hundreds instead of tens": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates a misrepresentation of the place value of 1 as hundreds instead of tens, which aligns with option B where 1 is incorrectly represented as 800 instead of 80."
+    },
+    "Uses only \"+\" between all of the digits and does not consider place value. ": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the representation uses only \"+\" between the digits without considering their place value, which aligns with option A (3 + 2 + 3 + 6)."
+    },
+    "Uses \"+\" between 2 sets of the digits and does not consider place value.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the representation incorrectly uses \"+\" between the digits without considering their place value, which aligns with option A (3 + 2 + 3 + 6)."
+    },
+    "Omits zero after \"3\" to make \"300\", not \"3,000\"": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a mistake in representing the number by omitting a zero, which suggests that the correct representation should include \"3,000\" as part of the total, making D the most suitable choice."
+    },
+    "Chooses the 5th number in the sequence.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the fifth number in the sequence is chosen, which is 46."
+    },
+    "Chooses the 2nd and 3rd terms added together. 25 + 32 = 57": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale indicates that the sixth number was calculated by adding the 2nd and 3rd terms (25 + 32), resulting in 57, which directly corresponds to choice C."
+    },
+    "Chooses the 7th number in the sequence.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the student chose the 7th number in the sequence, which suggests they miscalculated the position of the number they were supposed to find. The correct sixth number in the series is 46, making A the most suitable choice."
+    },
+    "Calculates 45 - 22 = 23": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates a calculation of 45 - 22 = 23, which suggests that Mia spent 23 minutes baking, aligning with choice A."
+    },
+    "Calculates 45 + 22 with no carrying from the ones to tens place.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates that the calculation was incorrect due to not carrying over from the ones to the tens place, leading to an incorrect total of 37 minutes instead of the correct calculation of 37 minutes."
+    },
+    "Calculates 45 + 22 = 77": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates that the calculation was incorrectly done by adding 45 and 22, resulting in 77 minutes, which aligns with choice D."
+    },
+    "Calculates 50 - 5 = 45 and 1 hour from noon to 1:00.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that Tom calculated the time spent watching the movie as 50 minutes (from 11:50 a.m. to noon) plus 1 hour (from noon to 1:00 p.m.), resulting in a total of 1 hour and 15 minutes."
+    },
+    "Calculates 2 hours from 11:00 to 1:00.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that the calculation was based on a 2-hour estimate from 11:00 to 1:00, which does not accurately account for the actual time from 11:50 a.m. to 1:05 p.m. The correct duration is 1 hour and 15 minutes, aligning with choice A."
+    },
+    "Calculates 50 - 5 = 45 and 2 hours from 11:00 to 1:00.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that Tom calculated the time from 11:50 a.m. to 1:05 p.m. by subtracting 5 minutes from 50 minutes and adding 2 hours, which totals 1 hour and 15 minutes."
+    },
+    "Considers 1 to be in the ones place rather than the 10s place.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale indicates a misunderstanding of place value, specifically regarding the position of the digit 1. Option C correctly represents 4,810 as 4 thousands + 8 hundreds + 1 one, aligning with the rationale's focus on the ones place."
+    },
+    "Shifts all digits by a factor of 10.": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale indicates a shift of digits by a factor of 10, which aligns with the breakdown of 4,810 into its place values as 4 thousands, 8 hundreds, and 1 one, making C the most suitable choice."
+    },
+    "Considers 1 to be in the ones place rather than the 10s place. ": {
+        "llm_answer": "C",
+        "llm_answer_explanation": "The rationale indicates a misunderstanding of place value, specifically regarding the position of the digit 1. Choice C correctly represents 4,810 as 4 thousands + 8 hundreds + 1 one, aligning with the rationale's focus on the ones place."
+    },
+    "Ordered the first 2 numbers.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates that the first two numbers were ordered, which suggests that the correct arrangement starts with the smallest number, 489, followed by 498, then 849, and finally 984, matching choice D."
+    },
+    "Ordered by ones place.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates that the numbers were ordered by their ones place, and option D correctly arranges the numbers from smallest (489) to largest (984) based on that criterion."
+    },
+    "Ordered by tens and ones.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates that the numbers should be ordered by tens and ones, which aligns with the correct ascending order of the numbers: 489, 498, 849, 984."
+    },
+    "An octagon has 8 angles.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale mentions an octagon, which has 8 angles, but does not address the question about a shape with 6 angles. A hexagon, which has 6 angles, is the correct answer."
+    },
+    "A pentagon has 5 angles.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale states that a pentagon has 5 angles, implying that the correct answer must have more angles than that. A hexagon, which has 6 angles, fits this requirement."
+    },
+    "A rhombus has 4 angles.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale states that a rhombus has 4 angles, which indicates that it is not the correct answer to the question about a shape with 6 angles. A hexagon, which has 6 angles, is the most suitable choice."
+    },
+    "Added only 25 minutes to 11:55.": {
+        "llm_answer": "A",
+        "llm_answer_explanation": "The rationale indicates that only 25 minutes were added to 11:55 a.m., which results in 12:20 p.m. This aligns with choice A."
+    },
+    "Calculated 11 + 1 = 12 and 55 - 25 = 30 for 12:30.": {
+        "llm_answer": "B",
+        "llm_answer_explanation": "The rationale indicates that Alex calculated the time incorrectly as 12:30 by adding 1 hour to 11 and subtracting 25 minutes from 55, which aligns with choice B."
+    },
+    "Determined the correct hour but used 55 - 25 = 30 to find 1:30.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates that the student calculated the hour correctly but made an error in subtracting the minutes, leading to an incorrect finish time of 1:30 instead of the correct time."
+    }
+}

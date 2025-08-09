@@ -1,0 +1,122 @@
+{
+    "76+14": {
+        "llm_answer": "100",
+        "llm_explanation": "The base-9 numbers 76 and 14 convert to base-10 as 70 + 6 = 64 and 10 + 4 = 13 respectively. Adding these gives 64 + 13 = 77, which converts back to base-9 as 100.**"
+    },
+    "86+57": {
+        "llm_answer": "145",
+        "llm_explanation": "The sum of 86 and 57 in base-9 converts to base-10 as 77 and 52 respectively, which adds up to 129 in base-10. Converting 129 back to base-9 gives 145.**"
+    },
+    "63+34": {
+        "llm_answer": "107",
+        "llm_explanation": "The numbers 63 and 34 in base-9 convert to 57 and 31 in base-10 respectively. Their sum in base-10 is 88, which converts back to 107 in base-9.**"
+    },
+    "31+58": {
+        "llm_answer": "100",
+        "llm_explanation": "The base-9 numbers 31 and 58 convert to 28 and 53 in base-10 respectively. Their sum in base-10 is 81, which converts back to 100 in base-9.**"
+    },
+    "67+25": {
+        "llm_answer": "92",
+        "llm_explanation": "The numbers 67 and 25 in base-9 convert to 60 and 23 in base-10 respectively. Their sum in base-10 is 83, which converts back to 92 in base-9.**"
+    },
+    "75+48": {
+        "llm_answer": "123",
+        "llm_explanation": "The numbers 75 and 48 in base-9 convert to 66 and 42 in base-10 respectively. Their sum in base-10 is 108, which converts back to 123 in base-9.**"
+    },
+    "87+50": {
+        "llm_answer": "137",
+        "llm_explanation": "The numbers 87 and 50 in base-9 convert to 79 and 45 in base-10 respectively. Their sum in base-10 is 124, which converts back to 137 in base-9.**"
+    },
+    "85+45": {
+        "llm_answer": "130",
+        "llm_explanation": "The numbers 85 and 45 in base-9 convert to 77 and 40 in base-10 respectively. Their sum in base-10 is 117, which converts back to 130 in base-9.**"
+    },
+    "38+81": {
+        "llm_answer": "120",
+        "llm_explanation": "The base-9 numbers 38 and 81 convert to base-10 as 35 and 73 respectively. Their sum in base-10 is 108, which converts back to base-9 as 120.**"
+    },
+    "25+81": {
+        "llm_answer": "106",
+        "llm_explanation": "25 in base-9 is 23 in base-10, and 81 in base-9 is 73 in base-10. Adding them gives 96 in base-10, which converts to 106 in base-9.**"
+    },
+    "58+51": {
+        "llm_answer": "107",
+        "llm_explanation": "The base-9 numbers 58 and 51 convert to base-10 as 53 and 46 respectively. Their sum in base-10 is 99, which converts back to base-9 as 107.**"
+    },
+    "68+48": {
+        "llm_answer": "121",
+        "llm_explanation": "The numbers 68 and 48 in base-9 convert to 62 and 43 in base-10 respectively. Their sum in base-10 is 105, which converts back to 121 in base-9.**"
+    },
+    "57+26": {
+        "llm_answer": "105",
+        "llm_explanation": "The sum of 57 and 26 in base-9 converts to 52 and 23 in base-10, respectively. Adding these gives 75 in base-10, which converts back to 105 in base-9.**"
+    },
+    "63+52": {
+        "llm_answer": "115",
+        "llm_explanation": "The numbers 63 and 52 in base-9 convert to 57 and 47 in base-10 respectively. Their sum in base-10 is 104, which converts back to 115 in base-9.**"
+    },
+    "81+22": {
+        "llm_answer": "110",
+        "llm_explanation": "The sum of 81 (base-9) and 22 (base-9) converts to 81 (base-10) + 20 (base-10) = 101 (base-10), which is 110 in base-9.**"
+    },
+    "78+58": {
+        "llm_answer": "137",
+        "llm_explanation": "The numbers 78 and 58 in base-9 convert to 70 and 52 in base-10 respectively, which sum to 122 in base-10. Converting 122 back to base-9 gives 137.**"
+    },
+    "43+74": {
+        "llm_answer": "121",
+        "llm_explanation": "The numbers 43 and 74 in base-9 convert to 39 and 67 in base-10 respectively. Their sum in base-10 is 106, which converts back to 121 in base-9.**"
+    },
+    "87+61": {
+        "llm_answer": "158",
+        "llm_explanation": "The sum of 87 and 61 in base-9 converts to base-10 as 79 and 55 respectively, which adds up to 134 in base-10. Converting 134 back to base-9 gives 158.**"
+    },
+    "61+85": {
+        "llm_answer": "146",
+        "llm_explanation": "The numbers 61 and 85 in base-9 convert to 55 and 77 in base-10 respectively. Their sum in base-10 is 132, which converts back to 146 in base-9.**"
+    },
+    "33+18": {
+        "llm_answer": "52",
+        "llm_explanation": "The numbers 33 and 18 in base-9 convert to 30 and 16 in base-10 respectively. Their sum in base-10 is 46, which converts back to 52 in base-9.**"
+    },
+    "26+25": {
+        "llm_answer": "32",
+        "llm_explanation": "26 in base-9 is 23 in base-10, and 25 in base-9 is 22 in base-10. Adding them gives 45 in base-10, which converts to 32 in base-9.**"
+    },
+    "31+83": {
+        "llm_answer": "124",
+        "llm_explanation": "The numbers 31 and 83 in base-9 convert to 28 and 74 in base-10 respectively. Their sum in base-10 is 102, which converts back to 124 in base-9.**"
+    },
+    "51+41": {
+        "llm_answer": "112",
+        "llm_explanation": "The base-9 numbers 51 and 41 convert to 46 and 37 in base-10 respectively. Their sum in base-10 is 83, which converts back to 112 in base-9.**"
+    },
+    "55+72": {
+        "llm_answer": "130",
+        "llm_explanation": "The numbers 55 and 72 in base-9 convert to 50 and 65 in base-10 respectively. Their sum in base-10 is 115, which converts back to 130 in base-9.**"
+    },
+    "18+80": {
+        "llm_answer": "107",
+        "llm_explanation": "The numbers 18 and 80 in base-9 convert to 16 and 72 in base-10 respectively. Their sum in base-10 is 88, which converts back to 107 in base-9.**"
+    },
+    "26+44": {
+        "llm_answer": "70",
+        "llm_explanation": "The numbers 26 and 44 in base-9 convert to 23 and 40 in base-10 respectively. Their sum in base-10 is 63, which converts back to 70 in base-9.**"
+    },
+    "67+33": {
+        "llm_answer": "110",
+        "llm_explanation": "The numbers 67 and 33 in base-9 convert to 60 and 30 in base-10 respectively. Their sum in base-10 is 90, which converts back to 110 in base-9.**"
+    },
+    "51+82": {
+        "llm_answer": "133",
+        "llm_explanation": "The sum of 51 and 82 in base-9 converts to base-10 as 46 and 74 respectively, which adds up to 120 in base-10. Converting 120 back to base-9 gives 133.**"
+    },
+    "17+78": {
+        "llm_answer": "106",
+        "llm_explanation": "The numbers 17 and 78 in base-9 convert to 16 and 70 in base-10 respectively. Their sum in base-10 is 86, which converts back to 106 in base-9.**"
+    },
+    "55+74": {
+        "llm_answer": "131",
+        "llm_explanation": "The numbers 55 and 74 in base-9 convert to 50 and 67 in base-10 respectively. Their sum in base-10 is 117, which converts back to 131 in base-9.**"
+    }
+}

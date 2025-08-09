@@ -1,0 +1,142 @@
+{
+    "COCO_val2014_000000000042.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000873.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "Adding red crosses on the roof is a common symbol associated with hospitals and medical facilities. Therefore, if the image showcased a building that is not a hospital but had red crosses on its roof, it could be perceived as a hospital based on that symbol alone."
+    },
+    "COCO_val2014_000000000074.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "A dog can have a collar in addition to other items around its neck, such as a rope. If the dog has a rope tied around its neck, it doesn't automatically negate the presence of a collar; it is possible for both to coexist."
+    },
+    "COCO_val2014_000000000192.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "no",
+        "llm_answer_explanation": "Safety gear such as helmets is typically a standard requirement for catchers in baseball for protection. If there were no helmets present, it is likely that the catcher wouldn't have any safety gear, as helmets are a crucial part of their protective equipment."
+    },
+    "COCO_val2014_000000000285.jpg": {
+        "fact_answer": "yes",
+        "llm_answer": "no",
+        "llm_answer_explanation": "If the bear keeps its hind legs upright, it would likely not be sitting, as sitting typically involves the hind legs being positioned on the ground to support the body. Keeping the hind legs upright suggests an unnatural posture for a bear, preventing it from being in a sitting position."
+    },
+    "COCO_val2014_000000000400.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "The presence of a cat on the blue deck does not inherently affect whether a dog would be present. Depending on the context and surroundings, a dog could still be nearby even if a cat is on the blue deck."
+    },
+    "COCO_val2014_000000000428.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If he were clean all over, he would not need a bath soon, as cleanliness typically indicates that there is no dirt or odor that would necessitate bathing."
+    },
+    "COCO_val2014_000000000459.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "no",
+        "llm_answer_explanation": "The man in the image is not holding a camera; hence, dropping what is in his left hand, which does not appear to be a camera, would not introduce a camera into the scene. Therefore, even if he drops it, there will still be no camera present."
+    },
+    "COCO_val2014_000000000474.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If this place just burned down, it is likely that grass would not be present immediately after the fire. However, in the future, grass may regrow as the area recovers, depending on the environmental conditions and the resilience of the local ecosystem."
+    },
+    "COCO_val2014_000000000486.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If a man parked a bicycle in the area depicted in the image, it would introduce a bicycle to the scene where none currently exists."
+    },
+    "COCO_val2014_000000000520.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If the bottom of the bridge were 100 meters above the water, it would be classified as a high bridge, as it exceeds the typical height criteria for bridges, which usually defines high bridges as those that are elevated significantly above ground or water level, often starting above 30 meters."
+    },
+    "COCO_val2014_000000000544.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If all players were wearing red, the catcher could theoretically still wear blue, as players can choose different colors regardless of the rest of the team's uniform. Thus, it's possible that the catcher could be wearing blue even in a scenario where all other players are in red."
+    },
+    "COCO_val2014_000000000661.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "no",
+        "llm_answer_explanation": "The question speculates about a hypothetical situation where a man grabs a bag, which does not provide any evidence or context to suggest that a person would be holding a sandwich in that scenario. Therefore, we cannot conclude that there would be a person holding a sandwich based on the information given."
+    },
+    "COCO_val2014_000000000675.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "The light is off in the image, but if a man pressed the light switch, it is reasonable to assume that the light would turn on, as pressing a switch typically activates the light."
+    },
+    "COCO_val2014_000000000692.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "no",
+        "llm_answer_explanation": "If the baby were to wear the same clothes as the mother, they would likely wear a different pattern or style, as indicated by the mother\u2019s clothing choices, which do not contain stripes. Therefore, it is unlikely that the baby would wear stripes in this scenario."
+    },
+    "COCO_val2014_000000000711.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If the remote control is moved to the sofa, it would no longer be on the table, so the answer to whether it would be on the table is yes, it would not be there anymore."
+    },
+    "COCO_val2014_000000000724.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000757.jpg": {
+        "fact_answer": "yes",
+        "llm_answer": "no",
+        "llm_answer_explanation": "Animals typically inhabit areas where water is available, as it is essential for their survival. Without water, many species would not be able to thrive in the wild, limiting their natural habitats."
+    },
+    "COCO_val2014_000000000772.jpg": {
+        "fact_answer": "yes",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If we can see grass on the sheep's mouths, it indicates that they are currently eating grass or have just eaten it. This visual evidence supports that they are indeed eating grass."
+    },
+    "COCO_val2014_000000000785.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If she took off the glasses, the goggles would still cover her eyes because they are designed to fit over the eyes regardless of whether she is wearing glasses or not."
+    },
+    "COCO_val2014_000000000969.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "no",
+        "llm_answer_explanation": "If the boy were bending down, it is not guaranteed that both men would also be bending down. The actions of the men may not be dependent on the boy, and they could choose to remain standing regardless of the boy's actions."
+    },
+    "COCO_val2014_000000001029.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "The presence of clouds is determined by weather conditions, which are not influenced by the presence of planes. Therefore, if there were no planes, clouds could still exist in the atmosphere due to natural weather phenomena."
+    },
+    "COCO_val2014_000000001064.jpg": {
+        "fact_answer": "yes",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If the toast does not have any black on the edges, it implies that it is likely not burned. However, the condition for burning could depend on other factors such as cooking time or temperature, which are not visible in the image. Therefore, if the black edges are absent, then logically, the toast would not be considered burned."
+    },
+    "COCO_val2014_000000001083.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If the cows were seriously ill, they would most likely be suffering due to their illness. Suffering is commonly associated with being unwell, and a serious illness would typically lead to physical or psychological distress."
+    },
+    "COCO_val2014_000000001103.jpg": {
+        "fact_answer": "yes",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "The color of the sea and sand does not determine whether a photograph is a color photograph. If the sea were blue and the sand were golden, it would still be a color photograph as long as it contains colors."
+    },
+    "COCO_val2014_000000001146.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "In the image, the man is wearing a casual shirt without a tie, which is not appropriate for wearing with a tie. However, if his clothes were fancy, such as a formal dress shirt, it would be appropriate to wear a tie."
+    },
+    "COCO_val2014_000000001153.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If we could only see the pulp and not the peel, it would imply that the bananas are indeed peeled, as the pulp is the inner part of the banana that is exposed when the peel is removed."
+    },
+    "COCO_val2014_000000001205.jpg": {
+        "fact_answer": "yes",
+        "llm_answer": "no",
+        "llm_answer_explanation": "The light is glowing, indicating that it is on. However, if it were not glowing (meaning it is off), it would not be providing illumination. Therefore, if the light were not glowing, it would be switched off."
+    }
+}

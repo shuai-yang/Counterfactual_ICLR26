@@ -1,0 +1,122 @@
+{
+    "Ordered least to greatest": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Ordered greatest to least by ones place.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Switched last 2 numbers.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Extends tens place to the 8.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Misrepresents the place value of 8 as thousands instead of hundreds.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Misrepresents the place value of 1 as hundreds instead of tens": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Uses only \"+\" between all of the digits and does not consider place value. ": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Uses \"+\" between 2 sets of the digits and does not consider place value.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Omits zero after \"3\" to make \"300\", not \"3,000\"": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Chooses the 5th number in the sequence.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Chooses the 2nd and 3rd terms added together. 25 + 32 = 57": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Chooses the 7th number in the sequence.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Calculates 45 - 22 = 23": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Calculates 45 + 22 with no carrying from the ones to tens place.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Calculates 45 + 22 = 77": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Calculates 50 - 5 = 45 and 1 hour from noon to 1:00.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Calculates 2 hours from 11:00 to 1:00.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Calculates 50 - 5 = 45 and 2 hours from 11:00 to 1:00.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Considers 1 to be in the ones place rather than the 10s place.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Shifts all digits by a factor of 10.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Considers 1 to be in the ones place rather than the 10s place. ": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Ordered the first 2 numbers.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Ordered by ones place.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Ordered by tens and ones.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "An octagon has 8 angles.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "A pentagon has 5 angles.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "A rhombus has 4 angles.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Added only 25 minutes to 11:55.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Calculated 11 + 1 = 12 and 55 - 25 = 30 for 12:30.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    },
+    "Determined the correct hour but used 55 - 25 = 30 to find 1:30.": {
+        "llm_answer": "D",
+        "llm_answer_explanation": "The rationale indicates a miscalculation leading to the time 1:30 instead of the correct answer which would be 1:20."
+    }
+}

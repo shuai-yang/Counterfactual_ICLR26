@@ -1,0 +1,122 @@
+{
+    "COCO_val2014_000000000428.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000474.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000520.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "A high bridge is typically defined as one that has a clearance of at least 15-20 meters (approximately 50-65 feet) above the ground or water below. If the bottom of the bridge were 100 meters above the water, it would certainly qualify as a high bridge based on common definitions."
+    },
+    "COCO_val2014_000000000661.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000675.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000692.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000711.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000724.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the sky were pure blue, it would not indicate the absence of clouds altogether. The presence of clouds depends on atmospheric moisture and weather conditions, not just the color of the sky. A blue sky can still have clouds, especially those that are thin or scattered."
+    },
+    "COCO_val2014_000000000785.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000001029.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000001064.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000001103.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The photograph would still be considered a color photograph regardless of the specific colors represented in the image. The presence of color is what categorizes an image as a color photograph, as opposed to being black and white."
+    },
+    "COCO_val2014_000000001146.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000001153.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000001340.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "If the flowers do not die without water, it implies they are artificial since real flowers need water for nourishment and survival."
+    },
+    "COCO_val2014_000000001342.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "Even with the addition of bananas and apples, the items present in the image (interpreted as non-edibles) would remain inedible."
+    },
+    "COCO_val2014_000000001425.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the food were eaten, it would still leave behind remnants, stains, or changes in color in the surroundings, as well as the presentation of the dish, which typically retains visual color even after consumption."
+    },
+    "COCO_val2014_000000001436.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "If the man had taken off his glasses, he would not be wearing them, which means he would not have glasses on his face."
+    },
+    "COCO_val2014_000000001554.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000001563.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000001584.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000001700.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the snowboarder jumped up, they would be in the air because jumping inherently involves leaving the ground, which can result in becoming airborne."
+    },
+    "COCO_val2014_000000001841.jpg": {
+        "fact_answer": null,
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000002149.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The presence of any apples, regardless of their color, does not affect the number of oranges in the image. Thus, if all the apples were not red, it does not change the fact that there are still not three oranges present in the picture."
+    }
+}

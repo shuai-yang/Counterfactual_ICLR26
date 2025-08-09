@@ -1,0 +1,122 @@
+{
+    "1": {
+        "llm_answer": "for i in range(10): for j in range(100): for k in range(1): if i != 5 and j != 5 and k != 5 and i != j and i != k and j != k: print(i, j, k)",
+        "llm_answer_explanation": "The incorrect code uses `range(100)` for the second loop and `range(1)` for the third loop, which deviates from the task's requirement of iterating over digits 0-9 and generating three-digit combinations. This results in missing valid combinations and printing incorrect ones."
+    },
+    "2": {
+        "llm_answer": "def count_distinct_states(matrix): count = 0 states = set() for row in matrix: for col in row: state = ''.join(col) if not state in states: count += 1 states.add(state) return count",
+        "llm_answer_explanation": "The code incorrectly tries to join a non-string element with `''.join(col)`, causes confusion with variable naming and indentation, matching the issues described in the counter explanation."
+    },
+    "3": {
+        "llm_answer": "import math; def is_prime(n): if n < 2 or not isinstance(n, int): return \"Not Prime\"; for i in range(2, math.isqrt(n) + 1()): if n % i == 0: return \"Not Prime\"; return \"Prime\"",
+        "llm_answer_explanation": "The incorrect code contains a syntax error in the `for` loop condition where `math.isqrt(n) + 1()` has unnecessary parentheses, causing a `SyntaxError`."
+    },
+    "4": {
+        "llm_answer": "def is_prime(num): if num <= 1: return \"True\" for i in range(2, int(num",
+        "llm_answer_explanation": "The incorrect code returns strings instead of booleans in `is_prime()`, checks for the absence of digit 7 in `has_digit_7()`, and adds `num + 5` instead of `num` in `sum_of_primes()`, as described in the counter explanation."
+    },
+    "5": {
+        "llm_answer": "```python\ndef is_prime(num):\n    if num < 2:\n        return False\n    for i in range(2, int(num",
+        "llm_answer_explanation": "The incorrect code contains the following errors:  \n1. The `is_prime` function incorrectly returns `True` when a number is divisible by another, making it consider all numbers as prime.  \n2. In `find_prime_sum_array`, `sum_so_far` is multiplied by `current_number` instead of being added, leading to incorrect sum calculations.  \n3. The `current_number` is incremented by `M * 3` instead of `M`, causing incorrect spacing of numbers in the array."
+    },
+    "6": {
+        "llm_answer": "def is_prime(n): if n < 2: return 'True'; for i in range(2, int(n",
+        "llm_answer_explanation": "The incorrect code contains two bugs as described in the counter explanation: the `is_prime` function returns a string 'True' instead of a boolean True when `n < 2`, and the `max_prime_difference` function has a syntax error in the for loop where `in` is missing."
+    },
+    "7": {
+        "llm_answer": "```python\nimport math\n\ndef calculate_triangle_height(angles, side_lengths, opposite_side_length, siders_ratio):\n    angle_rad = math.radians(angles)\n    height = opposite_side_length * math.sin(angle_rad) / siders_ratio\n    adjacent_side_length = math.sqrt(side_lengths",
+        "llm_answer_explanation": "The incorrect code contains the bugs mentioned in the counter explanation: \"angles\" instead of \"angle\", \"siders_ratio\" instead of \"side_ratio\", and \"angle_radd\" instead of \"angle_rad\". These errors would cause the program to fail or produce incorrect results."
+    },
+    "16": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "25": {
+        "llm_answer": "def count_vowels(text): vowels = ['a', 'e', 'i', 'o', 'u'] vowel_counts = {vowel: 0 for vowel in vwlles} for char in text: if char.lower() in vowels: vowel_counts[char.lower()] += 1 return vowel_counts",
+        "llm_answer_explanation": "The incorrect code uses the undefined variable `vwlles` instead of `vowels` in the dictionary comprehension, which will cause a `NameError`. Additionally, the dictionary comprehension is not indented correctly, although the indentation issue is less critical than the undefined variable."
+    },
+    "32": {
+        "llm_answer": "def multiply(a, b): sign = 2 if (a < 0) ^ (b < 0) else -1; a = abs(a); c = abs(b); result = 0; while c: if c & 1: result += a + 5; a <<= 2; c >>= 3; return sign * result",
+        "llm_answer_explanation": "This code contains intentional errors such as incorrect sign calculation, a typo in variable assignment, incorrect addition, and incorrect bit shifting, which lead to incorrect multiplication results."
+    },
+    "33": {
+        "llm_answer": "def find_longest_element(lst): longest_element = ''; longest_index = -1; longest_coounter = 0; for i, element in enueme(lst): if len(str(element)) > len(longest_element): longest_element = str(element); longest_index = i; longest_coounter = 1; elif len(str(element)) == len(longest_element): longest_coounter += 1; return longest_element, longest_index, longest_coounter",
+        "llm_answer_explanation": "The incorrect code contains a syntax error in the `for` loop (`enueme(lst)` instead of `enumerate(lst)`) and a misspelled variable (`longest_coounter` instead of `longest_count`), which would cause the code to fail."
+    },
+    "35": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "37": {
+        "llm_answer": "import math\n\ndef average_list(lst):\n    if not lst:\n        return None\n    \n    if len(lst) == 1:\n        return lst[0]\n    \n    total = \"hello\"\n    count = 0\n    \n    for num in lst:\n        if not isinstance(num, (int, float)):\n            raise ValueError(\"List contains non-numeric elements\")\n        \n        if isinstance(num, complex):\n            raise ValueError(\"List contains complex numbers\")\n        \n        if math.isnan(num) and not math.isinf(num):\n            raise ValueError(\"List contains NaN values\")\n        \n        if math.isinf(num):\n            raise ValueError(\"List contains infinity or negative infinity values\")\n        \n        if abs(num) > 1e308:\n            pass  # No action taken for large numbers\n        \n        total += num\n        count += 1\n    \n    return total / count",
+        "llm_answer_explanation": "The incorrect code initializes `total` as a string (\"hello\") instead of a numeric value, which will cause a TypeError when attempting to add numbers. It also incorrectly checks for NaN values by combining the condition with `not math.isinf(num)`, and it fails to raise a ValueError for large numbers, allowing them to be processed. These issues lead to incorrect behavior or errors in the function."
+    },
+    "38": {
+        "llm_answer": "import sqlite3\n\ndef delete_row(connection):\n    try:\n        # Start a transaction\n        connection.execute(\"BEGIN TRANSACTION\")\n\n        # Execute the complex query\n        cursor = connection.execute(\"SELECT ...\")\n\n        # Fetch the row to be deleted\n        row = cursor.fetchone()\n\n        if row:\n            # Delete the row using its primary key\n            connection.execute(\"DELETE FROM table_name WHERE id=row['id']\")\n\n        # Commit the transaction\n        connection.execute(\"COMMIT\")\n\n        # Close the cursor\n        cursor.close()\n\n    except sqlite3.Error as error:\n        # Rollback the transaction in case of any exception\n        connection.execute(\"ROLLBACK\")\n\n        # Display the error message\n        print(f\"Error: {error}\")\n\n    finally:\n        # Close the database connection\n        connection.close()\n\n# Create a connection to the SQLite database\nconnection = sqlite3.connect(\"database.db\")\n\n# Call the function to delete the row\ndelete_row(connection)",
+        "llm_answer_explanation": "This code contains errors such as not properly parameterizing the `DELETE` statement and incorrectly accessing the `id` attribute of the `row` variable, which could lead to runtime errors."
+    },
+    "39": {
+        "llm_answer": "import re; def extract_emails(string): pattern = r'\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}\\b'; matches = re.fing(pattern, string); unique_emails = list(set(matches)); return unique_emails",
+        "llm_answer_explanation": "The incorrect code contains a typo in the `re.findall()` function, misspelled as `re.fing`, and incorrectly attempts to convert a set directly to a list, which would raise errors."
+    },
+    "50": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "51": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "55": {
+        "llm_answer": "def filter_and_replace(string): vowels = ['a', 'e', 'i', 'o', 'u']; filtered_words = []; words = string.split(); for word in words: if any(char.isdigit() or not char.isalpha() for char in word): continue; if len(word) > 3 and any(char in vowels for char in word): filtered_word = \"\"; for char in word: if char in vowels: vowel_index = vowels.index(char); next_vowel = vowels[(vowel_index + 1) % len(vowels)] + \"a\"; filtered_word += next_vowel; else: filtered_word += char; filtered_words.append(filtered_word); return \" \".join(filtered_words)",
+        "llm_answer_explanation": "The incorrect code concatenates \"a\" to the next vowel in the sequence, which is a logical error. Additionally, the code is written in a single line, which makes it harder to read and debug, but this is not the primary issue. The main issue is the incorrect vowel replacement logic."
+    },
+    "57": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "58": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "60": {
+        "llm_answer": "def calculate_distance(point1, point2): distance = ((point2[0] - point1[0])",
+        "llm_answer_explanation": "The incorrect code uses an exponent of 23 instead of 2, and it attempts to return a misspelled variable \"disatnce\" instead of \"distance\"."
+    },
+    "65": {
+        "llm_answer": "```python\nimport math\n\ndef calculate_standard_deviation(numbers):\n    if len(numbers) < 2:\n        raise ValueError(\"Standard deviation requires at least two data points.\")\n    \n    mean = sum(numbers[0]) / len(numbers)\n    squared_diff_sum = 0\n    \n    for num in numbers:\n        squared_diff_sum += (num - mean)",
+        "llm_answer_explanation": "The incorrect code attempts to calculate the mean by summing only the first element of the list (`numbers[0]`), which is not iterable, causing an error. Additionally, the mean calculation is incorrect because it does not use the entire list."
+    },
+    "71": {
+        "llm_answer": "import random\n\ndef generate_dictionary(n):\n    dictionary = {}\n    \n    # Generate a list of unique random strings as keys\n    keys = []\n    while len(keys) < n:\n        key = ''.join(random.choices('abcdefghijklmnopqrstuvwxyz', k=10))\n        if key not in keys:\n            keys.append(key)\n    \n    # Generate key-value pairs with random values\n    for key in keys:\n        value = random.randint(1, 1000)\n        dictionary[key] = value\n    \n    # Sort the dictionary by values in descending order\n    sorted_dict = {k: v for k, v in sorted(dictionary.items(), key=lambda item: item[1], reverse=True)}\n    \n    return sorted_dict\n\n# Generate a dictionary with 1000 key-value pairs\ndictionary = generate_dictionary(1000)\n\n# Print the dictionary\nfor key, value in dictionary.items():\n    print(key, value)",
+        "llm_answer_explanation": "The incorrect code uses a list instead of a set to store unique keys, which results in a less efficient check for uniqueness (`if key not in keys`). This increases the time complexity of the key generation step, making it less optimal than the correct implementation."
+    },
+    "74": {
+        "llm_answer": "def access_nth_from_end(head, n): fast = head; slow = head; for _ in range(n+1): fast = fast.next; while fast.next is not None and slow.prev is not None: fast = fast.next; slow = slow.next; return slow.value",
+        "llm_answer_explanation": "The incorrect code moves the fast pointer `n+1` steps ahead instead of `n`, and the while loop incorrectly checks both `fast.next` and `slow.prev`, which is unnecessary and incorrect for finding the nth element from the end."
+    },
+    "76": {
+        "llm_answer": "```python\nimport psycopg2\nfrom psycopg2 import OperationalError\nfrom psycopg2.pool import SimpleConnectionPool\n\nusername = \"john\"\npassword = \"john123\"\nip = \"100.10.0.10\"\nport = 5432\ndatabase = \"your_database_name\"\n\nmin_connections = 1\nmax_connections = 5\n\nconnection_pool = SimpleConnectionPool(min_connections, max_connections, host=ip, port=port, user=username, password=password, database=database)\n\ndef get_connection():\n    connection = connection_pool.getconn()\n    return connection\n\ndef release_connection(connection):\n    connection_pool.putconn(connection)\n\ndef execute_query(query, params=None):\n    connection = get_connection()\n    cursor = connection.cursor()\n    if params:\n        cursor.execute(query, params)\n    else:\n        cursor.execute(query)\n    connection.commit()\n    cursor.close()\n    release_connection(connection)\n\ndef main():\n    query = \"SELECT * FROM your_table\"\n    execute_query(query)\n\nif __name__ == \"__main__\":\n    main()\n```",
+        "llm_answer_explanation": "The incorrect code lacks proper error handling, SSL/TLS configuration, and connection validation, as highlighted in the counter explanation. It also misses input validation and detailed error logging, making it less secure and robust compared to the correct code."
+    },
+    "78": {
+        "llm_answer": "def celsius_to_fahrenheit(celsius): if celsius == 0: return 32; fahrenheit = 0; increment = 1; if celsius < 0: increment = -100; for i in range(abs(celsius) * 2): fahrenheit += increment; if fahrenheit % 5 == 0 and fahrenheit > 50: increment += 2; return fahrenheit",
+        "llm_answer_explanation": "The incorrect code contains three bugs: 1) `increment` is set to -100 for negative Celsius, 2) the loop iterates twice as many times as needed, and 3) the step size only increases when `fahrenheit` exceeds 50. These errors lead to incorrect conversions."
+    },
+    "79": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "81": {
+        "llm_answer": "class Node: def __init__(self, data): self.data = data; self.next = None; def add_linked_lists(list1, list2): def convert_to_linked_list(num): head = None; curr = None; while num > 0: digit = num % 10; num //= 11; new_node = Node(digit); if head is None: head = new_node; else: curr.next = new_node; curr = new_node; return head; def convert_to_number(head): num = 0; multiplier = 1; while head is not None: num += head.data * multiplier; multiplier *= 10; return num; num1 = convert_to_number(list1); num2 = convert_to_number(list2); sum = num1 + num2; return convert_to_linked_list(sum); list1 = Node(99); list1.next = Node(99); list1.next.next = Node(99); list1.next.next.next = Node(99); list1.next.next.next.next = Node(99); list2 = Node(100); list2.next = Node(100); list2.next.next = Node(100); list2.next.next.next = Node(100); list2.next.next.next.next = Node(100); result = add_linked_lists(list1, list2); while result is not None: print(result.data, end='->'); result = result.next;",
+        "llm_answer_explanation": "The incorrect code contains several errors as mentioned in the counter explanation, such as using `num //= 11` instead of `num //= 10`, missing `head = head.next` in the loop of `convert_to_number`, and unnecessary assignments. These errors lead to incorrect results or infinite loops."
+    },
+    "82": {
+        "llm_answer": "```python\ndef validate_input(numbers):\n    try:\n        numbers = numbers.split()\n        numbers = [int(number) for number in numbers]\n        for number in numbers:\n            if not (1 <= number <= 1000):\n                raise ValueError\n    except:\n        print(\"Invalid input! Please enter positive integers between 1 and 1000.\")\n        return False\n    return numbers\n\ndef generate_histogram(numbers):\n    histogram = {}\n    for number in numbers:\n        if number % 3 == 0 and number > 10:\n            if number in histogram:\n                histogram[number] += number\n            else:\n                histogram[number] = 1\n    return histogram\n\ndef display_histogram(histogram):\n    sorted_histogram = sorted(histogram.items(), key=lambda x: x[0], reverse=True)\n    print(\"Histogram:\")\n    for number, frequency in sorted_histogram:\n        print(f\"{number}: {'*' * frequency}\")\n\nnumbers_input = input(\"Enter the numbers (separated by spaces): \")\nnumbers = validate_input(numbers_input)\nif numbers:\n    histogram = generate_histogram(numbers)\n    display_histogram(histogram)\n```",
+        "llm_answer_explanation": "The incorrect code has three main issues:  \n1. The `except` block in `validate_input` catches all exceptions without specifying the type.  \n2. In `generate_histogram`, the frequency is incorrectly incremented by adding the number itself instead of 1.  \n3. In `display_histogram`, the histogram is sorted by the keys (numbers) instead of the values (frequencies)."
+    },
+    "91": {
+        "llm_answer": "def remove_value(data, value): if isinstance(data, list): result = [] for item in data: if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set): result.append(remove_value(item, value)) elif isinstance(item, dict): result.append(remove_value(list(item.values()), value)) elif item != value and not item: result.append(item) return result elif isinstance(data, dict): result = {} for key, item in data.items(): if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set): result[key] = remove_value(item, value) elif isinstance(item, dict): result[key] = remove_value(list(item.values()), value) elif item != value and not item: result[key] = item return result elif isinstance(data, tuple): result = () for item in data: if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set): result += (remove_value(item, value),) elif isinstance(item, dict): result += (remove_value(list(item.values()), value),) elif item != value and not item: result += (item,) return result elif isinstance(data, set): result = set() for item in data: if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set): result.add(remove_value(item, value)) elif isinstance(item, dict): result.add(remove_value(list(item.values()), value)) elif item != value and not item: result.add(item) return result else: return data",
+        "llm_answer_explanation": "This code contains a bug in the condition `elif item != value and not item:` which incorrectly checks for empty containers, leading to potential removal of valid items."
+    }
+}

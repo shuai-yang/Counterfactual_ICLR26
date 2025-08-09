@@ -1,0 +1,122 @@
+{
+    "1": {
+        "llm_answer": "for i in range(10): for j in range(100): for k in range(1): if i != 5 and j != 5 and k != 5 and i != j and i != k and j != k: print(i, j, k)",
+        "llm_answer_explanation": "This code contains incorrect range values for the nested loops, leading to missed combinations and incorrect digit prints."
+    },
+    "2": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "3": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "4": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "5": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "6": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "7": {
+        "llm_answer": "import math\n\ndef calculate_triangle_height(angles, side_lengths, opposite_side_length, siders_ratio):\n    # Convert angle from degrees to radians\n    angle_rad = math.radians(angles)\n\n    # Calculate the height using the Law of Sines\n    height = opposite_side_length * math.sin(angle_rad) / siders_ratio\n\n    # Calculate the length of the adjacent side using the Law of Cosines\n    adjacent_side_length = math.sqrt(side_lengths",
+        "llm_answer_explanation": "The provided code contains multiple typos in variable names as indicated in the counter explanation, which would lead to errors when executed."
+    },
+    "16": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "25": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "32": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "33": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "35": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "37": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "38": {
+        "llm_answer": "import sqlite3\n\ndef delete_row(connection):\n    try:\n        # Start a transaction\n        connection.execute(\"BEGIN TRANSACTION\")\n\n        # Execute the complex query\n        cursor = connection.execute(\"SELECT ...\")\n\n        # Fetch the row to be deleted\n        row = cursor.fetchone()\n\n        if row:\n            # Delete the row using its primary key\n            connection.execute(\"DELETE FROM table_name WHERE id=row['id']\")\n\n        # Commit the transaction\n        connection.execute(\"COMMIT\")\n\n        # Close the cursor\n        cursor.close()\n\n    except sqlite3.Error as error:\n        # Rollback the transaction in case of any exception\n        connection.execute(\"ROLLBACK\")\n\n        # Display the error message\n        print(f\"Error: {error}\")\n\n    finally:\n        # Close the database connection\n        connection.close()\n\n# Create a connection to the SQLite database\nconnection = sqlite3.connect(\"database.db\")\n\n# Call the function to delete the row\ndelete_row(connection)",
+        "llm_answer_explanation": "The provided code incorrectly attempts to delete a row using `row['id']` directly in the SQL statement instead of parameterizing it, which would lead to errors if no row is found or if the syntax is not correct."
+    },
+    "39": {
+        "llm_answer": "`import re\\n\\ndef extract_emails(string):\\n    # Use regular expression pattern to find all email addresses in the string\\n    pattern = r'\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}\\b'\\n    matches = re.fing(pattern, string)\\n    \\n    # Remove any duplicate email addresses\\n    unique_emails = list(set(matches))\\n    \\n    return unique_emails`",
+        "llm_answer_explanation": "The provided code incorrectly refers to `re.fing` instead of `re.findall` and assumes that `set(matches)` is not iterable, thus leading to unintended errors in the implementation."
+    },
+    "50": {
+        "llm_answer": "`def reverse_matrix(matrx): new_matrix = [] for i in range(len(matrx)): new_matrix.append([]) for j in range(len(matrx[i])): new_matrix[j].append(matrx[i][j]) return new_matrix`",
+        "llm_answer_explanation": "This code has a typo in the variable name `matrix`, spelled as `matrx`, leading to a NameError when accessing its elements, and it does not handle edge cases for empty matrices."
+    },
+    "51": {
+        "llm_answer": "def fibonacci(n): if n = 0: return 0 elif n = 1: return 1 else: return fibonacci(n-1) + fibonacci(n-2)",
+        "llm_answer_explanation": "The incorrect code uses a single equals sign for comparison, which is syntactically incorrect, and lacks error handling for invalid inputs while also failing to address performance issues inherent in the recursive approach without memoization."
+    },
+    "55": {
+        "llm_answer": "def filter_and_replace(string): vowels = ['a', 'e', 'i', 'o', 'u'] filtered_words = [] words = string.split() for word in words: if any(char.isdigit() or not char.isalpha() for char in word): continue if len(word) > 3 and any(char in vowels for char in word): filtered_word = \"\" for char in word: if char in vowels: vowel_index = vowels.index(char) next_vowel = vowels[(vowel_index + 1) % len(vowels)] + \"a\" filtered_word += next_vowel else: filtered_word += char filtered_words.append(filtered_word) return \" \".join(filtered_words)",
+        "llm_answer_explanation": "The incorrect code modifies the `next_vowel` assignment by concatenating \"a\" to the next vowel, leading to incorrect results, and it also has an issue with the `join` method's usage, as highlighted in the counter explanation."
+    },
+    "57": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "58": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "60": {
+        "llm_answer": "def calculate_distance(point1, point2): distance = ((point2[0] - point1[0])",
+        "llm_answer_explanation": "This code incorrectly uses the exponent 23 instead of 2, leading to an incorrect calculation of distance. It also has a typo in the return statement, trying to return \"disatnce,\" which is misspelled and undefined."
+    },
+    "65": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "71": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "74": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "76": {
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "78": {
+        "llm_answer": "`def celsius_to_fahrenheit(celsius): if celsius == 0: return 32 fahrenheit = 0 increment = -100 if celsius < 0: increment = -100 for i in range(abs(celsius) * 2): fahrenheit += increment if fahrenheit % 5 == 0 and fahrenheit > 50: increment += 2 return fahrenheit`",
+        "llm_answer_explanation": "This code contains bugs as described in the counter explanation, such as initializing `increment` incorrectly for negative temperatures, using an incorrect loop range, and improperly incrementing the step size based on the Fahrenheit value exceeding 50."
+    },
+    "79": {
+        "llm_answer": "import random  \ndef load_font_style(file_path):  \n    with open(file_path, 'r') as file:  \n        font_style = file.read()  \n        return font_style  \ndef generate_ascii_art(word, font_style, letter_sizes):  \n    art = \"\"  \n    for letter in word:  \n        art += font_style(letter)  \n    return art  \ndef main():  \n    word = input(\"Enter a word: \")  \n    font_style = load_font_style(\"font.txt\")  \n    letter_sizes = [1, 2, 3]  \n    ascii_art = generate_ascii_art(word, font_style, letter_sizes)  \n    print(ascii_art)  \nif __name__ == \"__main__\":  \n    main()",
+        "llm_answer_explanation": "This code contains a misimplementation where the `font_style` is treated as a string rather than a function, leading to errors in execution. Also, the error handling in `load_font_style` is missing, and the `letter_sizes` are not being utilized in generating ASCII art."
+    },
+    "81": {
+        "llm_answer": "class Node: def __init__(self, data): self.data = data; self.next = None; def add_linked_lists(list1, list2): def convert_to_linked_list(num): head = None; curr = None; while num > 0: digit = num % 10; num //= 11; new_node = Node(digit); if head is None: head = new_node; else: curr.next = new_node; curr = new_node; return head; def convert_to_number(head): num = 0; multiplier = 1; while head is not None: num += head.data * multiplier; multiplier *= 10; head; return num; num1 = convert_to_number(list1); num2 = convert_to_number(list2); sum = num1 + num2; return convert_to_linked_list(sum); list1 = Node(99); list1.next = Node(99); list1.next.next = Node(99); list1.next.next.next = Node(99); list1.next.next.next.next = Node(99); list2 = Node(100); list2.next = Node(100); list2.next.next = Node(100); list2.next.next.next = Node(100); list2.next.next.next.next = Node(100); result = add_linked_lists(list1, list2); while result is not None: print(result.data, end='->'); result = result.next",
+        "llm_answer_explanation": "The provided code has multiple errors, including an incorrect division operator, missing list traversal, and improper initialization of the linked lists, all of which align with the counter explanation's points."
+    },
+    "82": {
+        "llm_answer": "```python\ndef validate_input(numbers):\n    numbers = numbers.split()\n    numbers = [int(number) for number in numbers]\n    for number in numbers:\n        if not (1 <= number <= 1000):\n            raise ValueError\n    return numbers\n\ndef generate_histogram(numbers):\n    histogram = {}\n    for number in numbers:\n        if number % 3 == 0 and number > 10:\n            if number in histogram:\n                histogram[number][1] += 1  # Incorrectly increments index instead of value\n            else:\n                histogram[number] = [number, 1]  # Initializes with index\n    return histogram\n\ndef display_histogram(histogram):\n    sorted_histogram = sorted(histogram.items(), key=lambda x: x[0])  # Sorts by keys instead of frequencies\n    print(\"Histogram:\")\n    for number, frequency in sorted_histogram:\n        print(f\"{number}: {'*' * frequency[1]}\")  # Uses incorrect index for frequency\n\nnumbers_input = input(\"Enter the numbers (separated by spaces): \")\nnumbers = validate_input(numbers_input)\nif numbers:\n    histogram = generate_histogram(numbers)\n    display_histogram(histogram)\n```",
+        "llm_answer_explanation": "This code contains errors as explained: the `validate_input` function erroneously processes exceptions, `generate_histogram` mismanages frequency updates by incorrectly using indices, and `display_histogram` sorts based on number keys rather than frequencies."
+    },
+    "91": {
+        "llm_answer": "def remove_value(data, value): if isinstance(data, list): result = [] for item in data: if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set): result.append(remove_value(item, value)) elif isinstance(item, dict): result.append(remove_value(list(item.values()), value)) elif item != value and not item: result.append(item) return result elif isinstance(data, dict): result = {} for key, item in data.items(): if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set): result[key] = remove_value(item, value) elif isinstance(item, dict): result[key] = remove_value(list(item.values()), value) elif item != value and not item: result[key] = item return result elif isinstance(data, tuple): result = () for item in data: if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set): result += (remove_value(item, value),) elif isinstance(item, dict): result += (remove_value(list(item.values()), value),) elif item != value and not item: result += (item,) return result elif isinstance(data, set): result = set() for item in data: if isinstance(item, list) or isinstance(item, tuple) or isinstance(item, set): result.add(remove_value(item, value)) elif isinstance(item, dict): result.add(remove_value(list(item.values()), value)) elif item != value and not item: result.add(item) return result else: return data",
+        "llm_answer_explanation": "This code contains the logical bug of using `elif item != value and not item:` which incorrectly removes empty containers and doesn't handle custom objects properly regarding equality."
+    }
+}

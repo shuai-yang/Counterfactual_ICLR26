@@ -1,0 +1,242 @@
+{
+    "A woman opens a treasure chest. What would have happened if the woman had not opened the treasure chest?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had not opened the treasure chest, it logically follows that the treasure chest would have remained closed."
+    },
+    "A police officer calms down a hostage taker. What would have happened if the police officer had not calmed the hostage taker?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the police officer had not calmed the hostage taker, it is likely that the situation would have escalated, putting the hostages at greater risk and leaving them in danger."
+    },
+    "A man talks about a lion. What would have happened if the man had talked to the lion?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "In the hypothetical situation where the man talked to the lion without a barrier, the most plausible outcome is that the man would have been in danger of being attacked, as lions are wild predators."
+    },
+    "A girl kisses a boy. What would have happened if the girl had slapped the boy?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the girl had slapped the boy instead of kissing him, it suggests a negative emotional response, likely indicating anger. Thus, the most suitable answer is that the girl would have been angry."
+    },
+    "A girl kisses a boy. What would have happened if the girl had killed the boy?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "She would have been liable to prosecution."
+    },
+    "A woman sees a fire. What would have happened if the woman had touched the fire? ": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had touched the fire, it is highly likely that she would have been burned, as fire typically causes burns upon contact."
+    },
+    "A woman sees a fire. What would have happened if the woman had fed the fire?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "Feeding a fire typically means adding fuel, which would cause the fire to grow larger. This is a logical outcome based on the hypothetical situation presented."
+    },
+    "A branch floats in a pond. What would have happened if a corpse had floated in the pond?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If a corpse were floating in the pond, it would likely prompt an investigation, turning the location into a crime scene. Authorities would examine the circumstances surrounding the body to determine if foul play was involved."
+    },
+    "A branch floats in a pond. What would have happened if a branch had sung in the pond?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If a branch were capable of singing in a pond, it would imply an extraordinary, whimsical event\u2014perhaps akin to a magical or surreal occurrence. A singing branch would undoubtedly transform the scene into an unexpected and delightful spectacle, much like a great concert that defies conventional reality."
+    },
+    "A bird lands in a forest. What would have happened if a plane had landed in the forest?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "The plane would have crashed.  \nGiven the context of a forest, it is unlikely that a plane could land safely without significant risk of crashing due to the terrain and obstacles present."
+    },
+    "A bird lands in a forest. What would have happened if a meteor had landed in the forest?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "A big one would have started a wildfire.  \nThis answer directly addresses the hypothetical situation of a meteor landing in the forest and provides a plausible consequence of such an event, aligning well with the implications of the QCC."
+    },
+    "A woman drives on a highway. What would have happened if a child had driven on the highway?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "A child driving on a highway would pose significant safety risks due to their lack of physical, cognitive, and legal qualifications for driving. Hence, it would be both dangerous and illegal."
+    },
+    "A pebble falls from a skyscraper. What would have happened if a man had fallen from the skyscraper?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "The man would have died. Falling from a skyscraper would likely result in fatal injuries due to the height and impact, making this the most plausible outcome in the hypothetical situation."
+    },
+    "A pebble falls from a skyscraper. What would have happened if a laptop had fallen from a skyscraper?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The laptop would have been crushed because it is significantly more massive and fragile compared to a pebble, and the impact with the ground from such a height would likely damage it beyond repair."
+    },
+    "A mother bears a child. What would have happened if the child had born a mother?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "That is not possible. The premise states that a mother bears a child, and the counterfactual suggests a reversal of roles, which is not feasible in biological terms."
+    },
+    "A mother bears a child. What would have happened if the mother had born a stroller?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "That is not possible. The premise states that a mother bears a child, which is a biological process, and it is not feasible for a mother to bear a stroller instead of a child."
+    },
+    "A man catches a ball. What would have happened if the man had caught a water balloon?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the man had caught a water balloon, it is likely that he would have gotten wet, as water balloons are designed to burst upon impact."
+    },
+    "A man catches a ball. What would have happened if the man had caught a refrigerator?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "Catching a refrigerator would likely cause injury due to its weight and size, making it an unrealistic and dangerous scenario compared to catching a ball."
+    },
+    "A mortician prepares a corpse. What would have happened if the mortician had prepared a dinner?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "In the hypothetical scenario, the mortician's occupation and skills in handling corpses could metaphorically extend to \"burying\" the dinner, humorously reflecting the core of the Questionized Counterfactual Conditional."
+    },
+    "A family starts a trip. What would have happened if the family had ended the trip?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "The family ending the trip logically means the journey would have come to an end, making this the most accurate and suitable answer in the given hypothetical scenario."
+    },
+    "A president rides a horse. What would have happened if the president had ridden a garden hose?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "It would have looked silly."
+    },
+    "A president rides a horse. What would have happened if the president had ridden a motorcycle?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the president had ridden a motorcycle instead of a horse, it is likely that they would have been faster due to the higher speed capabilities of motorcycles compared to horses."
+    },
+    "A man mounts a horse. What would have happened if the horse had mounted the man?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "That would have been an exceptionally painful experience for the man. If a horse were to mount a man, the weight and size difference would likely result in significant injury or discomfort for the man."
+    },
+    "A plant grows in a planter. What would have happened if the planter grows in the plant?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "The scenario presented in the QCC is not feasible, as a planter cannot grow in a plant; rather, it is the plant that grows in the planter."
+    },
+    "A woman swallows potassium cyanide. What would have happened if the woman had distributed potassium cyanide?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the woman distributed potassium cyanide, she would not have ingested the lethal substance herself, thus avoiding its fatal consequences. Distribution would imply external handling, not consumption, which changes the outcome of the scenario."
+    },
+    "A woman swallows potassium cyanide. What would have happened if the woman had watched potassium cyanide?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "Watching potassium cyanide would not have caused any physical harm or reaction, as it is only toxic when ingested or comes into direct contact with the body in harmful ways."
+    },
+    "A student counts numbers. What would have happened if the student had drunk numbers?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "That is not possible."
+    },
+    "A prince rescues a princess. What would have happened if the prince had beaten the princess?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "The hypothetical situation describes an act of violence, which would be categorized as domestic abuse. This aligns with the context of the QCC and is the most accurate and relevant answer."
+    },
+    "An oil tanker sails across an ocean. What would have happened if the oil tanker had broken up in an ocean?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water."
+    },
+    "A bus unloads a family. What would have happened if the bus had run over the family?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the bus had run over the family, it implies harm would have been caused to them, making option 2 the most suitable answer."
+    },
+    "A man reports a crime. What would have happened if the man had committed the crime?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the man had committed the crime instead of reporting it, it is likely that the police would have pursued him as a suspect in the crime."
+    },
+    "A man reports a crime. What would have happened if the man had cleared up the crime?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the man had cleared up the crime, it suggests he investigated and solved it, which aligns with the role of a detective."
+    },
+    "A woman dates a man. What would have happened if the woman had cheated on the man?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "Their relationship would be put in jeopardy because cheating typically leads to trust issues and conflict between partners."
+    },
+    "A dog expects a child. What would have happened if the dog had bitten the child?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the dog had bitten the child, it is likely that the dog would have been punished for its aggressive behavior, especially since the premise indicates an expectation of a positive interaction between the dog and the child."
+    },
+    "A politician accepts an invitation. What would have happened if the politician had accepted a bribe?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If a politician had accepted a bribe and this was discovered, it could lead to significant consequences such as legal trouble and the potential loss of their office, aligning with the hypothetical situation posed."
+    },
+    "A slaughterer slays a pig. What would have happened if the slaughterer had slain a child?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If a politician had accepted a bribe and this was discovered, it could lead to significant consequences such as legal trouble and the potential loss of their office, aligning with the hypothetical situation posed."
+    },
+    "An avalanche rolls down a hill. What would have happened if the avalanche had rolled up the hill?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "Avalanches don't roll uphill because they are driven by gravity, which naturally directs them downward. This hypothetical situation contradicts the fundamental principles of physics."
+    },
+    "A thief hides from the police. What would have happened if the thief had called the police?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "In the presented hypothetical situation, Answer 3 acknowledges the improbability of such an event but remains open to the counterfactual nature of the question, making it the most suitable response."
+    },
+    "A boy strikes a match. What would have happened if the boy had ditched the match?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the boy had ditched the match, then the lighting of the match would not have occurred, which directly answers the hypothetical situation posed in the QCC."
+    },
+    "A car crashes into a tree. What would have happened if the car had parked beneath the tree?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the car had parked beneath the tree, it would not have crashed into it, and thus nothing special would have happened in terms of a crash."
+    },
+    "A stone hits a window. What would have happened if the stone had flown by the window?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the stone had flown by the window instead of hitting it, the window would have remained undamaged, as it wouldn't have experienced any impact."
+    },
+    "A stone hits a window. What would have happened if the stone had talked to the window?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "Since the counterfactual scenario imagines a talking stone, the most suitable answer is one that aligns with this hypothetical premise. Answer 3 acknowledges the absurdity while embracing the imaginative nature of the question, making it the best fit."
+    },
+    "A student understands an idea. What would have happened if the student had not understood the idea?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the student had not understood the idea, it is likely that they would need additional studying to grasp the concept."
+    },
+    "A country loses a war. What would have happened if the country had won the war?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the country had won the war, it is reasonable to assume that the majority of its citizens would feel a sense of happiness and relief, as winning a war typically brings a sense of victory and achievement."
+    },
+    "A woman arms a bomb. What would have happened if the woman had defused the bomb?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the woman had defused the bomb, it would have prevented an explosion from occurring."
+    },
+    "A girl reveals a thing. What would have happened if the girl had concealed the thing?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the girl had concealed the thing, it would not have been visible to others, aligning with the hypothetical scenario of her choosing to hide it."
+    },
+    "A father meets a friend. What would have happened if he had lost the friend?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If he had lost the friend, it is reasonable to conclude that he would feel sad about the loss of companionship."
+    },
+    "A man loves his job. What would have happened if he had lost his job.": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the man loved his job, losing it would likely have caused him significant distress, making \"he would have been very upset\" the most suitable answer to the hypothetical situation."
+    },
+    "A team wins a game. What would have happened if the team had lost the game?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the team had lost the game, it is generally expected that they would feel disappointment or sadness about the loss, making answer 2 the most suitable."
+    },
+    "A train crashes into a mountain. What would have happened if the train had crashed into a feather?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The train would have been fine because crashing into a feather would not cause any damage or harm to it, in contrast to crashing into a mountain."
+    },
+    "A man swims in an ocean. What would have happened if the man had drowned in the ocean?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the man had drowned in the ocean, he would have lost his life. Drowning is a fatal consequence of being unable to stay afloat or breathe underwater, making this the most logically suitable answer."
+    },
+    "A child draws a picture. What would have happened if the child had erased the picture?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the child had erased the picture, it would no longer exist, meaning it would not be visible."
+    },
+    "A boy strikes a match. What would have happened if the boy had broken the match?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the boy had broken the match, it would no longer function as a tool for lighting a fire, effectively rendering it useless for igniting anything."
+    },
+    "A boy strikes a match. What would have happened if the boy had swallowed the match?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "Swallowing a match could lead to injury or a stomachache due to the potential harm from the matchstick itself, including splinters or chemicals."
+    },
+    "A boy strikes a match. What would have happened if the boy had watered the match?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the boy had watered the match, the combustible materials in the matchhead would likely become damp, preventing the match from igniting properly. Therefore, the match would be rendered useless."
+    },
+    "A bird flies over a bridge. What would have happened if the bird had hit the bridge?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the bird had hit the bridge, it is likely that it would have sustained injuries due to the impact."
+    },
+    "A craftsman builds a house. What would have happened if the house had built a craftsman?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "That is not possible."
+    },
+    "A mother wraps a sandwich. What would have happened if the mother had eaten the sandwich?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the mother had eaten the sandwich, she would have satisfied her hunger, making her less hungry than before."
+    },
+    "A dog barks at a tree. What would have happened if the dog had run into the tree?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the dog had run into the tree, it is likely the dog would have been hurt, as the physical impact with a tree could cause injury."
+    },
+    "A man greets a friend. What would have happened if the man had killed the friend?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "In the hypothetical situation presented, if the man had killed his friend, the friend would have been dead, which aligns directly with the Questionized Counterfactual Conditional."
+    }
+}

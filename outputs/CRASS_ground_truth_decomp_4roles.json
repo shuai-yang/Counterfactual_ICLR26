@@ -1,0 +1,2396 @@
+[
+  {
+    "text": "A woman opens a treasure chest. What would have happened if the woman had not opened the treasure chest?",
+    "factual_roles": {
+      "Exposure": [
+        "opening treasure chest"
+      ],
+      "Covariate": [
+        "having key",
+        "physical ability to open chest"
+      ],
+      "Mediator": [
+        "unlocking treasure chest"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "having key",
+        "opening treasure chest"
+      ],
+      [
+        "having key",
+        "unlocking treasure chest"
+      ],
+      [
+        "physical ability to open chest",
+        "opening treasure chest"
+      ],
+      [
+        "physical ability to open chest",
+        "unlocking treasure chest"
+      ],
+      [
+        "opening treasure chest",
+        "unlocking treasure chest"
+      ],
+      [
+        "unlocking treasure chest",
+        "N.A."
+      ],
+      [
+        "opening treasure chest",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not opening treasure chest"
+      ],
+      "Covariate": [
+        "having key",
+        "physical ability to open chest"
+      ],
+      "Mediator": [
+        "altered unlocking treasure chest"
+      ],
+      "Outcome": [
+        "remained closed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "having key",
+        "not opening treasure chest"
+      ],
+      [
+        "having key",
+        "altered unlocking treasure chest"
+      ],
+      [
+        "physical ability to open chest",
+        "not opening treasure chest"
+      ],
+      [
+        "physical ability to open chest",
+        "altered unlocking treasure chest"
+      ],
+      [
+        "not opening treasure chest",
+        "altered unlocking treasure chest"
+      ],
+      [
+        "altered unlocking treasure chest",
+        "remained closed"
+      ],
+      [
+        "not opening treasure chest",
+        "remained closed"
+      ]
+    ]
+  },
+  {
+    "text": "A police officer calms down a hostage taker. What would have happened if the police officer had not calmed the hostage taker?",
+    "factual_roles": {
+      "Exposure": [
+        "calming hostage taker"
+      ],
+      "Covariate": [
+        "presence of negotiator",
+        "training in negotiation"
+      ],
+      "Mediator": [
+        "reduction in hostage taker's aggression"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "presence of negotiator",
+        "calming hostage taker"
+      ],
+      [
+        "presence of negotiator",
+        "reduction in hostage taker's aggression"
+      ],
+      [
+        "training in negotiation",
+        "calming hostage taker"
+      ],
+      [
+        "training in negotiation",
+        "reduction in hostage taker's aggression"
+      ],
+      [
+        "calming hostage taker",
+        "reduction in hostage taker's aggression"
+      ],
+      [
+        "reduction in hostage taker's aggression",
+        "N.A."
+      ],
+      [
+        "calming hostage taker",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not calming hostage taker"
+      ],
+      "Covariate": [
+        "presence of negotiator",
+        "training in negotiation"
+      ],
+      "Mediator": [
+        "altered reduction in hostage taker's aggression"
+      ],
+      "Outcome": [
+        "hostages in danger"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "presence of negotiator",
+        "not calming hostage taker"
+      ],
+      [
+        "presence of negotiator",
+        "altered reduction in hostage taker's aggression"
+      ],
+      [
+        "training in negotiation",
+        "not calming hostage taker"
+      ],
+      [
+        "training in negotiation",
+        "altered reduction in hostage taker's aggression"
+      ],
+      [
+        "not calming hostage taker",
+        "altered reduction in hostage taker's aggression"
+      ],
+      [
+        "altered reduction in hostage taker's aggression",
+        "hostages in danger"
+      ],
+      [
+        "not calming hostage taker",
+        "hostages in danger"
+      ]
+    ]
+  },
+  {
+    "text": "A man talks about a lion. What would have happened if the man had talked to the lion?",
+    "factual_roles": {
+      "Exposure": [
+        "talking about a lion"
+      ],
+      "Covariate": [
+        "distance from lion",
+        "lion being enclosed"
+      ],
+      "Mediator": [
+        "lion not reacting aggressively"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "distance from lion",
+        "talking about a lion"
+      ],
+      [
+        "distance from lion",
+        "lion not reacting aggressively"
+      ],
+      [
+        "lion being enclosed",
+        "talking about a lion"
+      ],
+      [
+        "lion being enclosed",
+        "lion not reacting aggressively"
+      ],
+      [
+        "talking about a lion",
+        "lion not reacting aggressively"
+      ],
+      [
+        "lion not reacting aggressively",
+        "N.A."
+      ],
+      [
+        "talking about a lion",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not talking about a lion"
+      ],
+      "Covariate": [
+        "distance from lion",
+        "lion being enclosed"
+      ],
+      "Mediator": [
+        "altered lion not reacting aggressively"
+      ],
+      "Outcome": [
+        "man eaten"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "distance from lion",
+        "not talking about a lion"
+      ],
+      [
+        "distance from lion",
+        "altered lion not reacting aggressively"
+      ],
+      [
+        "lion being enclosed",
+        "not talking about a lion"
+      ],
+      [
+        "lion being enclosed",
+        "altered lion not reacting aggressively"
+      ],
+      [
+        "not talking about a lion",
+        "altered lion not reacting aggressively"
+      ],
+      [
+        "altered lion not reacting aggressively",
+        "man eaten"
+      ],
+      [
+        "not talking about a lion",
+        "man eaten"
+      ]
+    ]
+  },
+  {
+    "text": "A girl kisses a boy. What would have happened if the girl had slapped the boy?",
+    "factual_roles": {
+      "Exposure": [
+        "girl kissing boy"
+      ],
+      "Covariate": [
+        "affection between girl and boy"
+      ],
+      "Mediator": [
+        "positive emotional exchange"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "affection between girl and boy",
+        "girl kissing boy"
+      ],
+      [
+        "affection between girl and boy",
+        "positive emotional exchange"
+      ],
+      [
+        "girl kissing boy",
+        "positive emotional exchange"
+      ],
+      [
+        "positive emotional exchange",
+        "N.A."
+      ],
+      [
+        "girl kissing boy",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not girl kissing boy"
+      ],
+      "Covariate": [
+        "affection between girl and boy"
+      ],
+      "Mediator": [
+        "altered positive emotional exchange"
+      ],
+      "Outcome": [
+        "girl angry"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "affection between girl and boy",
+        "not girl kissing boy"
+      ],
+      [
+        "affection between girl and boy",
+        "altered positive emotional exchange"
+      ],
+      [
+        "not girl kissing boy",
+        "altered positive emotional exchange"
+      ],
+      [
+        "altered positive emotional exchange",
+        "girl angry"
+      ],
+      [
+        "not girl kissing boy",
+        "girl angry"
+      ]
+    ]
+  },
+  {
+    "text": "A girl kisses a boy. What would have happened if the girl had killed the boy?",
+    "factual_roles": {
+      "Exposure": [
+        "girl kissing boy"
+      ],
+      "Covariate": [
+        "affection between girl and boy"
+      ],
+      "Mediator": [
+        "positive emotional exchange"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "affection between girl and boy",
+        "girl kissing boy"
+      ],
+      [
+        "affection between girl and boy",
+        "positive emotional exchange"
+      ],
+      [
+        "girl kissing boy",
+        "positive emotional exchange"
+      ],
+      [
+        "positive emotional exchange",
+        "N.A."
+      ],
+      [
+        "girl kissing boy",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not girl kissing boy"
+      ],
+      "Covariate": [
+        "affection between girl and boy"
+      ],
+      "Mediator": [
+        "altered positive emotional exchange"
+      ],
+      "Outcome": [
+        "girl liable to prosecution"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "affection between girl and boy",
+        "not girl kissing boy"
+      ],
+      [
+        "affection between girl and boy",
+        "altered positive emotional exchange"
+      ],
+      [
+        "not girl kissing boy",
+        "altered positive emotional exchange"
+      ],
+      [
+        "altered positive emotional exchange",
+        "girl liable to prosecution"
+      ],
+      [
+        "not girl kissing boy",
+        "girl liable to prosecution"
+      ]
+    ]
+  },
+  {
+    "text": "A woman sees a fire. What would have happened if the woman had touched the fire? ",
+    "factual_roles": {
+      "Exposure": [
+        "woman seeing fire"
+      ],
+      "Covariate": [
+        "being near fire"
+      ],
+      "Mediator": [
+        "visual detection of fire"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "being near fire",
+        "woman seeing fire"
+      ],
+      [
+        "being near fire",
+        "visual detection of fire"
+      ],
+      [
+        "woman seeing fire",
+        "visual detection of fire"
+      ],
+      [
+        "visual detection of fire",
+        "N.A."
+      ],
+      [
+        "woman seeing fire",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not woman seeing fire"
+      ],
+      "Covariate": [
+        "being near fire"
+      ],
+      "Mediator": [
+        "altered visual detection of fire"
+      ],
+      "Outcome": [
+        "She been burned"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "being near fire",
+        "not woman seeing fire"
+      ],
+      [
+        "being near fire",
+        "altered visual detection of fire"
+      ],
+      [
+        "not woman seeing fire",
+        "altered visual detection of fire"
+      ],
+      [
+        "altered visual detection of fire",
+        "She been burned"
+      ],
+      [
+        "not woman seeing fire",
+        "She been burned"
+      ]
+    ]
+  },
+  {
+    "text": "A woman sees a fire. What would have happened if the woman had fed the fire?",
+    "factual_roles": {
+      "Exposure": [
+        "woman seeing fire"
+      ],
+      "Covariate": [
+        "being near fire"
+      ],
+      "Mediator": [
+        "visual detection of fire"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "being near fire",
+        "woman seeing fire"
+      ],
+      [
+        "being near fire",
+        "visual detection of fire"
+      ],
+      [
+        "woman seeing fire",
+        "visual detection of fire"
+      ],
+      [
+        "visual detection of fire",
+        "N.A."
+      ],
+      [
+        "woman seeing fire",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not woman seeing fire"
+      ],
+      "Covariate": [
+        "being near fire"
+      ],
+      "Mediator": [
+        "altered visual detection of fire"
+      ],
+      "Outcome": [
+        "fire enlarged"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "being near fire",
+        "not woman seeing fire"
+      ],
+      [
+        "being near fire",
+        "altered visual detection of fire"
+      ],
+      [
+        "not woman seeing fire",
+        "altered visual detection of fire"
+      ],
+      [
+        "altered visual detection of fire",
+        "fire enlarged"
+      ],
+      [
+        "not woman seeing fire",
+        "fire enlarged"
+      ]
+    ]
+  },
+  {
+    "text": "A branch floats in a pond. What would have happened if a corpse had floated in the pond?",
+    "factual_roles": {
+      "Exposure": [
+        "branch floating in pond"
+      ],
+      "Covariate": [
+        "branch being less dense than water"
+      ],
+      "Mediator": [
+        "branch staying afloat"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "branch being less dense than water",
+        "branch floating in pond"
+      ],
+      [
+        "branch being less dense than water",
+        "branch staying afloat"
+      ],
+      [
+        "branch floating in pond",
+        "branch staying afloat"
+      ],
+      [
+        "branch staying afloat",
+        "N.A."
+      ],
+      [
+        "branch floating in pond",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "corpse floating in pond"
+      ],
+      "Covariate": [
+        "branch being less dense than water"
+      ],
+      "Mediator": [
+        "altered branch staying afloat"
+      ],
+      "Outcome": [
+        "lake is crime scene"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "branch being less dense than water",
+        "not branch floating in pond"
+      ],
+      [
+        "branch being less dense than water",
+        "altered branch staying afloat"
+      ],
+      [
+        "not branch floating in pond",
+        "altered branch staying afloat"
+      ],
+      [
+        "altered branch staying afloat",
+        "lake is crime scene"
+      ],
+      [
+        "not branch floating in pond",
+        "lake is crime scene"
+      ]
+    ]
+  },
+  {
+    "text": "A branch floats in a pond. What would have happened if a branch had sung in the pond?",
+    "factual_roles": {
+      "Exposure": [
+        "branch floating in pond"
+      ],
+      "Covariate": [
+        "branch being less dense than water"
+      ],
+      "Mediator": [
+        "branch staying afloat"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "branch being less dense than water",
+        "branch floating in pond"
+      ],
+      [
+        "branch being less dense than water",
+        "branch staying afloat"
+      ],
+      [
+        "branch floating in pond",
+        "branch staying afloat"
+      ],
+      [
+        "branch staying afloat",
+        "N.A."
+      ],
+      [
+        "branch floating in pond",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "branch singing in pond"
+      ],
+      "Covariate": [
+        "branch being less dense than water"
+      ],
+      "Mediator": [
+        "altered branch staying afloat"
+      ],
+      "Outcome": [
+        "not possible"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "branch being less dense than water",
+        "branch singing in pond"
+      ],
+      [
+        "branch being less dense than water",
+        "altered branch staying afloat"
+      ],
+      [
+        "branch singing in pond",
+        "altered branch staying afloat"
+      ],
+      [
+        "altered branch staying afloat",
+        "not possible"
+      ],
+      [
+        "branch singing in pond",
+        "not possible"
+      ]
+    ]
+  },
+  {
+    "text": "A bird lands in a forest. What would have happened if a plane had landed in the forest?",
+    "factual_roles": {
+      "Exposure": [
+        "bird landing on tree"
+      ],
+      "Covariate": [
+        "availability of branch"
+      ],
+      "Mediator": [
+        "safe landing on branch"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "availability of branch",
+        "bird landing on tree"
+      ],
+      [
+        "availability of branch",
+        "safe landing on branch"
+      ],
+      [
+        "bird landing on tree",
+        "safe landing on branch"
+      ],
+      [
+        "safe landing on branch",
+        "N.A."
+      ],
+      [
+        "bird landing on tree",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not bird landing on tree"
+      ],
+      "Covariate": [
+        "availability of branch"
+      ],
+      "Mediator": [
+        "altered safe landing on branch"
+      ],
+      "Outcome": [
+        "plane crashed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "availability of branch",
+        "not bird landing on tree"
+      ],
+      [
+        "availability of branch",
+        "altered safe landing on branch"
+      ],
+      [
+        "not bird landing on tree",
+        "altered safe landing on branch"
+      ],
+      [
+        "altered safe landing on branch",
+        "plane crashed"
+      ],
+      [
+        "not bird landing on tree",
+        "plane crashed"
+      ]
+    ]
+  },
+  {
+    "text": "A bird lands in a forest. What would have happened if a meteor had landed in the forest?",
+    "factual_roles": {
+      "Exposure": [
+        "bird landing on tree"
+      ],
+      "Covariate": [
+        "availability of branch"
+      ],
+      "Mediator": [
+        "safe landing on branch"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "availability of branch",
+        "bird landing on tree"
+      ],
+      [
+        "availability of branch",
+        "safe landing on branch"
+      ],
+      [
+        "bird landing on tree",
+        "safe landing on branch"
+      ],
+      [
+        "safe landing on branch",
+        "N.A."
+      ],
+      [
+        "bird landing on tree",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not bird landing on tree"
+      ],
+      "Covariate": [
+        "availability of branch"
+      ],
+      "Mediator": [
+        "altered safe landing on branch"
+      ],
+      "Outcome": [
+        "wildfire started"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "availability of branch",
+        "not bird landing on tree"
+      ],
+      [
+        "availability of branch",
+        "altered safe landing on branch"
+      ],
+      [
+        "not bird landing on tree",
+        "altered safe landing on branch"
+      ],
+      [
+        "altered safe landing on branch",
+        "wildfire started"
+      ],
+      [
+        "not bird landing on tree",
+        "wildfire started"
+      ]
+    ]
+  },
+  {
+    "text": "A woman drives on a highway. What would have happened if a child had driven on the highway?",
+    "factual_roles": {
+      "Exposure": [
+        "unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "basic result"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "basic condition",
+        "unspecified action"
+      ],
+      [
+        "basic condition",
+        "basic result"
+      ],
+      [
+        "unspecified action",
+        "basic result"
+      ],
+      [
+        "basic result",
+        "N.A."
+      ],
+      [
+        "unspecified action",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "altered basic result"
+      ],
+      "Outcome": [
+        "It would have..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "basic condition",
+        "not unspecified action"
+      ],
+      [
+        "basic condition",
+        "altered basic result"
+      ],
+      [
+        "not unspecified action",
+        "altered basic result"
+      ],
+      [
+        "altered basic result",
+        "It would have..."
+      ],
+      [
+        "not unspecified action",
+        "It would have..."
+      ]
+    ]
+  },
+  {
+    "text": "A pebble falls from a skyscraper. What would have happened if a man had fallen from the skyscraper?",
+    "factual_roles": {
+      "Exposure": [
+        "unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "basic result"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "basic condition",
+        "unspecified action"
+      ],
+      [
+        "basic condition",
+        "basic result"
+      ],
+      [
+        "unspecified action",
+        "basic result"
+      ],
+      [
+        "basic result",
+        "N.A."
+      ],
+      [
+        "unspecified action",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "altered basic result"
+      ],
+      "Outcome": [
+        "death"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "basic condition",
+        "not unspecified action"
+      ],
+      [
+        "basic condition",
+        "altered basic result"
+      ],
+      [
+        "not unspecified action",
+        "altered basic result"
+      ],
+      [
+        "altered basic result",
+        "death"
+      ],
+      [
+        "not unspecified action",
+        "death"
+      ]
+    ]
+  },
+  {
+    "text": "A pebble falls from a skyscraper. What would have happened if a laptop had fallen from a skyscraper?",
+    "factual_roles": {
+      "Exposure": [
+        "unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "basic result"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "basic condition",
+        "unspecified action"
+      ],
+      [
+        "basic condition",
+        "basic result"
+      ],
+      [
+        "unspecified action",
+        "basic result"
+      ],
+      [
+        "basic result",
+        "N.A."
+      ],
+      [
+        "unspecified action",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "altered basic result"
+      ],
+      "Outcome": [
+        "The laptop would..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "basic condition",
+        "not unspecified action"
+      ],
+      [
+        "basic condition",
+        "altered basic result"
+      ],
+      [
+        "not unspecified action",
+        "altered basic result"
+      ],
+      [
+        "altered basic result",
+        "The laptop would..."
+      ],
+      [
+        "not unspecified action",
+        "The laptop would..."
+      ]
+    ]
+  },
+  {
+    "text": "A mother bears a child. What would have happened if the child had born a mother?",
+    "factual_roles": {
+      "Exposure": [
+        "unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "basic result"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "basic condition",
+        "unspecified action"
+      ],
+      [
+        "basic condition",
+        "basic result"
+      ],
+      [
+        "unspecified action",
+        "basic result"
+      ],
+      [
+        "basic result",
+        "N.A."
+      ],
+      [
+        "unspecified action",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "altered basic result"
+      ],
+      "Outcome": [
+        "That is not..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "basic condition",
+        "not unspecified action"
+      ],
+      [
+        "basic condition",
+        "altered basic result"
+      ],
+      [
+        "not unspecified action",
+        "altered basic result"
+      ],
+      [
+        "altered basic result",
+        "That is not..."
+      ],
+      [
+        "not unspecified action",
+        "That is not..."
+      ]
+    ]
+  },
+  {
+    "text": "A mother bears a child. What would have happened if the mother had born a stroller?",
+    "factual_roles": {
+      "Exposure": [
+        "unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "basic result"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "basic condition",
+        "unspecified action"
+      ],
+      [
+        "basic condition",
+        "basic result"
+      ],
+      [
+        "unspecified action",
+        "basic result"
+      ],
+      [
+        "basic result",
+        "N.A."
+      ],
+      [
+        "unspecified action",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "altered basic result"
+      ],
+      "Outcome": [
+        "That is not..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "basic condition",
+        "not unspecified action"
+      ],
+      [
+        "basic condition",
+        "altered basic result"
+      ],
+      [
+        "not unspecified action",
+        "altered basic result"
+      ],
+      [
+        "altered basic result",
+        "That is not..."
+      ],
+      [
+        "not unspecified action",
+        "That is not..."
+      ]
+    ]
+  },
+  {
+    "text": "A man catches a ball. What would have happened if the man had caught a water balloon?",
+    "factual_roles": {
+      "Exposure": [
+        "unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "basic result"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "basic condition",
+        "unspecified action"
+      ],
+      [
+        "basic condition",
+        "basic result"
+      ],
+      [
+        "unspecified action",
+        "basic result"
+      ],
+      [
+        "basic result",
+        "N.A."
+      ],
+      [
+        "unspecified action",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "altered basic result"
+      ],
+      "Outcome": [
+        "He would have..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "basic condition",
+        "not unspecified action"
+      ],
+      [
+        "basic condition",
+        "altered basic result"
+      ],
+      [
+        "not unspecified action",
+        "altered basic result"
+      ],
+      [
+        "altered basic result",
+        "He would have..."
+      ],
+      [
+        "not unspecified action",
+        "He would have..."
+      ]
+    ]
+  },
+  {
+    "text": "A man catches a ball. What would have happened if the man had caught a refrigerator?",
+    "factual_roles": {
+      "Exposure": [
+        "unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "basic result"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "basic condition",
+        "unspecified action"
+      ],
+      [
+        "basic condition",
+        "basic result"
+      ],
+      [
+        "unspecified action",
+        "basic result"
+      ],
+      [
+        "basic result",
+        "N.A."
+      ],
+      [
+        "unspecified action",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "altered basic result"
+      ],
+      "Outcome": [
+        "injury occurred"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "basic condition",
+        "not unspecified action"
+      ],
+      [
+        "basic condition",
+        "altered basic result"
+      ],
+      [
+        "not unspecified action",
+        "altered basic result"
+      ],
+      [
+        "altered basic result",
+        "injury occurred"
+      ],
+      [
+        "not unspecified action",
+        "injury occurred"
+      ]
+    ]
+  },
+  {
+    "text": "A mortician prepares a corpse. What would have happened if the mortician had prepared a dinner?",
+    "factual_roles": {
+      "Exposure": [
+        "unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "basic result"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "basic condition",
+        "unspecified action"
+      ],
+      [
+        "basic condition",
+        "basic result"
+      ],
+      [
+        "unspecified action",
+        "basic result"
+      ],
+      [
+        "basic result",
+        "N.A."
+      ],
+      [
+        "unspecified action",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "altered basic result"
+      ],
+      "Outcome": [
+        "He would have..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "basic condition",
+        "not unspecified action"
+      ],
+      [
+        "basic condition",
+        "altered basic result"
+      ],
+      [
+        "not unspecified action",
+        "altered basic result"
+      ],
+      [
+        "altered basic result",
+        "He would have..."
+      ],
+      [
+        "not unspecified action",
+        "He would have..."
+      ]
+    ]
+  },
+  {
+    "text": "A family starts a trip. What would have happened if the family had ended the trip?",
+    "factual_roles": {
+      "Exposure": [
+        "unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "basic result"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "basic condition",
+        "unspecified action"
+      ],
+      [
+        "basic condition",
+        "basic result"
+      ],
+      [
+        "unspecified action",
+        "basic result"
+      ],
+      [
+        "basic result",
+        "N.A."
+      ],
+      [
+        "unspecified action",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "altered basic result"
+      ],
+      "Outcome": [
+        "The journey would..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "basic condition",
+        "not unspecified action"
+      ],
+      [
+        "basic condition",
+        "altered basic result"
+      ],
+      [
+        "not unspecified action",
+        "altered basic result"
+      ],
+      [
+        "altered basic result",
+        "The journey would..."
+      ],
+      [
+        "not unspecified action",
+        "The journey would..."
+      ]
+    ]
+  },
+  {
+    "text": "A president rides a horse. What would have happened if the president had ridden a garden hose?",
+    "factual_roles": {
+      "Exposure": [
+        "unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "basic result"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "basic condition",
+        "unspecified action"
+      ],
+      [
+        "basic condition",
+        "basic result"
+      ],
+      [
+        "unspecified action",
+        "basic result"
+      ],
+      [
+        "basic result",
+        "N.A."
+      ],
+      [
+        "unspecified action",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "altered basic result"
+      ],
+      "Outcome": [
+        "It would have..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "basic condition",
+        "not unspecified action"
+      ],
+      [
+        "basic condition",
+        "altered basic result"
+      ],
+      [
+        "not unspecified action",
+        "altered basic result"
+      ],
+      [
+        "altered basic result",
+        "It would have..."
+      ],
+      [
+        "not unspecified action",
+        "It would have..."
+      ]
+    ]
+  },
+  {
+    "text": "A president rides a horse. What would have happened if the president had ridden a motorcycle?",
+    "factual_roles": {
+      "Exposure": [
+        "unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "basic result"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "basic condition",
+        "unspecified action"
+      ],
+      [
+        "basic condition",
+        "basic result"
+      ],
+      [
+        "unspecified action",
+        "basic result"
+      ],
+      [
+        "basic result",
+        "N.A."
+      ],
+      [
+        "unspecified action",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "altered basic result"
+      ],
+      "Outcome": [
+        "She or he..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "basic condition",
+        "not unspecified action"
+      ],
+      [
+        "basic condition",
+        "altered basic result"
+      ],
+      [
+        "not unspecified action",
+        "altered basic result"
+      ],
+      [
+        "altered basic result",
+        "She or he..."
+      ],
+      [
+        "not unspecified action",
+        "She or he..."
+      ]
+    ]
+  },
+  {
+    "text": "A man mounts a horse. What would have happened if the horse had mounted the man?",
+    "factual_roles": {
+      "Exposure": [
+        "unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "basic result"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "basic condition",
+        "unspecified action"
+      ],
+      [
+        "basic condition",
+        "basic result"
+      ],
+      [
+        "unspecified action",
+        "basic result"
+      ],
+      [
+        "basic result",
+        "N.A."
+      ],
+      [
+        "unspecified action",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "altered basic result"
+      ],
+      "Outcome": [
+        "That would have..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "basic condition",
+        "not unspecified action"
+      ],
+      [
+        "basic condition",
+        "altered basic result"
+      ],
+      [
+        "not unspecified action",
+        "altered basic result"
+      ],
+      [
+        "altered basic result",
+        "That would have..."
+      ],
+      [
+        "not unspecified action",
+        "That would have..."
+      ]
+    ]
+  },
+  {
+    "text": "A plant grows in a planter. What would have happened if the planter grows in the plant?",
+    "factual_roles": {
+      "Exposure": [
+        "unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "basic result"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "basic condition",
+        "unspecified action"
+      ],
+      [
+        "basic condition",
+        "basic result"
+      ],
+      [
+        "unspecified action",
+        "basic result"
+      ],
+      [
+        "basic result",
+        "N.A."
+      ],
+      [
+        "unspecified action",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not unspecified action"
+      ],
+      "Covariate": [
+        "basic condition"
+      ],
+      "Mediator": [
+        "altered basic result"
+      ],
+      "Outcome": [
+        "That is not..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "basic condition",
+        "not unspecified action"
+      ],
+      [
+        "basic condition",
+        "altered basic result"
+      ],
+      [
+        "not unspecified action",
+        "altered basic result"
+      ],
+      [
+        "altered basic result",
+        "That is not..."
+      ],
+      [
+        "not unspecified action",
+        "That is not..."
+      ]
+    ]
+  },
+  {
+    "text": "A woman swallows potassium cyanide. What would have happened if the woman had distributed potassium cyanide?",
+    "factual_roles": {
+      "Exposure": [
+        "swallowing potassium cyanide"
+      ],
+      "Covariate": [
+        "physical ability",
+        "presence of cyanide"
+      ],
+      "Mediator": [
+        "toxic ingestion"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "physical ability",
+        "swallowing potassium cyanide"
+      ],
+      [
+        "physical ability",
+        "toxic ingestion"
+      ],
+      [
+        "presence of cyanide",
+        "swallowing potassium cyanide"
+      ],
+      [
+        "presence of cyanide",
+        "toxic ingestion"
+      ],
+      [
+        "swallowing potassium cyanide",
+        "toxic ingestion"
+      ],
+      [
+        "toxic ingestion",
+        "N.A."
+      ],
+      [
+        "swallowing potassium cyanide",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not swallowing potassium cyanide"
+      ],
+      "Covariate": [
+        "physical ability",
+        "presence of cyanide"
+      ],
+      "Mediator": [
+        "altered toxic ingestion"
+      ],
+      "Outcome": [
+        "survived"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "physical ability",
+        "not swallowing potassium cyanide"
+      ],
+      [
+        "physical ability",
+        "altered toxic ingestion"
+      ],
+      [
+        "presence of cyanide",
+        "not swallowing potassium cyanide"
+      ],
+      [
+        "presence of cyanide",
+        "altered toxic ingestion"
+      ],
+      [
+        "not swallowing potassium cyanide",
+        "altered toxic ingestion"
+      ],
+      [
+        "altered toxic ingestion",
+        "survived"
+      ],
+      [
+        "not swallowing potassium cyanide",
+        "survived"
+      ]
+    ]
+  },
+  {
+    "text": "A woman swallows potassium cyanide. What would have happened if the woman had watched potassium cyanide?",
+    "factual_roles": {
+      "Exposure": [
+        "swallowing potassium cyanide"
+      ],
+      "Covariate": [
+        "physical ability",
+        "presence of cyanide"
+      ],
+      "Mediator": [
+        "toxic ingestion"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "physical ability",
+        "swallowing potassium cyanide"
+      ],
+      [
+        "physical ability",
+        "toxic ingestion"
+      ],
+      [
+        "presence of cyanide",
+        "swallowing potassium cyanide"
+      ],
+      [
+        "presence of cyanide",
+        "toxic ingestion"
+      ],
+      [
+        "swallowing potassium cyanide",
+        "toxic ingestion"
+      ],
+      [
+        "toxic ingestion",
+        "N.A."
+      ],
+      [
+        "swallowing potassium cyanide",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not swallowing potassium cyanide"
+      ],
+      "Covariate": [
+        "physical ability",
+        "presence of cyanide"
+      ],
+      "Mediator": [
+        "altered toxic ingestion"
+      ],
+      "Outcome": [
+        "Nothing special would..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "physical ability",
+        "not swallowing potassium cyanide"
+      ],
+      [
+        "physical ability",
+        "altered toxic ingestion"
+      ],
+      [
+        "presence of cyanide",
+        "not swallowing potassium cyanide"
+      ],
+      [
+        "presence of cyanide",
+        "altered toxic ingestion"
+      ],
+      [
+        "not swallowing potassium cyanide",
+        "altered toxic ingestion"
+      ],
+      [
+        "altered toxic ingestion",
+        "Nothing special would..."
+      ],
+      [
+        "not swallowing potassium cyanide",
+        "Nothing special would..."
+      ]
+    ]
+  },
+  {
+    "text": "A student counts numbers. What would have happened if the student had drunk numbers?",
+    "factual_roles": {
+      "Exposure": [
+        "counting numbers"
+      ],
+      "Covariate": [
+        "numerical literacy"
+      ],
+      "Mediator": [
+        "successful counting process"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "numerical literacy",
+        "counting numbers"
+      ],
+      [
+        "numerical literacy",
+        "successful counting process"
+      ],
+      [
+        "counting numbers",
+        "successful counting process"
+      ],
+      [
+        "successful counting process",
+        "N.A."
+      ],
+      [
+        "counting numbers",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not counting numbers"
+      ],
+      "Covariate": [
+        "numerical literacy"
+      ],
+      "Mediator": [
+        "altered successful counting process"
+      ],
+      "Outcome": [
+        "That is not..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "numerical literacy",
+        "not counting numbers"
+      ],
+      [
+        "numerical literacy",
+        "altered successful counting process"
+      ],
+      [
+        "not counting numbers",
+        "altered successful counting process"
+      ],
+      [
+        "altered successful counting process",
+        "That is not..."
+      ],
+      [
+        "not counting numbers",
+        "That is not..."
+      ]
+    ]
+  },
+  {
+    "text": "A prince rescues a princess. What would have happened if the prince had beaten the princess?",
+    "factual_roles": {
+      "Exposure": [
+        "prince beating princess"
+      ],
+      "Covariate": [
+        "physical strength",
+        "conflict escalation"
+      ],
+      "Mediator": [
+        "physical assault"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "physical strength",
+        "prince beating princess"
+      ],
+      [
+        "physical strength",
+        "physical assault"
+      ],
+      [
+        "conflict escalation",
+        "prince beating princess"
+      ],
+      [
+        "conflict escalation",
+        "physical assault"
+      ],
+      [
+        "prince beating princess",
+        "physical assault"
+      ],
+      [
+        "physical assault",
+        "N.A."
+      ],
+      [
+        "prince beating princess",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not prince beating princess"
+      ],
+      "Covariate": [
+        "physical strength",
+        "conflict escalation"
+      ],
+      "Mediator": [
+        "altered physical assault"
+      ],
+      "Outcome": [
+        "That would have..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "physical strength",
+        "not prince beating princess"
+      ],
+      [
+        "physical strength",
+        "altered physical assault"
+      ],
+      [
+        "conflict escalation",
+        "not prince beating princess"
+      ],
+      [
+        "conflict escalation",
+        "altered physical assault"
+      ],
+      [
+        "not prince beating princess",
+        "altered physical assault"
+      ],
+      [
+        "altered physical assault",
+        "That would have..."
+      ],
+      [
+        "not prince beating princess",
+        "That would have..."
+      ]
+    ]
+  },
+  {
+    "text": "An oil tanker sails across an ocean. What would have happened if the oil tanker had broken up in an ocean?",
+    "factual_roles": {
+      "Exposure": [
+        "oil tanker breaking up"
+      ],
+      "Covariate": [
+        "ocean conditions",
+        "structural weakness"
+      ],
+      "Mediator": [
+        "spill of oil"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "ocean conditions",
+        "oil tanker breaking up"
+      ],
+      [
+        "ocean conditions",
+        "spill of oil"
+      ],
+      [
+        "structural weakness",
+        "oil tanker breaking up"
+      ],
+      [
+        "structural weakness",
+        "spill of oil"
+      ],
+      [
+        "oil tanker breaking up",
+        "spill of oil"
+      ],
+      [
+        "spill of oil",
+        "N.A."
+      ],
+      [
+        "oil tanker breaking up",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not oil tanker breaking up"
+      ],
+      "Covariate": [
+        "ocean conditions",
+        "structural weakness"
+      ],
+      "Mediator": [
+        "altered spill of oil"
+      ],
+      "Outcome": [
+        "pollution occurred"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "ocean conditions",
+        "not oil tanker breaking up"
+      ],
+      [
+        "ocean conditions",
+        "altered spill of oil"
+      ],
+      [
+        "structural weakness",
+        "not oil tanker breaking up"
+      ],
+      [
+        "structural weakness",
+        "altered spill of oil"
+      ],
+      [
+        "not oil tanker breaking up",
+        "altered spill of oil"
+      ],                                                                                                                                                        
+      [
+        "altered spill of oil",
+        "pollution occurred"
+      ],
+      [
+        "not oil tanker breaking up",
+        "pollution occurred"
+      ]
+    ]
+  },
+  {
+    "text": "A bus unloads a family. What would have happened if the bus had run over the family?",
+    "factual_roles": {
+      "Exposure": [
+        "bus running over family"
+      ],
+      "Covariate": [
+        "presence of moving bus",
+        "lack of barrier"
+      ],
+      "Mediator": [
+        "collision with family"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "presence of moving bus",
+        "bus running over family"
+      ],
+      [
+        "presence of moving bus",
+        "collision with family"
+      ],
+      [
+        "lack of barrier",
+        "bus running over family"
+      ],
+      [
+        "lack of barrier",
+        "collision with family"
+      ],
+      [
+        "bus running over family",
+        "collision with family"
+      ],
+      [
+        "collision with family",
+        "N.A."
+      ],
+      [
+        "bus running over family",
+        "N.A."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "not bus running over family"
+      ],
+      "Covariate": [
+        "presence of moving bus",
+        "lack of barrier"
+      ],
+      "Mediator": [
+        "altered collision with family"
+      ],
+      "Outcome": [
+        "injury occurred"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "presence of moving bus",
+        "not bus running over family"
+      ],
+      [
+        "presence of moving bus",
+        "altered collision with family"
+      ],
+      [
+        "lack of barrier",
+        "not bus running over family"
+      ],
+      [
+        "lack of barrier",
+        "altered collision with family"
+      ],
+      [
+        "not bus running over family",
+        "altered collision with family"
+      ],
+      [
+        "altered collision with family",
+        "injury occurred"
+      ],
+      [
+        "not bus running over family",
+        "injury occurred"
+      ]
+    ]
+  }
+]

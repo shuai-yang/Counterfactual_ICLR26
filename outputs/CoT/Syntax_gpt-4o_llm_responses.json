@@ -1,0 +1,94 @@
+{
+    "jim calls olivia.": {
+        "llm_answer": "lucas bob saw.",
+        "llm_explanation": "In the new language with subject-object-verb (SOV) word order, the object \"lucas\" comes before the subject \"bob,\" followed by the verb \"saw.\""
+    },
+    "jim saw emily.": {
+        "llm_answer": "lucas bob saw.",
+        "llm_explanation": "In the new language with subject-object-verb (SOV) word order, the object \"lucas\" comes before the subject \"bob,\" followed by the verb \"saw.\""
+    },
+    "mary knows emily.": {
+        "llm_answer": "lucas bob saw.",
+        "llm_explanation": "In the new language with subject-object-verb (SOV) word order, the object \"lucas\" comes before the subject \"bob,\" followed by the verb \"saw.\""
+    },
+    "jim sees olivia.": {
+        "llm_answer": "jim olivia sees.",
+        "llm_explanation": "The sentence is reordered from subject-verb-object to subject-object-verb while keeping the original word forms intact."
+    },
+    "anna saw emily.": {
+        "llm_answer": "jim olivia sees.",
+        "llm_explanation": "The sentence is reordered from subject-verb-object to subject-object-verb while keeping the original word forms intact."
+    },
+    "alice sees ava.": {
+        "llm_answer": "jim olivia sees.",
+        "llm_explanation": "The sentence is reordered from subject-verb-object to subject-object-verb while keeping the original word forms intact."
+    },
+    "anna sees jacob.": {
+        "llm_answer": "anna jacob sees.",
+        "llm_explanation": "The sentence is rearranged to subject-object-verb order, keeping the original word forms intact."
+    },
+    "mary calls liam.": {
+        "llm_answer": "mary liam calls",
+        "llm_explanation": "The sentence is reordered to subject-object-verb while keeping the original words unchanged."
+    },
+    "john calls ava.": {
+        "llm_answer": "mary liam calls",
+        "llm_explanation": "The sentence is reordered to subject-object-verb while keeping the original words unchanged."
+    },
+    "sophie saw emma.": {
+        "llm_answer": "mary liam calls",
+        "llm_explanation": "The sentence is reordered to subject-object-verb while keeping the original words unchanged."
+    },
+    "sophie saw liam.": {
+        "llm_answer": "mary liam calls",
+        "llm_explanation": "The sentence is reordered to subject-object-verb while keeping the original words unchanged."
+    },
+    "bob loves liam.": {
+        "llm_answer": "mary liam calls",
+        "llm_explanation": "The sentence is reordered to subject-object-verb while keeping the original words unchanged."
+    },
+    "bob sees emma.": {
+        "llm_answer": "bob emma sees",
+        "llm_explanation": "The sentence is reordered to place the subject \"bob\" first, followed by the object \"emma,\" and ending with the verb \"sees,\" as per subject-object-verb order."
+    },
+    "jim knows ethan.": {
+        "llm_answer": "jim ethan knows.",
+        "llm_explanation": "The sentence is reordered from SVO to SOV by moving the object before the verb, keeping the subject first and using the original word forms."
+    },
+    "anna loves jacob.": {
+        "llm_answer": "jim ethan knows.",
+        "llm_explanation": "The sentence is reordered from SVO to SOV by moving the object before the verb, keeping the subject first and using the original word forms."
+    },
+    "tom sees liam.": {
+        "llm_answer": "jim ethan knows.",
+        "llm_explanation": "The sentence is reordered from SVO to SOV by moving the object before the verb, keeping the subject first and using the original word forms."
+    },
+    "john sees ava.": {
+        "llm_answer": "jim ethan knows.",
+        "llm_explanation": "The sentence is reordered from SVO to SOV by moving the object before the verb, keeping the subject first and using the original word forms."
+    },
+    "anna sees liam.": {
+        "llm_answer": "anna liam sees.",
+        "llm_explanation": "The sentence is reordered from subject-verb-object to subject-object-verb while keeping the original word forms."
+    },
+    "alice loves mia.": {
+        "llm_answer": "alice mia loves.",
+        "llm_explanation": "The sentence order changes from subject-verb-object to subject-object-verb, so \"mia\" comes before \"loves\" after \"alice\"."
+    },
+    "john knows ava.": {
+        "llm_answer": "john ava knows",
+        "llm_explanation": "The sentence is rearranged to subject-object-verb order while maintaining the same word forms."
+    },
+    "anna saw mia.": {
+        "llm_answer": "john ava knows",
+        "llm_explanation": "The sentence is rearranged to subject-object-verb order while maintaining the same word forms."
+    },
+    "sophie saw jacob.": {
+        "llm_answer": "sophie jacob saw.",
+        "llm_explanation": "The sentence is reordered from SVO (\"sophie saw jacob\") to SOV by placing the object \"jacob\" before the verb \"saw,\" keeping all words in their original form."
+    },
+    "jim calls mia.": {
+        "llm_answer": "sophie jacob saw.",
+        "llm_explanation": "The sentence is reordered from SVO (\"sophie saw jacob\") to SOV by placing the object \"jacob\" before the verb \"saw,\" keeping all words in their original form."
+    }
+}

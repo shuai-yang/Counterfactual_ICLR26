@@ -1,0 +1,72 @@
+{
+    "COCO_val2014_000000000428.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If he were clean all over, he would not need a bath soon, as cleanliness typically indicates that there is no dirt or odor that would necessitate a bath."
+    },
+    "COCO_val2014_000000000474.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If this place just burned down, it is likely that grass would not be present immediately after the fire. However, in the future, grass may regrow as the area recovers, depending on the conditions and time."
+    },
+    "COCO_val2014_000000000520.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If the bottom of the bridge were 100 meters above the water, it would be considered a high bridge, as bridges that are 100 meters or more above the ground or water are typically classified as high bridges."
+    },
+    "COCO_val2014_000000000661.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "no",
+        "llm_answer_explanation": "The presence of a person holding a sandwich is not dependent on whether a man grabs a bag. The two actions are unrelated; therefore, even if a man were to grab the bag, it does not imply that a person would be holding a sandwich."
+    },
+    "COCO_val2014_000000000675.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "The light is off in the image, but if a man pressed the light switch, it would likely turn on, assuming the light fixture is functional and connected to a power source."
+    },
+    "COCO_val2014_000000000692.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "no",
+        "llm_answer_explanation": "If the baby were wearing the same clothes as his mother, it is likely that the baby would not be wearing stripes, as the mother's clothing does not appear to have stripes."
+    },
+    "COCO_val2014_000000000711.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If someone moved the remote control to the sofa, it would no longer be on the table, so the answer is yes, it would not be on the table."
+    },
+    "COCO_val2014_000000000724.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If the sky were pure blue, it would indicate a clear atmosphere without any clouds. Therefore, in such a scenario, there would not be any clouds present."
+    },
+    "COCO_val2014_000000000785.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If she took off the glasses, the goggles would still cover her eyes because they are designed to fit over the eyes regardless of whether she is wearing glasses or not."
+    },
+    "COCO_val2014_000000001029.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "Clouds are a natural weather phenomenon that can exist independently of planes. The presence of planes does not influence whether clouds are present or not. Therefore, even if there were no planes, clouds could still exist in the sky."
+    },
+    "COCO_val2014_000000001064.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "The toast does not appear burned on the edges, indicating that if there were no black on the edge of the toast, it would still not be burned. The absence of black suggests that the toast is properly cooked and not overdone."
+    },
+    "COCO_val2014_000000001103.jpg": {
+        "fact_answer": "yes",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If the sea were blue and the sand were golden, the photograph would still be a color photograph, as it would contain distinct colors that are characteristic of a color image. The presence of blue and golden hues would enhance the colorfulness of the photograph, but it would not change its classification as a color photograph."
+    },
+    "COCO_val2014_000000001146.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If his clothes were fancy, he would likely be wearing a more formal shirt that complements the tie better, such as a dress shirt with a proper collar style suitable for a tie."
+    },
+    "COCO_val2014_000000001153.jpg": {
+        "fact_answer": "no",
+        "llm_answer": "yes",
+        "llm_answer_explanation": "If we could only see the pulp and not the peel, it would imply that the bananas are indeed peeled, as the pulp is the inner part of the banana that is exposed when the peel is removed."
+    }
+}

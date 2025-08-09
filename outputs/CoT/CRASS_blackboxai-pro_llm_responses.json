@@ -1,0 +1,242 @@
+{
+    "A woman opens a treasure chest. What would have happened if the woman had not opened the treasure chest?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The QCC asks what would have happened if the man had killed the friend, which directly implies the friend would no longer be alive. Answer 4 is the only one that logically follows from this counterfactual scenario."
+    },
+    "A police officer calms down a hostage taker. What would have happened if the police officer had not calmed the hostage taker?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The QCC asks what would have happened if the man had killed the friend, which directly implies the friend would no longer be alive. Answer 4 is the only one that logically follows from this counterfactual scenario."
+    },
+    "A man talks about a lion. What would have happened if the man had talked to the lion?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The QCC asks what would have happened if the man had killed the friend, which directly implies the friend would no longer be alive. Answer 4 is the only one that logically follows from this counterfactual scenario."
+    },
+    "A girl kisses a boy. What would have happened if the girl had slapped the boy?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The QCC asks what would have happened if the man had killed the friend, which directly implies the friend would no longer be alive. Answer 4 is the only one that logically follows from this counterfactual scenario."
+    },
+    "A girl kisses a boy. What would have happened if the girl had killed the boy?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The QCC asks what would have happened if the man had killed the friend, which directly implies the friend would no longer be alive. Answer 4 is the only one that logically follows from this counterfactual scenario."
+    },
+    "A woman sees a fire. What would have happened if the woman had touched the fire? ": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had touched the fire, it is logical to conclude that she would have been burned, as touching fire typically results in burns. The other options do not align with the expected outcome of such an action."
+    },
+    "A woman sees a fire. What would have happened if the woman had fed the fire?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had touched the fire, it is logical to conclude that she would have been burned, as touching fire typically results in burns. The other options do not align with the expected outcome of such an action."
+    },
+    "A branch floats in a pond. What would have happened if a corpse had floated in the pond?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had touched the fire, it is logical to conclude that she would have been burned, as touching fire typically results in burns. The other options do not align with the expected outcome of such an action."
+    },
+    "A branch floats in a pond. What would have happened if a branch had sung in the pond?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had touched the fire, it is logical to conclude that she would have been burned, as touching fire typically results in burns. The other options do not align with the expected outcome of such an action."
+    },
+    "A bird lands in a forest. What would have happened if a plane had landed in the forest?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had touched the fire, it is logical to conclude that she would have been burned, as touching fire typically results in burns. The other options do not align with the expected outcome of such an action."
+    },
+    "A bird lands in a forest. What would have happened if a meteor had landed in the forest?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had touched the fire, it is logical to conclude that she would have been burned, as touching fire typically results in burns. The other options do not align with the expected outcome of such an action."
+    },
+    "A woman drives on a highway. What would have happened if a child had driven on the highway?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had touched the fire, it is logical to conclude that she would have been burned, as touching fire typically results in burns. The other options do not align with the expected outcome of such an action."
+    },
+    "A pebble falls from a skyscraper. What would have happened if a man had fallen from the skyscraper?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had touched the fire, it is logical to conclude that she would have been burned, as touching fire typically results in burns. The other options do not align with the expected outcome of such an action."
+    },
+    "A pebble falls from a skyscraper. What would have happened if a laptop had fallen from a skyscraper?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had touched the fire, it is logical to conclude that she would have been burned, as touching fire typically results in burns. The other options do not align with the expected outcome of such an action."
+    },
+    "A mother bears a child. What would have happened if the child had born a mother?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the woman had touched the fire, it is logical to conclude that she would have been burned, as touching fire typically results in burns. The other options do not align with the expected outcome of such an action."
+    },
+    "A mother bears a child. What would have happened if the mother had born a stroller?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which is a biological process. The QCC presents a hypothetical situation where the mother bears a stroller instead of a child, which is not biologically possible. Therefore, the most suitable answer is that it is not possible for a mother to bear a stroller."
+    },
+    "A man catches a ball. What would have happened if the man had caught a water balloon?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which is a biological process. The QCC presents a hypothetical situation where the mother bears a stroller instead of a child, which is not biologically possible. Therefore, the most suitable answer is that it is not possible for a mother to bear a stroller."
+    },
+    "A man catches a ball. What would have happened if the man had caught a refrigerator?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which is a biological process. The QCC presents a hypothetical situation where the mother bears a stroller instead of a child, which is not biologically possible. Therefore, the most suitable answer is that it is not possible for a mother to bear a stroller."
+    },
+    "A mortician prepares a corpse. What would have happened if the mortician had prepared a dinner?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which is a biological process. The QCC presents a hypothetical situation where the mother bears a stroller instead of a child, which is not biologically possible. Therefore, the most suitable answer is that it is not possible for a mother to bear a stroller."
+    },
+    "A family starts a trip. What would have happened if the family had ended the trip?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which is a biological process. The QCC presents a hypothetical situation where the mother bears a stroller instead of a child, which is not biologically possible. Therefore, the most suitable answer is that it is not possible for a mother to bear a stroller."
+    },
+    "A president rides a horse. What would have happened if the president had ridden a garden hose?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which is a biological process. The QCC presents a hypothetical situation where the mother bears a stroller instead of a child, which is not biologically possible. Therefore, the most suitable answer is that it is not possible for a mother to bear a stroller."
+    },
+    "A president rides a horse. What would have happened if the president had ridden a motorcycle?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which is a biological process. The QCC presents a hypothetical situation where the mother bears a stroller instead of a child, which is not biologically possible. Therefore, the most suitable answer is that it is not possible for a mother to bear a stroller."
+    },
+    "A man mounts a horse. What would have happened if the horse had mounted the man?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which is a biological process. The QCC presents a hypothetical situation where the mother bears a stroller instead of a child, which is not biologically possible. Therefore, the most suitable answer is that it is not possible for a mother to bear a stroller."
+    },
+    "A plant grows in a planter. What would have happened if the planter grows in the plant?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which is a biological process. The QCC presents a hypothetical situation where the mother bears a stroller instead of a child, which is not biologically possible. Therefore, the most suitable answer is that it is not possible for a mother to bear a stroller."
+    },
+    "A woman swallows potassium cyanide. What would have happened if the woman had distributed potassium cyanide?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which is a biological process. The QCC presents a hypothetical situation where the mother bears a stroller instead of a child, which is not biologically possible. Therefore, the most suitable answer is that it is not possible for a mother to bear a stroller."
+    },
+    "A woman swallows potassium cyanide. What would have happened if the woman had watched potassium cyanide?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which is a biological process. The QCC presents a hypothetical situation where the mother bears a stroller instead of a child, which is not biologically possible. Therefore, the most suitable answer is that it is not possible for a mother to bear a stroller."
+    },
+    "A student counts numbers. What would have happened if the student had drunk numbers?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which is a biological process. The QCC presents a hypothetical situation where the mother bears a stroller instead of a child, which is not biologically possible. Therefore, the most suitable answer is that it is not possible for a mother to bear a stroller."
+    },
+    "A prince rescues a princess. What would have happened if the prince had beaten the princess?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The premise states that a mother bears a child, which is a biological process. The QCC presents a hypothetical situation where the mother bears a stroller instead of a child, which is not biologically possible. Therefore, the most suitable answer is that it is not possible for a mother to bear a stroller."
+    },
+    "An oil tanker sails across an ocean. What would have happened if the oil tanker had broken up in an ocean?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A bus unloads a family. What would have happened if the bus had run over the family?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A man reports a crime. What would have happened if the man had committed the crime?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A man reports a crime. What would have happened if the man had cleared up the crime?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A woman dates a man. What would have happened if the woman had cheated on the man?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A dog expects a child. What would have happened if the dog had bitten the child?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A politician accepts an invitation. What would have happened if the politician had accepted a bribe?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A slaughterer slays a pig. What would have happened if the slaughterer had slain a child?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "An avalanche rolls down a hill. What would have happened if the avalanche had rolled up the hill?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A thief hides from the police. What would have happened if the thief had called the police?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A boy strikes a match. What would have happened if the boy had ditched the match?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A car crashes into a tree. What would have happened if the car had parked beneath the tree?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A stone hits a window. What would have happened if the stone had flown by the window?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A stone hits a window. What would have happened if the stone had talked to the window?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A student understands an idea. What would have happened if the student had not understood the idea?": {
+        "llm_answer": "2",
+        "llm_answer_explanation": "If the oil tanker had broken up in the ocean, it would likely have resulted in environmental pollution due to the spillage of oil into the water, which is a common consequence of such incidents."
+    },
+    "A country loses a war. What would have happened if the country had won the war?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the country had won the war, it is logical to assume that the majority of its citizens would feel a sense of happiness or relief due to the victory, as winning a war typically brings a sense of pride and accomplishment."
+    },
+    "A woman arms a bomb. What would have happened if the woman had defused the bomb?": {
+        "llm_answer": "1",
+        "llm_answer_explanation": "If the country had won the war, it is logical to assume that the majority of its citizens would feel a sense of happiness or relief due to the victory, as winning a war typically brings a sense of pride and accomplishment."
+    },
+    "A girl reveals a thing. What would have happened if the girl had concealed the thing?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the girl had concealed the thing, it logically follows that the thing would not have been visible to others. This aligns with the premise of her revealing it, as concealing it would mean it remains hidden."
+    },
+    "A father meets a friend. What would have happened if he had lost the friend?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the girl had concealed the thing, it logically follows that the thing would not have been visible to others. This aligns with the premise of her revealing it, as concealing it would mean it remains hidden."
+    },
+    "A man loves his job. What would have happened if he had lost his job.": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the girl had concealed the thing, it logically follows that the thing would not have been visible to others. This aligns with the premise of her revealing it, as concealing it would mean it remains hidden."
+    },
+    "A team wins a game. What would have happened if the team had lost the game?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the girl had concealed the thing, it logically follows that the thing would not have been visible to others. This aligns with the premise of her revealing it, as concealing it would mean it remains hidden."
+    },
+    "A train crashes into a mountain. What would have happened if the train had crashed into a feather?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the girl had concealed the thing, it logically follows that the thing would not have been visible to others. This aligns with the premise of her revealing it, as concealing it would mean it remains hidden."
+    },
+    "A man swims in an ocean. What would have happened if the man had drowned in the ocean?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the girl had concealed the thing, it logically follows that the thing would not have been visible to others. This aligns with the premise of her revealing it, as concealing it would mean it remains hidden."
+    },
+    "A child draws a picture. What would have happened if the child had erased the picture?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the girl had concealed the thing, it logically follows that the thing would not have been visible to others. This aligns with the premise of her revealing it, as concealing it would mean it remains hidden."
+    },
+    "A boy strikes a match. What would have happened if the boy had broken the match?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the girl had concealed the thing, it logically follows that the thing would not have been visible to others. This aligns with the premise of her revealing it, as concealing it would mean it remains hidden."
+    },
+    "A boy strikes a match. What would have happened if the boy had swallowed the match?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "If the girl had concealed the thing, it logically follows that the thing would not have been visible to others. This aligns with the premise of her revealing it, as concealing it would mean it remains hidden."
+    },
+    "A boy strikes a match. What would have happened if the boy had watered the match?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the boy had watered the match, it would have become wet and therefore ineffective for lighting a fire, making it useless."
+    },
+    "A bird flies over a bridge. What would have happened if the bird had hit the bridge?": {
+        "llm_answer": "3",
+        "llm_answer_explanation": "If the boy had watered the match, it would have become wet and therefore ineffective for lighting a fire, making it useless."
+    },
+    "A craftsman builds a house. What would have happened if the house had built a craftsman?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The questionized counterfactual conditional presents a nonsensical scenario where a house is described as being capable of building a craftsman, which is logically impossible. Therefore, the most suitable answer is that such a situation cannot occur."
+    },
+    "A mother wraps a sandwich. What would have happened if the mother had eaten the sandwich?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The questionized counterfactual conditional presents a nonsensical scenario where a house is described as being capable of building a craftsman, which is logically impossible. Therefore, the most suitable answer is that such a situation cannot occur."
+    },
+    "A dog barks at a tree. What would have happened if the dog had run into the tree?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The questionized counterfactual conditional presents a nonsensical scenario where a house is described as being capable of building a craftsman, which is logically impossible. Therefore, the most suitable answer is that such a situation cannot occur."
+    },
+    "A man greets a friend. What would have happened if the man had killed the friend?": {
+        "llm_answer": "4",
+        "llm_answer_explanation": "The questionized counterfactual conditional presents a nonsensical scenario where a house is described as being capable of building a craftsman, which is logically impossible. Therefore, the most suitable answer is that such a situation cannot occur."
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "COCO_val2014_000000000428.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The dog is already clean all over, so it does not need a bath."
+    },
+    "COCO_val2014_000000000474.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If this place just burned down, it is likely that grass would regrow over time, as many ecosystems can recover after a fire, depending on the severity and the type of vegetation present."
+    },
+    "COCO_val2014_000000000520.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "A bridge is generally considered high if it is significantly elevated above the ground or water below. If the bottom of the bridge were 100 meters above the water, it would indeed be classified as a high bridge."
+    },
+    "COCO_val2014_000000000661.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The image shows a person holding a sandwich, and if a man were to grab this bag, it is likely that the person would still be holding the sandwich, as the bag is not being taken away from them."
+    },
+    "COCO_val2014_000000000675.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If a man pressed the light switch, it would turn the light on, assuming the light is functional and connected to the switch."
+    },
+    "COCO_val2014_000000000692.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "If the baby were wearing the same clothes as his mother, it is likely that the baby would not be wearing stripes, as the mother's clothing may not have stripes. The answer is based on the assumption that the mother\u2019s clothing style differs from the baby\u2019s current outfit."
+    },
+    "COCO_val2014_000000000711.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If someone moved the remote control to the sofa, it would no longer be on the table, but it would be on the sofa instead."
+    },
+    "COCO_val2014_000000000724.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": null,
+        "llm_answer_explanation": null
+    },
+    "COCO_val2014_000000000785.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If she took off the glasses, the goggles would still cover her eyes as they are designed to fit over the eyes regardless of whether she is wearing glasses or not."
+    },
+    "COCO_val2014_000000001029.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The image does not depict clouds."
+    },
+    "COCO_val2014_000000001064.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "If there were no black on the edges of the toast, it would indicate that the toast is not burned. The presence of black typically signifies charring or burning, so without it, the toast would not be considered burned."
+    },
+    "COCO_val2014_000000001103.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The photograph would still be considered a color photograph regardless of the colors of the sea and sand. A color photograph is defined by the presence of multiple colors, and if the sea were blue and the sand were golden, it would still contain color."
+    },
+    "COCO_val2014_000000001146.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The person in the image is wearing a dress shirt with a tie, which is an appropriate combination for formal occasions. If his clothes were fancy, he would likely be wearing a more elaborate or ornate outfit, but the shirt and tie would still be a suitable choice."
+    },
+    "COCO_val2014_000000001153.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The image shows a banana with a peel that has been partially removed, but the banana itself is still intact. If we could only see the pulp and not the peel, it would be difficult to determine if the banana had been peeled or not, since the peel is not visible. However, based on the fact that the banana is still intact and there are no signs of damage or removal of the pulp, it is likely that the banana has not been peeled. Therefore, the answer to the second question is yes."
+    },
+    "COCO_val2014_000000001340.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the flowers do not die without water, they would be considered artificial, as natural flowers require water to survive."
+    },
+    "COCO_val2014_000000001342.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "Even if bananas and apples were present, the items in the image are not edible, so the addition of those fruits would not change that fact."
+    },
+    "COCO_val2014_000000001425.jpg": {
+        "fact_answer": "Yes",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the food were eaten, the colors of the remaining food and the plate would still be visible, indicating that there would still be color in the picture."
+    },
+    "COCO_val2014_000000001436.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the man had taken off his glasses, he would not be wearing them, but the question is hypothetical and does not change the fact that he is currently not wearing glasses in the image."
+    },
+    "COCO_val2014_000000001554.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "Sheep are typically shaved (sheared) to remove their wool, which is done regardless of whether they are covered in hair or not. If they were covered in hair, they would still be sheared to maintain their health and comfort."
+    },
+    "COCO_val2014_000000001563.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "The gender of a skier is determined by their physical characteristics, such as body shape and features, rather than just facial features. If the skier had a man's face and Adam's apple, they would typically be identified as male, regardless of their skiing attire."
+    },
+    "COCO_val2014_000000001700.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If the snowboarder jumped up, he would be in the air, as jumping inherently involves leaving the ground."
+    },
+    "COCO_val2014_000000001841.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "Yes",
+        "llm_answer_explanation": "If there is something around her neck, it is possible that she could be wearing a tie, as ties are typically worn around the neck. However, without seeing the image, we cannot confirm if she is actually wearing one."
+    },
+    "COCO_val2014_000000002149.jpg": {
+        "fact_answer": "No",
+        "llm_answer": "No",
+        "llm_answer_explanation": "The color of the apples does not affect the presence of oranges in the picture. If there are no oranges in the image, changing the color of the apples would not create any oranges."
+    }
+}

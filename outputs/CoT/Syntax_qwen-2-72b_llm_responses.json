@@ -1,0 +1,122 @@
+{
+    "tim saw lucas.": {
+        "llm_answer": "tim lucas saw",
+        "llm_explanation": "The sentence has been reconstructed by placing the object (lucas) before the verb (saw), while keeping the subject (tim) at the beginning, to conform to the subject-object-verb order."
+    },
+    "jim calls olivia.": {
+        "llm_answer": "jim olivia calls",
+        "llm_explanation": "The sentence has been reconstructed in the new language by changing the word order from subject-verb-object to subject-object-verb."
+    },
+    "jim saw emily.": {
+        "llm_answer": "jim emily saw",
+        "llm_explanation": "The sentence has been reconstructed according to the subject-object-verb order as required by the task."
+    },
+    "mary knows emily.": {
+        "llm_answer": "Mary Emily knows.",
+        "llm_explanation": "The sentence has been reconstructed by placing the object before the verb, while keeping the subject at the beginning, as per the SOV order."
+    },
+    "jim sees olivia.": {
+        "llm_answer": "jim olivia sees",
+        "llm_explanation": "The sentence has been rearranged to follow the subject-object-verb order, which is required for the new language."
+    },
+    "anna calls noah.": {
+        "llm_answer": "anna noah calls.",
+        "llm_explanation": "The subject \"anna\" remains in the first position, the object \"noah\" moves to the second position, and the verb \"calls\" moves to the third position, resulting in the subject-object-verb word order."
+    },
+    "anna saw emily.": {
+        "llm_answer": "anna emily saw.",
+        "llm_explanation": "The sentence has been reconstructed in the new language by changing the word order from subject-verb-object (SVO) to subject-object-verb (SOV)."
+    },
+    "alice sees ava.": {
+        "llm_answer": "Alice Ava sees.",
+        "llm_explanation": "The sentence has been rearranged to follow the subject-object-verb order as required by the new language."
+    },
+    "anna sees jacob.": {
+        "llm_answer": "anna jacob sees",
+        "llm_explanation": "The sentence has been reconstructed to follow the subject-object-verb order as required by the new language."
+    },
+    "mary calls liam.": {
+        "llm_answer": "Liam Mary calls.",
+        "llm_explanation": "The sentence has been reconstructed using the subject-object-verb order as required by the new language. However, the result may not be grammatically correct in English, but it follows the instruction to use the words in the same form as they appear in the given sentence."
+    },
+    "john calls ava.": {
+        "llm_answer": "John Ava calls.",
+        "llm_explanation": "The sentence has been reconstructed by rearranging the original sentence into subject-object-verb order as required by the new language."
+    },
+    "sophie saw emma.": {
+        "llm_answer": "Sophie Emma saw.",
+        "llm_explanation": "The sentence has been reconstructed to follow the subject-object-verb order, using the words in their original form."
+    },
+    "sophie saw liam.": {
+        "llm_answer": "Sophie Liam saw.",
+        "llm_explanation": "The sentence has been reconstructed to follow the subject-object-verb order, using the same words as in the original sentence."
+    },
+    "sophie saw olivia.": {
+        "llm_answer": "Sophie Olivia saw.",
+        "llm_explanation": "The sentence has been reconstructed according to the subject-object-verb order, which is the grammatical structure of the new language."
+    },
+    "bob loves liam.": {
+        "llm_answer": "bob liam loves",
+        "llm_explanation": "The sentence has been reconstructed in the new language by changing the word order from subject-verb-object to subject-object-verb."
+    },
+    "bob sees emma.": {
+        "llm_answer": "bob emma sees",
+        "llm_explanation": "The sentence has been reconstructed to follow the subject-object-verb order, using the same words as in the original sentence."
+    },
+    "jim knows ethan.": {
+        "llm_answer": "ethan jim knows",
+        "llm_explanation": "The sentence has been rearranged to follow the subject-object-verb order as required by the new language."
+    },
+    "john calls olivia.": {
+        "llm_answer": "John Olivia calls.",
+        "llm_explanation": "The sentence has been reconstructed to follow the subject-object-verb order as required by the new language."
+    },
+    "anna loves jacob.": {
+        "llm_answer": "anna jacob loves",
+        "llm_explanation": "The sentence has been rearranged to follow the subject-object-verb order as required by the new language."
+    },
+    "tom sees liam.": {
+        "llm_answer": "tom liam sees.",
+        "llm_explanation": "The sentence has been reconstructed to follow the subject-object-verb order, which is the grammatical structure of the new language."
+    },
+    "mary knows ava.": {
+        "llm_answer": "Mary Ava knows.",
+        "llm_explanation": "The sentence has been rearranged to follow the subject-object-verb order as required by the new language."
+    },
+    "john sees ava.": {
+        "llm_answer": "John Ava sees.",
+        "llm_explanation": "The sentence has been rearranged to follow the subject-object-verb order as required by the new language."
+    },
+    "jim knows lucas.": {
+        "llm_answer": "jim lucas knows.",
+        "llm_explanation": "The sentence has been rearranged to follow the subject-object-verb order, resulting in \"jim lucas knows.\""
+    },
+    "anna sees liam.": {
+        "llm_answer": "anna liam sees",
+        "llm_explanation": "The sentence has been reconstructed using the subject-object-verb order as required by the new language."
+    },
+    "alice loves mia.": {
+        "llm_answer": "Alice Mia loves",
+        "llm_explanation": "The sentence has been rearranged to follow the subject-object-verb order as required by the new language."
+    },
+    "john knows ava.": {
+        "llm_answer": "John Ava knows.",
+        "llm_explanation": "The sentence has been reconstructed to follow the subject-object-verb order as required by the new language."
+    },
+    "anna saw mia.": {
+        "llm_answer": "anna mia saw",
+        "llm_explanation": "The sentence has been rearranged to follow the subject-object-verb order as required by the new language."
+    },
+    "sophie saw jacob.": {
+        "llm_answer": "Sophie Jacob saw.",
+        "llm_explanation": "The sentence has been reconstructed to follow the subject-object-verb order as required by the new language."
+    },
+    "jim calls mia.": {
+        "llm_answer": "jim mia calls",
+        "llm_explanation": "The sentence has been rearranged to follow the subject-object-verb order, which is \"jim mia calls\" in this case."
+    },
+    "bob saw lucas.": {
+        "llm_answer": "Lucas bob saw.",
+        "llm_explanation": "The sentence has been reconstructed using the subject-object-verb order, resulting in \"Lucas bob saw.\" However, this may not be grammatically correct or understandable in the new language, as proper word order alone might not ensure correct syntax. Further adjustments to grammar rules might be necessary for the new language."
+    }
+}

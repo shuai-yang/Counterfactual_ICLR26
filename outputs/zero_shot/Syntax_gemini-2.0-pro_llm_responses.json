@@ -1,0 +1,122 @@
+{
+    "tim saw lucas.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "jim calls olivia.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "jim saw emily.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "mary knows emily.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "jim sees olivia.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "anna calls noah.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "anna saw emily.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "alice sees ava.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "anna sees jacob.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "mary calls liam.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "john calls ava.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "sophie saw emma.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "sophie saw liam.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "sophie saw olivia.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "bob loves liam.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "bob sees emma.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "jim knows ethan.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "john calls olivia.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "anna loves jacob.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "tom sees liam.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "mary knows ava.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "john sees ava.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "jim knows lucas.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "anna sees liam.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "alice loves mia.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "john knows ava.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "anna saw mia.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "sophie saw jacob.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "jim calls mia.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    },
+    "bob saw lucas.": {
+        "llm_answer": "lucas bob saw",
+        "llm_explanation": "In this new language, the order is subject-object-verb, so the subject \"bob\" and the object \"lucas\" switch places, with \"saw\" remaining at the end as the verb."
+    }
+}

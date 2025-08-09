@@ -1,0 +1,2945 @@
+{
+    "HumanEval_0_test0": {
+        "cf_output": "True"
+    },
+    "HumanEval_0_test1": {
+        "cf_output": "False"
+    },
+    "HumanEval_0_test2": {
+        "cf_output": "True"
+    },
+    "HumanEval_0_test3": {
+        "cf_output": "False"
+    },
+    "HumanEval_0_test4": {
+        "cf_output": "True"
+    },
+    "HumanEval_0_test5": {
+        "cf_output": "True"
+    },
+    "HumanEval_0_test6": {
+        "cf_output": "False"
+    },
+    "HumanEval_2_test0": {
+        "cf_output": "0.5"
+    },
+    "HumanEval_3_test0": {
+        "cf_output": "False"
+    },
+    "HumanEval_3_test1": {
+        "cf_output": "False"
+    },
+    "HumanEval_3_test2": {
+        "cf_output": "True"
+    },
+    "HumanEval_3_test3": {
+        "cf_output": "False"
+    },
+    "HumanEval_3_test4": {
+        "cf_output": "True"
+    },
+    "HumanEval_3_test5": {
+        "cf_output": "True"
+    },
+    "HumanEval_5_test0": {
+        "cf_output": "[]"
+    },
+    "HumanEval_5_test1": {
+        "cf_output": "[6, 9, 7, 9, 4, 9, 3]"
+    },
+    "HumanEval_5_test2": {
+        "cf_output": "[3, 3, 3, 3, 3]"
+    },
+    "HumanEval_7_test0": {
+        "cf_output": "[]"
+    },
+    "HumanEval_7_test1": {
+        "cf_output": "['xxx', 'xxxAAA', 'xxx']"
+    },
+    "HumanEval_7_test2": {
+        "cf_output": "['xxx', 'aaaxxy', 'xxxAAA', 'xxx']"
+    },
+    "HumanEval_7_test3": {
+        "cf_output": "['grunt', 'prune']"
+    },
+    "HumanEval_8_test0": {
+        "cf_output": "(0, 1"
+    },
+    "HumanEval_8_test1": {
+        "cf_output": "(3, 1"
+    },
+    "HumanEval_8_test2": {
+        "cf_output": "(100, 0"
+    },
+    "HumanEval_8_test3": {
+        "cf_output": "(3 + 5 + 7, 3 * 5 * 7"
+    },
+    "HumanEval_8_test4": {
+        "cf_output": "(10, 10"
+    },
+    "HumanEval_9_test0": {
+        "cf_output": "[]"
+    },
+    "HumanEval_9_test1": {
+        "cf_output": "[2, 3, 4, 5]"
+    },
+    "HumanEval_9_test2": {
+        "cf_output": "[5, 5, 5, 5]"
+    },
+    "HumanEval_9_test3": {
+        "cf_output": "[4, 4, 4, 101, 101]"
+    },
+    "HumanEval_10_test0": {
+        "cf_output": "''"
+    },
+    "HumanEval_10_test1": {
+        "cf_output": "'x'"
+    },
+    "HumanEval_10_test2": {
+        "cf_output": "'xyzyx'"
+    },
+    "HumanEval_10_test3": {
+        "cf_output": "'xyx'"
+    },
+    "HumanEval_10_test4": {
+        "cf_output": "'jerryrrej'"
+    },
+    "HumanEval_11_test0": {
+        "cf_output": "'010010'"
+    },
+    "HumanEval_11_test1": {
+        "cf_output": "'0'"
+    },
+    "HumanEval_11_test2": {
+        "cf_output": "'0101'"
+    },
+    "HumanEval_12_test0": {
+        "cf_output": "None"
+    },
+    "HumanEval_12_test1": {
+        "cf_output": "'x'"
+    },
+    "HumanEval_12_test2": {
+        "cf_output": "'zzzz'"
+    },
+    "HumanEval_13_test0": {
+        "cf_output": "1"
+    },
+    "HumanEval_13_test1": {
+        "cf_output": "5"
+    },
+    "HumanEval_13_test2": {
+        "cf_output": "7"
+    },
+    "HumanEval_13_test3": {
+        "cf_output": "12"
+    },
+    "HumanEval_14_test0": {
+        "cf_output": "[]"
+    },
+    "HumanEval_14_test1": {
+        "cf_output": "['a', 'as', 'asd', 'asdf', 'asdfg', 'asdfgh']"
+    },
+    "HumanEval_14_test2": {
+        "cf_output": "['W', 'WW', 'WWW']"
+    },
+    "HumanEval_15_test0": {
+        "cf_output": "'0'"
+    },
+    "HumanEval_15_test1": {
+        "cf_output": "'0 1 2 3'"
+    },
+    "HumanEval_15_test2": {
+        "cf_output": "'0 1 2 3 4 5 6 7 8 9 10'"
+    },
+    "HumanEval_16_test0": {
+        "cf_output": "0"
+    },
+    "HumanEval_16_test1": {
+        "cf_output": "5"
+    },
+    "HumanEval_16_test2": {
+        "cf_output": "5"
+    },
+    "HumanEval_16_test3": {
+        "cf_output": "1"
+    },
+    "HumanEval_16_test4": {
+        "cf_output": "5"
+    },
+    "HumanEval_17_test0": {
+        "cf_output": "[]"
+    },
+    "HumanEval_17_test1": {
+        "cf_output": "[5, 5, 5, 5]"
+    },
+    "HumanEval_17_test2": {
+        "cf_output": "[2, 2, 2, 2]"
+    },
+    "HumanEval_17_test3": {
+        "cf_output": "[3, 3, 2, 2, 5, 5, 5, 5]"
+    },
+    "HumanEval_17_test4": {
+        "cf_output": "[3, 2, 3, 2, 5, 3, 5, 3]"
+    },
+    "HumanEval_18_test0": {
+        "cf_output": "0"
+    },
+    "HumanEval_18_test1": {
+        "cf_output": "4"
+    },
+    "HumanEval_18_test2": {
+        "cf_output": "4"
+    },
+    "HumanEval_18_test3": {
+        "cf_output": "1"
+    },
+    "HumanEval_19_test0": {
+        "cf_output": "''"
+    },
+    "HumanEval_19_test1": {
+        "cf_output": "'three'"
+    },
+    "HumanEval_19_test2": {
+        "cf_output": "'three five nine'"
+    },
+    "HumanEval_19_test3": {
+        "cf_output": "'zero four five seven eight nine'"
+    },
+    "HumanEval_19_test4": {
+        "cf_output": "'zero one two three four five six'"
+    },
+    "HumanEval_20_test0": {
+        "cf_output": "(3.9, 4.0"
+    },
+    "HumanEval_20_test1": {
+        "cf_output": "(5.0, 5.9"
+    },
+    "HumanEval_20_test2": {
+        "cf_output": "(2.0, 2.2"
+    },
+    "HumanEval_20_test3": {
+        "cf_output": "(2.0, 2.0"
+    },
+    "HumanEval_20_test4": {
+        "cf_output": "(2.2, 3.1"
+    },
+    "HumanEval_21_test0": {
+        "cf_output": "[0.0, 1.0]"
+    },
+    "HumanEval_21_test1": {
+        "cf_output": "[1.0, 0.0]"
+    },
+    "HumanEval_21_test2": {
+        "cf_output": "[0.0, 0.25, 0.5, 0.75, 1.0]"
+    },
+    "HumanEval_21_test3": {
+        "cf_output": "[0.25, 0.0, 1.0, 0.5, 0.75]"
+    },
+    "HumanEval_21_test4": {
+        "cf_output": "[0.25, 0.0, 1.0, 0.5, 0.75]"
+    },
+    "HumanEval_22_test0": {
+        "cf_output": "[]"
+    },
+    "HumanEval_22_test1": {
+        "cf_output": "[5, 10]"
+    },
+    "HumanEval_22_test2": {
+        "cf_output": "[4, 4, 4]"
+    },
+    "HumanEval_23_test0": {
+        "cf_output": "0"
+    },
+    "HumanEval_23_test1": {
+        "cf_output": "1"
+    },
+    "HumanEval_23_test2": {
+        "cf_output": "9"
+    },
+    "HumanEval_24_test0": {
+        "cf_output": "1"
+    },
+    "HumanEval_24_test1": {
+        "cf_output": "1"
+    },
+    "HumanEval_24_test2": {
+        "cf_output": "5"
+    },
+    "HumanEval_24_test3": {
+        "cf_output": "50"
+    },
+    "HumanEval_24_test4": {
+        "cf_output": "7"
+    },
+    "HumanEval_25_test0": {
+        "cf_output": "[3]"
+    },
+    "HumanEval_25_test1": {
+        "cf_output": "[3, 3]"
+    },
+    "HumanEval_25_test2": {
+        "cf_output": "[3, 3, 3]"
+    },
+    "HumanEval_25_test3": {
+        "cf_output": "[4, 20]"
+    },
+    "HumanEval_25_test4": {
+        "cf_output": "[4, 4, 20, 20]"
+    },
+    "HumanEval_25_test5": {
+        "cf_output": "[4, 4, 4, 20, 20, 20]"
+    },
+    "HumanEval_25_test6": {
+        "cf_output": "[4, 20, 20, 20]"
+    },
+    "HumanEval_25_test7": {
+        "cf_output": "[3, 4, 4]"
+    },
+    "HumanEval_26_test0": {
+        "cf_output": "[]"
+    },
+    "HumanEval_26_test1": {
+        "cf_output": "[2, 3, 4, 5]"
+    },
+    "HumanEval_26_test2": {
+        "cf_output": "[2, 5, 6]"
+    },
+    "HumanEval_27_test0": {
+        "cf_output": "''"
+    },
+    "HumanEval_27_test1": {
+        "cf_output": "'hELLO!'"
+    },
+    "HumanEval_27_test2": {
+        "cf_output": "'tHESE VIOLENT DELIGHTS HAVE VIOLENT ENDS'"
+    },
+    "HumanEval_28_test0": {
+        "cf_output": "''"
+    },
+    "HumanEval_28_test1": {
+        "cf_output": "'xyz'"
+    },
+    "HumanEval_28_test2": {
+        "cf_output": "'xyzwk'"
+    },
+    "HumanEval_29_test0": {
+        "cf_output": "[]"
+    },
+    "HumanEval_29_test1": {
+        "cf_output": "['xxx', 'xxxAAA', 'xxx']"
+    },
+    "HumanEval_30_test0": {
+        "cf_output": "[5, 6, 7]"
+    },
+    "HumanEval_30_test1": {
+        "cf_output": "[6, 4, 3, 4, 4, 10, 124, 2]"
+    },
+    "HumanEval_30_test2": {
+        "cf_output": "[]"
+    },
+    "HumanEval_30_test3": {
+        "cf_output": "[]"
+    },
+    "HumanEval_31_test0": {
+        "cf_output": "False"
+    },
+    "HumanEval_31_test1": {
+        "cf_output": "True"
+    },
+    "HumanEval_31_test2": {
+        "cf_output": "True"
+    },
+    "HumanEval_31_test3": {
+        "cf_output": "True"
+    },
+    "HumanEval_31_test4": {
+        "cf_output": "True"
+    },
+    "HumanEval_31_test5": {
+        "cf_output": "False"
+    },
+    "HumanEval_31_test6": {
+        "cf_output": "False"
+    },
+    "HumanEval_31_test7": {
+        "cf_output": "True"
+    },
+    "HumanEval_31_test8": {
+        "cf_output": "True"
+    },
+    "HumanEval_31_test9": {
+        "cf_output": "True"
+    },
+    "HumanEval_31_test10": {
+        "cf_output": "False"
+    },
+    "HumanEval_31_test11": {
+        "cf_output": "False"
+    },
+    "HumanEval_31_test12": {
+        "cf_output": "False"
+    },
+    "HumanEval_34_test0": {
+        "cf_output": "[1, 3, 4, 6, 10, 124]"
+    },
+    "HumanEval_35_test0": {
+        "cf_output": "4"
+    },
+    "HumanEval_35_test1": {
+        "cf_output": "125"
+    },
+    "HumanEval_36_test0": {
+        "cf_output": "0"
+    },
+    "HumanEval_36_test1": {
+        "cf_output": "2"
+    },
+    "HumanEval_36_test2": {
+        "cf_output": "3"
+    },
+    "HumanEval_36_test3": {
+        "cf_output": "3"
+    },
+    "HumanEval_36_test4": {
+        "cf_output": "6"
+    },
+    "HumanEval_36_test5": {
+        "cf_output": "192"
+    },
+    "HumanEval_36_test6": {
+        "cf_output": "639"
+    },
+    "HumanEval_36_test7": {
+        "cf_output": "8026"
+    },
+    "HumanEval_39_test0": {
+        "cf_output": "2"
+    },
+    "HumanEval_39_test1": {
+        "cf_output": "3"
+    },
+    "HumanEval_39_test2": {
+        "cf_output": "5"
+    },
+    "HumanEval_39_test3": {
+        "cf_output": "13"
+    },
+    "HumanEval_39_test4": {
+        "cf_output": "89"
+    },
+    "HumanEval_39_test5": {
+        "cf_output": "233"
+    },
+    "HumanEval_39_test6": {
+        "cf_output": "1597"
+    },
+    "HumanEval_39_test7": {
+        "cf_output": "28657"
+    },
+    "HumanEval_39_test8": {
+        "cf_output": "514229"
+    },
+    "HumanEval_39_test9": {
+        "cf_output": "433494437"
+    },
+    "HumanEval_40_test0": {
+        "cf_output": "False"
+    },
+    "HumanEval_40_test1": {
+        "cf_output": "False"
+    },
+    "HumanEval_40_test2": {
+        "cf_output": "True"
+    },
+    "HumanEval_40_test3": {
+        "cf_output": "False"
+    },
+    "HumanEval_40_test4": {
+        "cf_output": "False"
+    },
+    "HumanEval_40_test5": {
+        "cf_output": "True"
+    },
+    "HumanEval_40_test6": {
+        "cf_output": "False"
+    },
+    "HumanEval_40_test7": {
+        "cf_output": "False"
+    },
+    "HumanEval_40_test8": {
+        "cf_output": "False"
+    },
+    "HumanEval_41_test0": {
+        "cf_output": "4"
+    },
+    "HumanEval_41_test1": {
+        "cf_output": "9"
+    },
+    "HumanEval_41_test2": {
+        "cf_output": "16"
+    },
+    "HumanEval_41_test3": {
+        "cf_output": "64"
+    },
+    "HumanEval_41_test4": {
+        "cf_output": "100"
+    },
+    "HumanEval_42_test0": {
+        "cf_output": "[]"
+    },
+    "HumanEval_42_test1": {
+        "cf_output": "[5, 4, 3]"
+    },
+    "HumanEval_42_test2": {
+        "cf_output": "[7, 4, 7, 4, 5, 5, 11, 2, 125]"
+    },
+    "HumanEval_43_test0": {
+        "cf_output": "False"
+    },
+    "HumanEval_43_test1": {
+        "cf_output": "False"
+    },
+    "HumanEval_43_test2": {
+        "cf_output": "False"
+    },
+    "HumanEval_43_test3": {
+        "cf_output": "True"
+    },
+    "HumanEval_43_test4": {
+        "cf_output": "False"
+    },
+    "HumanEval_43_test5": {
+        "cf_output": "True"
+    },
+    "HumanEval_43_test6": {
+        "cf_output": "True"
+    },
+    "HumanEval_43_test7": {
+        "cf_output": "False"
+    },
+    "HumanEval_43_test8": {
+        "cf_output": "False"
+    },
+    "HumanEval_44_test0": {
+        "cf_output": "\"22\""
+    },
+    "HumanEval_44_test1": {
+        "cf_output": "\"100\""
+    },
+    "HumanEval_44_test2": {
+        "cf_output": "\"11101010\""
+    },
+    "HumanEval_44_test3": {
+        "cf_output": "\"10000\""
+    },
+    "HumanEval_44_test4": {
+        "cf_output": "\"1000\""
+    },
+    "HumanEval_44_test5": {
+        "cf_output": "\"111\""
+    },
+    "HumanEval_44_test6": {
+        "cf_output": "\"2\""
+    },
+    "HumanEval_44_test7": {
+        "cf_output": "\"3\""
+    },
+    "HumanEval_44_test8": {
+        "cf_output": "\"4\""
+    },
+    "HumanEval_44_test9": {
+        "cf_output": "\"5\""
+    },
+    "HumanEval_44_test10": {
+        "cf_output": "\"6\""
+    },
+    "HumanEval_44_test11": {
+        "cf_output": "\"7\""
+    },
+    "HumanEval_45_test0": {
+        "cf_output": "7.5"
+    },
+    "HumanEval_45_test1": {
+        "cf_output": "2.0"
+    },
+    "HumanEval_45_test2": {
+        "cf_output": "40.0"
+    },
+    "HumanEval_46_test0": {
+        "cf_output": "4"
+    },
+    "HumanEval_46_test1": {
+        "cf_output": "28"
+    },
+    "HumanEval_46_test2": {
+        "cf_output": "104"
+    },
+    "HumanEval_46_test3": {
+        "cf_output": "386"
+    },
+    "HumanEval_47_test0": {
+        "cf_output": "4"
+    },
+    "HumanEval_47_test1": {
+        "cf_output": "8.0"
+    },
+    "HumanEval_47_test2": {
+        "cf_output": "6"
+    },
+    "HumanEval_47_test3": {
+        "cf_output": "5.5"
+    },
+    "HumanEval_47_test4": {
+        "cf_output": "8"
+    },
+    "HumanEval_48_test0": {
+        "cf_output": "True"
+    },
+    "HumanEval_48_test1": {
+        "cf_output": "True"
+    },
+    "HumanEval_48_test2": {
+        "cf_output": "True"
+    },
+    "HumanEval_48_test3": {
+        "cf_output": "False"
+    },
+    "HumanEval_48_test4": {
+        "cf_output": "True"
+    },
+    "HumanEval_48_test5": {
+        "cf_output": "False"
+    },
+    "HumanEval_48_test6": {
+        "cf_output": "False"
+    },
+    "HumanEval_49_test0": {
+        "cf_output": "3"
+    },
+    "HumanEval_49_test1": {
+        "cf_output": "2"
+    },
+    "HumanEval_49_test2": {
+        "cf_output": "1"
+    },
+    "HumanEval_49_test3": {
+        "cf_output": "8"
+    },
+    "HumanEval_49_test4": {
+        "cf_output": "1"
+    },
+    "HumanEval_49_test5": {
+        "cf_output": "4"
+    },
+    "HumanEval_49_test6": {
+        "cf_output": "3"
+    },
+    "HumanEval_51_test0": {
+        "cf_output": "''"
+    },
+    "HumanEval_51_test1": {
+        "cf_output": "'bcdf\\nghjklm'"
+    },
+    "HumanEval_51_test2": {
+        "cf_output": "'fdcb'"
+    },
+    "HumanEval_51_test3": {
+        "cf_output": "''"
+    },
+    "HumanEval_51_test4": {
+        "cf_output": "'cB'"
+    },
+    "HumanEval_51_test5": {
+        "cf_output": "'cB'"
+    },
+    "HumanEval_51_test6": {
+        "cf_output": "'ybcd'"
+    },
+    "HumanEval_53_test0": {
+        "cf_output": "1"
+    },
+    "HumanEval_53_test1": {
+        "cf_output": "1"
+    },
+    "HumanEval_53_test2": {
+        "cf_output": "5"
+    },
+    "HumanEval_53_test3": {
+        "cf_output": "12"
+    },
+    "HumanEval_53_test4": {
+        "cf_output": "12"
+    },
+    "HumanEval_54_test0": {
+        "cf_output": "True"
+    },
+    "HumanEval_54_test1": {
+        "cf_output": "True"
+    },
+    "HumanEval_54_test2": {
+        "cf_output": "True"
+    },
+    "HumanEval_54_test3": {
+        "cf_output": "False"
+    },
+    "HumanEval_54_test4": {
+        "cf_output": "False"
+    },
+    "HumanEval_54_test5": {
+        "cf_output": "False"
+    },
+    "HumanEval_54_test6": {
+        "cf_output": "False"
+    },
+    "HumanEval_55_test0": {
+        "cf_output": "55"
+    },
+    "HumanEval_55_test1": {
+        "cf_output": "1"
+    },
+    "HumanEval_55_test2": {
+        "cf_output": "21"
+    },
+    "HumanEval_55_test3": {
+        "cf_output": "89"
+    },
+    "HumanEval_55_test4": {
+        "cf_output": "144"
+    },
+    "HumanEval_57_test0": {
+        "cf_output": "True"
+    },
+    "HumanEval_57_test1": {
+        "cf_output": "True"
+    },
+    "HumanEval_57_test2": {
+        "cf_output": "False"
+    },
+    "HumanEval_57_test3": {
+        "cf_output": "True"
+    },
+    "HumanEval_57_test4": {
+        "cf_output": "True"
+    },
+    "HumanEval_57_test5": {
+        "cf_output": "False"
+    },
+    "HumanEval_57_test6": {
+        "cf_output": "True"
+    },
+    "HumanEval_57_test7": {
+        "cf_output": "True"
+    },
+    "HumanEval_58_test0": {
+        "cf_output": "[2, 6, 654]"
+    },
+    "HumanEval_58_test1": {
+        "cf_output": "[3, 4]"
+    },
+    "HumanEval_58_test2": {
+        "cf_output": "[3, 4, 5]"
+    },
+    "HumanEval_58_test3": {
+        "cf_output": "[]"
+    },
+    "HumanEval_59_test0": {
+        "cf_output": "5"
+    },
+    "HumanEval_59_test1": {
+        "cf_output": "3"
+    },
+    "HumanEval_59_test2": {
+        "cf_output": "7"
+    },
+    "HumanEval_59_test3": {
+        "cf_output": "11"
+    },
+    "HumanEval_59_test4": {
+        "cf_output": "29"
+    },
+    "HumanEval_60_test0": {
+        "cf_output": "1"
+    },
+    "HumanEval_60_test1": {
+        "cf_output": "21"
+    },
+    "HumanEval_60_test2": {
+        "cf_output": "66"
+    },
+    "HumanEval_60_test3": {
+        "cf_output": "465"
+    },
+    "HumanEval_60_test4": {
+        "cf_output": "5050"
+    },
+    "HumanEval_62_test0": {
+        "cf_output": "[2, 5, 13, 21]"
+    },
+    "HumanEval_62_test1": {
+        "cf_output": "[3, 7]"
+    },
+    "HumanEval_62_test2": {
+        "cf_output": "[3, 3]"
+    },
+    "HumanEval_62_test3": {
+        "cf_output": "[3, 3, 1, 17]"
+    },
+    "HumanEval_62_test4": {
+        "cf_output": "[]"
+    },
+    "HumanEval_63_test0": {
+        "cf_output": "1"
+    },
+    "HumanEval_63_test1": {
+        "cf_output": "0"
+    },
+    "HumanEval_63_test2": {
+        "cf_output": "4"
+    },
+    "HumanEval_63_test3": {
+        "cf_output": "24"
+    },
+    "HumanEval_63_test4": {
+        "cf_output": "81"
+    },
+    "HumanEval_63_test5": {
+        "cf_output": "274"
+    },
+    "HumanEval_63_test6": {
+        "cf_output": "927"
+    },
+    "HumanEval_64_test0": {
+        "cf_output": "2, \"Test 1\""
+    },
+    "HumanEval_64_test1": {
+        "cf_output": "3, \"Test 2\""
+    },
+    "HumanEval_64_test2": {
+        "cf_output": "2, \"Test 3\""
+    },
+    "HumanEval_64_test3": {
+        "cf_output": "1, \"Test 4\""
+    },
+    "HumanEval_64_test4": {
+        "cf_output": "2, \"Test 5\""
+    },
+    "HumanEval_64_test5": {
+        "cf_output": "1, \"Test 6\""
+    },
+    "HumanEval_64_test6": {
+        "cf_output": "3, \"Test 7\""
+    },
+    "HumanEval_65_test0": {
+        "cf_output": "\"001\""
+    },
+    "HumanEval_65_test1": {
+        "cf_output": "\"12\""
+    },
+    "HumanEval_65_test2": {
+        "cf_output": "\"79\""
+    },
+    "HumanEval_65_test3": {
+        "cf_output": "\"21\", \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_65_test4": {
+        "cf_output": "\"11\", \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_66_test0": {
+        "cf_output": "0, \"Error\""
+    },
+    "HumanEval_66_test1": {
+        "cf_output": "131, \"Error\""
+    },
+    "HumanEval_66_test2": {
+        "cf_output": "67, \"Error\""
+    },
+    "HumanEval_66_test3": {
+        "cf_output": "69, \"Error\""
+    },
+    "HumanEval_66_test4": {
+        "cf_output": "131, \"Error\""
+    },
+    "HumanEval_66_test5": {
+        "cf_output": "153, \"Error\""
+    },
+    "HumanEval_66_test6": {
+        "cf_output": "151, \"Error\""
+    },
+    "HumanEval_66_test7": {
+        "cf_output": "327, \"Error\""
+    },
+    "HumanEval_67_test0": {
+        "cf_output": "8"
+    },
+    "HumanEval_67_test1": {
+        "cf_output": "10"
+    },
+    "HumanEval_67_test2": {
+        "cf_output": "2"
+    },
+    "HumanEval_67_test3": {
+        "cf_output": "2"
+    },
+    "HumanEval_67_test4": {
+        "cf_output": "95"
+    },
+    "HumanEval_67_test5": {
+        "cf_output": "0"
+    },
+    "HumanEval_67_test6": {
+        "cf_output": "19"
+    },
+    "HumanEval_68_test0": {
+        "cf_output": "[2, 1], \"Error\""
+    },
+    "HumanEval_68_test1": {
+        "cf_output": "[2, 1], \"Error\""
+    },
+    "HumanEval_68_test2": {
+        "cf_output": "[], \"Error\""
+    },
+    "HumanEval_68_test3": {
+        "cf_output": "[0, 1], \"Error\""
+    },
+    "HumanEval_68_test4": {
+        "cf_output": "[0, 3], \"Error\""
+    },
+    "HumanEval_68_test5": {
+        "cf_output": "[4, 1], \"Error\""
+    },
+    "HumanEval_68_test6": {
+        "cf_output": "[6, 1], \"Error\""
+    },
+    "HumanEval_68_test7": {
+        "cf_output": "[], \"Error\""
+    },
+    "HumanEval_69_test0": {
+        "cf_output": "2"
+    },
+    "HumanEval_69_test1": {
+        "cf_output": "5"
+    },
+    "HumanEval_69_test2": {
+        "cf_output": "0"
+    },
+    "HumanEval_69_test3": {
+        "cf_output": "9"
+    },
+    "HumanEval_69_test4": {
+        "cf_output": "3"
+    },
+    "HumanEval_69_test5": {
+        "cf_output": "2"
+    },
+    "HumanEval_69_test6": {
+        "cf_output": "3"
+    },
+    "HumanEval_69_test7": {
+        "cf_output": "2"
+    },
+    "HumanEval_69_test8": {
+        "cf_output": "0"
+    },
+    "HumanEval_69_test9": {
+        "cf_output": "2"
+    },
+    "HumanEval_69_test10": {
+        "cf_output": "2"
+    },
+    "HumanEval_69_test11": {
+        "cf_output": "6"
+    },
+    "HumanEval_69_test12": {
+        "cf_output": "2"
+    },
+    "HumanEval_69_test13": {
+        "cf_output": "5"
+    },
+    "HumanEval_69_test14": {
+        "cf_output": "3"
+    },
+    "HumanEval_69_test15": {
+        "cf_output": "2"
+    },
+    "HumanEval_69_test16": {
+        "cf_output": "5"
+    },
+    "HumanEval_69_test17": {
+        "cf_output": "5"
+    },
+    "HumanEval_69_test18": {
+        "cf_output": "3"
+    },
+    "HumanEval_69_test19": {
+        "cf_output": "0"
+    },
+    "HumanEval_69_test20": {
+        "cf_output": "0"
+    },
+    "HumanEval_69_test21": {
+        "cf_output": "3"
+    },
+    "HumanEval_69_test22": {
+        "cf_output": "2"
+    },
+    "HumanEval_69_test23": {
+        "cf_output": "2"
+    },
+    "HumanEval_69_test24": {
+        "cf_output": "0"
+    },
+    "HumanEval_70_test0": {
+        "cf_output": "[2, 5, 3, 4]"
+    },
+    "HumanEval_70_test1": {
+        "cf_output": "[6, 10, 7, 9, 8]"
+    },
+    "HumanEval_70_test2": {
+        "cf_output": "[2, 6, 3, 5, 4]"
+    },
+    "HumanEval_70_test3": {
+        "cf_output": "[2, 10, 6, 9, 7, 8]"
+    },
+    "HumanEval_70_test4": {
+        "cf_output": "[6, 6, 6, 6]"
+    },
+    "HumanEval_70_test5": {
+        "cf_output": "[]"
+    },
+    "HumanEval_70_test6": {
+        "cf_output": "[2, 9, 3, 8, 4, 7, 5, 6]"
+    },
+    "HumanEval_70_test7": {
+        "cf_output": "[-4, 6, -4, 6, 1, 3, 3, 3]"
+    },
+    "HumanEval_70_test8": {
+        "cf_output": "[111112]"
+    },
+    "HumanEval_71_test0": {
+        "cf_output": "6.00, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_71_test1": {
+        "cf_output": "-1"
+    },
+    "HumanEval_71_test2": {
+        "cf_output": "8.18"
+    },
+    "HumanEval_71_test3": {
+        "cf_output": "1.73"
+    },
+    "HumanEval_71_test4": {
+        "cf_output": "-1"
+    },
+    "HumanEval_71_test5": {
+        "cf_output": "16.25"
+    },
+    "HumanEval_71_test6": {
+        "cf_output": "-1"
+    },
+    "HumanEval_71_test7": {
+        "cf_output": "0.43, \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_71_test8": {
+        "cf_output": "-1"
+    },
+    "HumanEval_73_test0": {
+        "cf_output": "5"
+    },
+    "HumanEval_73_test1": {
+        "cf_output": "2"
+    },
+    "HumanEval_73_test2": {
+        "cf_output": "2"
+    },
+    "HumanEval_73_test3": {
+        "cf_output": "2"
+    },
+    "HumanEval_73_test4": {
+        "cf_output": "1"
+    },
+    "HumanEval_73_test5": {
+        "cf_output": "1"
+    },
+    "HumanEval_73_test6": {
+        "cf_output": "1"
+    },
+    "HumanEval_73_test7": {
+        "cf_output": "2"
+    },
+    "HumanEval_74_test0": {
+        "cf_output": "[]"
+    },
+    "HumanEval_74_test1": {
+        "cf_output": "['hi', 'hi']"
+    },
+    "HumanEval_74_test2": {
+        "cf_output": "['hi', 'admin']"
+    },
+    "HumanEval_74_test3": {
+        "cf_output": "['4']"
+    },
+    "HumanEval_74_test4": {
+        "cf_output": "['hI', 'Hi']"
+    },
+    "HumanEval_74_test5": {
+        "cf_output": "['hI', 'hi', 'hi']"
+    },
+    "HumanEval_74_test6": {
+        "cf_output": "['hi', 'admin']"
+    },
+    "HumanEval_74_test7": {
+        "cf_output": "[]"
+    },
+    "HumanEval_74_test8": {
+        "cf_output": "[]"
+    },
+    "HumanEval_75_test0": {
+        "cf_output": "False"
+    },
+    "HumanEval_75_test1": {
+        "cf_output": "True"
+    },
+    "HumanEval_75_test2": {
+        "cf_output": "True"
+    },
+    "HumanEval_75_test3": {
+        "cf_output": "False"
+    },
+    "HumanEval_75_test4": {
+        "cf_output": "True"
+    },
+    "HumanEval_75_test5": {
+        "cf_output": "True"
+    },
+    "HumanEval_75_test6": {
+        "cf_output": "False"
+    },
+    "HumanEval_75_test7": {
+        "cf_output": "False"
+    },
+    "HumanEval_75_test8": {
+        "cf_output": "False"
+    },
+    "HumanEval_75_test9": {
+        "cf_output": "True"
+    },
+    "HumanEval_77_test0": {
+        "cf_output": "True, \"First test error: \" + str(candidate(1"
+    },
+    "HumanEval_77_test1": {
+        "cf_output": "False, \"Second test error: \" + str(candidate(2"
+    },
+    "HumanEval_77_test2": {
+        "cf_output": "True, \"Third test error: \" + str(candidate(-1"
+    },
+    "HumanEval_77_test3": {
+        "cf_output": "True, \"Fourth test error: \" + str(candidate(64"
+    },
+    "HumanEval_77_test4": {
+        "cf_output": "False, \"Fifth test error: \" + str(candidate(180"
+    },
+    "HumanEval_77_test5": {
+        "cf_output": "True, \"Sixth test error: \" + str(candidate(1000"
+    },
+    "HumanEval_77_test6": {
+        "cf_output": "True, \"1st edge test error: \" + str(candidate(0"
+    },
+    "HumanEval_77_test7": {
+        "cf_output": "False, \"2nd edge test error: \" + str(candidate(1728"
+    },
+    "HumanEval_78_test0": {
+        "cf_output": "1, \"First test error: \" + str(candidate(\"AB\""
+    },
+    "HumanEval_78_test1": {
+        "cf_output": "2, \"Second test error: \" + str(candidate(\"1077E\""
+    },
+    "HumanEval_78_test2": {
+        "cf_output": "4, \"Third test error: \" + str(candidate(\"ABED1A33\""
+    },
+    "HumanEval_78_test3": {
+        "cf_output": "2, \"Fourth test error: \" + str(candidate(\"2020\""
+    },
+    "HumanEval_78_test4": {
+        "cf_output": "6, \"Fifth test error: \" + str(candidate(\"123456789ABCDEF0\""
+    },
+    "HumanEval_78_test5": {
+        "cf_output": "12, \"Sixth test error: \" + str(candidate(\"112233445566778899AABBCCDDEEFF00\""
+    },
+    "HumanEval_78_test6": {
+        "cf_output": "1"
+    },
+    "HumanEval_79_test0": {
+        "cf_output": "\"db0db\""
+    },
+    "HumanEval_79_test1": {
+        "cf_output": "\"db100000db\""
+    },
+    "HumanEval_79_test2": {
+        "cf_output": "\"db1100111db\""
+    },
+    "HumanEval_79_test3": {
+        "cf_output": "\"db1111db\", \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_80_test0": {
+        "cf_output": "False , \"a\""
+    },
+    "HumanEval_80_test1": {
+        "cf_output": "False , \"aa\""
+    },
+    "HumanEval_80_test2": {
+        "cf_output": "True , \"abcd\""
+    },
+    "HumanEval_80_test3": {
+        "cf_output": "False , \"aabb\""
+    },
+    "HumanEval_80_test4": {
+        "cf_output": "True , \"adb\""
+    },
+    "HumanEval_80_test5": {
+        "cf_output": "False , \"xyy\""
+    },
+    "HumanEval_80_test6": {
+        "cf_output": "True , \"iopaxpoi\""
+    },
+    "HumanEval_80_test7": {
+        "cf_output": "False , \"iopaxioi\""
+    },
+    "HumanEval_81_test0": {
+        "cf_output": "['A+', 'B', 'C-', 'C', 'A-']"
+    },
+    "HumanEval_81_test1": {
+        "cf_output": "['D+']"
+    },
+    "HumanEval_81_test2": {
+        "cf_output": "['D-']"
+    },
+    "HumanEval_81_test3": {
+        "cf_output": "['E']"
+    },
+    "HumanEval_81_test4": {
+        "cf_output": "['D', 'D-', 'C-', 'B', 'B+']"
+    },
+    "HumanEval_81_test5": {
+        "cf_output": "['E', 'D-']"
+    },
+    "HumanEval_82_test0": {
+        "cf_output": "True"
+    },
+    "HumanEval_82_test1": {
+        "cf_output": "True"
+    },
+    "HumanEval_82_test2": {
+        "cf_output": "True"
+    },
+    "HumanEval_82_test3": {
+        "cf_output": "False"
+    },
+    "HumanEval_82_test4": {
+        "cf_output": "True"
+    },
+    "HumanEval_82_test5": {
+        "cf_output": "True"
+    },
+    "HumanEval_82_test6": {
+        "cf_output": "True"
+    },
+    "HumanEval_82_test7": {
+        "cf_output": "True"
+    },
+    "HumanEval_82_test8": {
+        "cf_output": "False"
+    },
+    "HumanEval_82_test9": {
+        "cf_output": "True"
+    },
+    "HumanEval_82_test10": {
+        "cf_output": "True"
+    },
+    "HumanEval_82_test11": {
+        "cf_output": "False"
+    },
+    "HumanEval_82_test12": {
+        "cf_output": "False"
+    },
+    "HumanEval_82_test13": {
+        "cf_output": "True"
+    },
+    "HumanEval_82_test14": {
+        "cf_output": "False"
+    },
+    "HumanEval_82_test15": {
+        "cf_output": "False"
+    },
+    "HumanEval_83_test0": {
+        "cf_output": "1"
+    },
+    "HumanEval_83_test1": {
+        "cf_output": "18"
+    },
+    "HumanEval_83_test2": {
+        "cf_output": "180"
+    },
+    "HumanEval_83_test3": {
+        "cf_output": "1800"
+    },
+    "HumanEval_83_test4": {
+        "cf_output": "18000"
+    },
+    "HumanEval_84_test0": {
+        "cf_output": "\"1\", \"Error\""
+    },
+    "HumanEval_84_test1": {
+        "cf_output": "\"110\", \"Error\""
+    },
+    "HumanEval_84_test2": {
+        "cf_output": "\"1100\", \"Error\""
+    },
+    "HumanEval_84_test3": {
+        "cf_output": "\"1001\", \"Error\""
+    },
+    "HumanEval_84_test4": {
+        "cf_output": "\"10010\", \"Error\""
+    },
+    "HumanEval_85_test0": {
+        "cf_output": "89"
+    },
+    "HumanEval_85_test1": {
+        "cf_output": "123"
+    },
+    "HumanEval_85_test2": {
+        "cf_output": "1"
+    },
+    "HumanEval_85_test3": {
+        "cf_output": "13"
+    },
+    "HumanEval_86_test0": {
+        "cf_output": "'Hi'"
+    },
+    "HumanEval_86_test1": {
+        "cf_output": "'ehllo'"
+    },
+    "HumanEval_86_test2": {
+        "cf_output": "'bemnru'"
+    },
+    "HumanEval_86_test3": {
+        "cf_output": "'abcd'"
+    },
+    "HumanEval_86_test4": {
+        "cf_output": "'Hello !!!Wdlor'"
+    },
+    "HumanEval_86_test5": {
+        "cf_output": "''"
+    },
+    "HumanEval_86_test6": {
+        "cf_output": "'.Hi My aemn is Meirst .Rboot How aer ?ouy'"
+    },
+    "HumanEval_87_test0": {
+        "cf_output": "[]"
+    },
+    "HumanEval_87_test1": {
+        "cf_output": "[]"
+    },
+    "HumanEval_87_test2": {
+        "cf_output": "[(2, 2"
+    },
+    "HumanEval_88_test0": {
+        "cf_output": "[], \"Error\""
+    },
+    "HumanEval_88_test1": {
+        "cf_output": "[5], \"Error\""
+    },
+    "HumanEval_88_test2": {
+        "cf_output": "[0, 1, 2, 3, 4, 5], \"Error\""
+    },
+    "HumanEval_88_test3": {
+        "cf_output": "[6, 5, 4, 3, 2, 1, 0], \"Error\""
+    },
+    "HumanEval_88_test4": {
+        "cf_output": "[1, 2], \"Error\""
+    },
+    "HumanEval_88_test5": {
+        "cf_output": "[0, 11, 15, 32, 42, 87], \"Error\""
+    },
+    "HumanEval_88_test6": {
+        "cf_output": "[23, 21, 14, 11], \"Error\""
+    },
+    "HumanEval_89_test0": {
+        "cf_output": "'lm', \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_89_test1": {
+        "cf_output": "'ewhjklnop', \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_89_test2": {
+        "cf_output": "'kj', \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_89_test3": {
+        "cf_output": "'ix', \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_90_test0": {
+        "cf_output": "3"
+    },
+    "HumanEval_90_test1": {
+        "cf_output": "3"
+    },
+    "HumanEval_90_test2": {
+        "cf_output": "None"
+    },
+    "HumanEval_90_test3": {
+        "cf_output": "None"
+    },
+    "HumanEval_90_test4": {
+        "cf_output": "2"
+    },
+    "HumanEval_90_test5": {
+        "cf_output": "None"
+    },
+    "HumanEval_90_test6": {
+        "cf_output": "-34"
+    },
+    "HumanEval_91_test0": {
+        "cf_output": "0, \"Test 1\""
+    },
+    "HumanEval_91_test1": {
+        "cf_output": "0, \"Test 2\""
+    },
+    "HumanEval_91_test2": {
+        "cf_output": "1, \"Test 3\""
+    },
+    "HumanEval_91_test3": {
+        "cf_output": "0, \"Test 4\""
+    },
+    "HumanEval_91_test4": {
+        "cf_output": "2, \"Test 5\""
+    },
+    "HumanEval_91_test5": {
+        "cf_output": "0, \"Test 6\""
+    },
+    "HumanEval_93_test0": {
+        "cf_output": "'tgst', \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_93_test1": {
+        "cf_output": "'mWDCSKR', \"This prints if this assert fails 2 (good for debugging!"
+    },
+    "HumanEval_93_test2": {
+        "cf_output": "'ygs', \"This prints if this assert fails 3 (good for debugging!"
+    },
+    "HumanEval_93_test3": {
+        "cf_output": "'tHKS KS C MGSSCGG', \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_93_test4": {
+        "cf_output": "'k dQnT kNqW wHcT Tq wRkTg', \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_94_test0": {
+        "cf_output": "10, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_94_test1": {
+        "cf_output": "25, \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_94_test2": {
+        "cf_output": "13, \"This prints if this assert fails 3 (also good for debugging!"
+    },
+    "HumanEval_94_test3": {
+        "cf_output": "11, \"This prints if this assert fails 4 (also good for debugging!"
+    },
+    "HumanEval_94_test4": {
+        "cf_output": "3, \"This prints if this assert fails 5 (also good for debugging!"
+    },
+    "HumanEval_94_test5": {
+        "cf_output": "7, \"This prints if this assert fails 6 (also good for debugging!"
+    },
+    "HumanEval_94_test6": {
+        "cf_output": "19, \"This prints if this assert fails 7 (also good for debugging!"
+    },
+    "HumanEval_94_test7": {
+        "cf_output": "19, \"This prints if this assert fails 8 (also good for debugging!"
+    },
+    "HumanEval_94_test8": {
+        "cf_output": "10, \"This prints if this assert fails 9 (also good for debugging!"
+    },
+    "HumanEval_95_test0": {
+        "cf_output": "True, \"First test error: \" + str(candidate({\"p\":\"pineapple\", \"b\":\"banana\"}"
+    },
+    "HumanEval_95_test1": {
+        "cf_output": "False, \"Second test error: \" + str(candidate({\"p\":\"pineapple\", \"A\":\"banana\", \"B\":\"banana\"}"
+    },
+    "HumanEval_95_test2": {
+        "cf_output": "False, \"Third test error: \" + str(candidate({\"p\":\"pineapple\", 5:\"banana\", \"a\":\"apple\"}"
+    },
+    "HumanEval_95_test3": {
+        "cf_output": "False, \"Fourth test error: \" + str(candidate({\"Name\":\"John\", \"Age\":\"36\", \"City\":\"Houston\"}"
+    },
+    "HumanEval_95_test4": {
+        "cf_output": "True, \"Fifth test error: \" + str(candidate({\"STATE\":\"NC\", \"ZIP\":\"12345\" }"
+    },
+    "HumanEval_95_test5": {
+        "cf_output": "True, \"Fourth test error: \" + str(candidate({\"fruit\":\"Orange\", \"taste\":\"Sweet\" }"
+    },
+    "HumanEval_95_test6": {
+        "cf_output": "False, \"1st edge test error: \" + str(candidate({}"
+    },
+    "HumanEval_96_test0": {
+        "cf_output": "[3, 4]"
+    },
+    "HumanEval_96_test1": {
+        "cf_output": "[3, 4, 6]"
+    },
+    "HumanEval_96_test2": {
+        "cf_output": "[3, 4, 6]"
+    },
+    "HumanEval_96_test3": {
+        "cf_output": "[3, 4, 6, 8]"
+    },
+    "HumanEval_96_test4": {
+        "cf_output": "[]"
+    },
+    "HumanEval_96_test5": {
+        "cf_output": "[3, 4, 6, 8, 12, 14, 18, 20]"
+    },
+    "HumanEval_96_test6": {
+        "cf_output": "[]"
+    },
+    "HumanEval_96_test7": {
+        "cf_output": "[3, 4, 6, 8, 12, 14, 18]"
+    },
+    "HumanEval_96_test8": {
+        "cf_output": "[3, 4, 6, 8, 12, 14, 18, 20, 24, 30, 32, 38, 42, 44]"
+    },
+    "HumanEval_96_test9": {
+        "cf_output": "[3, 4, 6, 8, 12, 14, 18, 20, 24, 30, 32, 38, 42, 44, 48, 54, 60, 62, 68, 72, 74, 80, 84, 90, 98]"
+    },
+    "HumanEval_97_test0": {
+        "cf_output": "16, \"First test error: \" + str(candidate(148, 412"
+    },
+    "HumanEval_97_test1": {
+        "cf_output": "72, \"Second test error: \" + str(candidate(19, 28"
+    },
+    "HumanEval_97_test2": {
+        "cf_output": "0, \"Third test error: \" + str(candidate(2020, 1851"
+    },
+    "HumanEval_97_test3": {
+        "cf_output": "20, \"Fourth test error: \" + str(candidate(14,-15"
+    },
+    "HumanEval_97_test4": {
+        "cf_output": "42, \"Fifth test error: \" + str(candidate(76, 67"
+    },
+    "HumanEval_97_test5": {
+        "cf_output": "49, \"Sixth test error: \" + str(candidate(17, 27"
+    },
+    "HumanEval_97_test6": {
+        "cf_output": "0, \"1st edge test error: \" + str(candidate(0, 1"
+    },
+    "HumanEval_97_test7": {
+        "cf_output": "0, \"2nd edge test error: \" + str(candidate(0, 0"
+    },
+    "HumanEval_98_test0": {
+        "cf_output": "0"
+    },
+    "HumanEval_98_test1": {
+        "cf_output": "0"
+    },
+    "HumanEval_98_test2": {
+        "cf_output": "0"
+    },
+    "HumanEval_98_test3": {
+        "cf_output": "2"
+    },
+    "HumanEval_99_test0": {
+        "cf_output": "10, \"Test 1\""
+    },
+    "HumanEval_99_test1": {
+        "cf_output": "15, \"Test 2\""
+    },
+    "HumanEval_99_test2": {
+        "cf_output": "-16, \"Test 3\""
+    },
+    "HumanEval_99_test3": {
+        "cf_output": "15, \"Test 3\""
+    },
+    "HumanEval_99_test4": {
+        "cf_output": "0, \"Test 0\""
+    },
+    "HumanEval_100_test0": {
+        "cf_output": "[3, 5, 7], \"Test 3\""
+    },
+    "HumanEval_100_test1": {
+        "cf_output": "[4,6,8,10], \"Test 4\""
+    },
+    "HumanEval_100_test2": {
+        "cf_output": "[6, 8, 10, 12, 14]"
+    },
+    "HumanEval_100_test3": {
+        "cf_output": "[7, 9, 11, 13, 15, 17]"
+    },
+    "HumanEval_100_test4": {
+        "cf_output": "[9, 11, 13, 15, 17, 19, 21, 23]"
+    },
+    "HumanEval_101_test0": {
+        "cf_output": "['Hi', 'my', 'name', 'is', 'John']"
+    },
+    "HumanEval_101_test1": {
+        "cf_output": "['One', 'two', 'three', 'four', 'five', 'six']"
+    },
+    "HumanEval_101_test2": {
+        "cf_output": "['Hi', 'my', 'name']"
+    },
+    "HumanEval_101_test3": {
+        "cf_output": "['One', 'two', 'three', 'four', 'five', 'six']"
+    },
+    "HumanEval_101_test4": {
+        "cf_output": "[]"
+    },
+    "HumanEval_101_test5": {
+        "cf_output": "['ahmed', 'gamal']"
+    },
+    "HumanEval_102_test0": {
+        "cf_output": "14"
+    },
+    "HumanEval_102_test1": {
+        "cf_output": "-1"
+    },
+    "HumanEval_102_test2": {
+        "cf_output": "12354"
+    },
+    "HumanEval_102_test3": {
+        "cf_output": "-1"
+    },
+    "HumanEval_102_test4": {
+        "cf_output": "28"
+    },
+    "HumanEval_102_test5": {
+        "cf_output": "-1"
+    },
+    "HumanEval_102_test6": {
+        "cf_output": "-1"
+    },
+    "HumanEval_102_test7": {
+        "cf_output": "546"
+    },
+    "HumanEval_103_test0": {
+        "cf_output": "\"0b11\""
+    },
+    "HumanEval_103_test1": {
+        "cf_output": "\"0b1010\""
+    },
+    "HumanEval_103_test2": {
+        "cf_output": "\"0b1111001010\""
+    },
+    "HumanEval_103_test3": {
+        "cf_output": "\"0b1111100100\""
+    },
+    "HumanEval_103_test4": {
+        "cf_output": "\"0b1011000010\""
+    },
+    "HumanEval_103_test5": {
+        "cf_output": "\"0b101101110\""
+    },
+    "HumanEval_103_test6": {
+        "cf_output": "\"0b110101101\""
+    },
+    "HumanEval_103_test7": {
+        "cf_output": "\"0b1001110010\""
+    },
+    "HumanEval_103_test8": {
+        "cf_output": "\"0b11010111\""
+    },
+    "HumanEval_103_test9": {
+        "cf_output": "-1"
+    },
+    "HumanEval_103_test10": {
+        "cf_output": "-1"
+    },
+    "HumanEval_103_test11": {
+        "cf_output": "\"0b101\""
+    },
+    "HumanEval_104_test0": {
+        "cf_output": "[2, 16, 34]"
+    },
+    "HumanEval_104_test1": {
+        "cf_output": "[]"
+    },
+    "HumanEval_104_test2": {
+        "cf_output": "[112, 152]"
+    },
+    "HumanEval_104_test3": {
+        "cf_output": "[32, 136]"
+    },
+    "HumanEval_105_test0": {
+        "cf_output": "[\"Eight\", \"Five\", \"Four\", \"Three\", \"Two\", \"Two\", \"One\", \"One\"], \"Error\""
+    },
+    "HumanEval_105_test1": {
+        "cf_output": "[], \"Error\""
+    },
+    "HumanEval_105_test2": {
+        "cf_output": "['One'], \"Error\""
+    },
+    "HumanEval_105_test3": {
+        "cf_output": "['Three', 'Two', 'One']"
+    },
+    "HumanEval_105_test4": {
+        "cf_output": "['Nine', 'Eight', 'Four']"
+    },
+    "HumanEval_106_test0": {
+        "cf_output": "[2, 3, 7, 25, 16]"
+    },
+    "HumanEval_106_test1": {
+        "cf_output": "[2, 3, 7, 25, 16, 721, 29]"
+    },
+    "HumanEval_106_test2": {
+        "cf_output": "[2]"
+    },
+    "HumanEval_106_test3": {
+        "cf_output": "[2, 3, 7]"
+    },
+    "HumanEval_107_test0": {
+        "cf_output": "(8, 13"
+    },
+    "HumanEval_107_test1": {
+        "cf_output": "(4, 6"
+    },
+    "HumanEval_107_test2": {
+        "cf_output": "(1, 2"
+    },
+    "HumanEval_107_test3": {
+        "cf_output": "(6, 8"
+    },
+    "HumanEval_107_test4": {
+        "cf_output": "(5, 6"
+    },
+    "HumanEval_107_test5": {
+        "cf_output": "(4, 6"
+    },
+    "HumanEval_107_test6": {
+        "cf_output": "(4, 5"
+    },
+    "HumanEval_107_test7": {
+        "cf_output": "(0, 1"
+    },
+    "HumanEval_108_test0": {
+        "cf_output": "1"
+    },
+    "HumanEval_108_test1": {
+        "cf_output": "1"
+    },
+    "HumanEval_108_test2": {
+        "cf_output": "7"
+    },
+    "HumanEval_108_test3": {
+        "cf_output": "6"
+    },
+    "HumanEval_108_test4": {
+        "cf_output": "5"
+    },
+    "HumanEval_108_test5": {
+        "cf_output": "6"
+    },
+    "HumanEval_108_test6": {
+        "cf_output": "2"
+    },
+    "HumanEval_108_test7": {
+        "cf_output": "2"
+    },
+    "HumanEval_110_test0": {
+        "cf_output": "\"YES\""
+    },
+    "HumanEval_110_test1": {
+        "cf_output": "\"NO\""
+    },
+    "HumanEval_110_test2": {
+        "cf_output": "\"YES\""
+    },
+    "HumanEval_110_test3": {
+        "cf_output": "\"YES\""
+    },
+    "HumanEval_110_test4": {
+        "cf_output": "\"NO\""
+    },
+    "HumanEval_110_test5": {
+        "cf_output": "\"NO\""
+    },
+    "HumanEval_110_test6": {
+        "cf_output": "\"YES\""
+    },
+    "HumanEval_111_test0": {
+        "cf_output": "{'a':2,'b': 2}, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_111_test1": {
+        "cf_output": "{'a': 2, 'b': 2}, \"This prints if this assert fails 2 (good for debugging!"
+    },
+    "HumanEval_111_test2": {
+        "cf_output": "{'a': 1, 'b': 1, 'c': 1, 'd': 1, 'g': 1}, \"This prints if this assert fails 3 (good for debugging!"
+    },
+    "HumanEval_111_test3": {
+        "cf_output": "{'r': 1,'t': 1,'g': 1}, \"This prints if this assert fails 4 (good for debugging!"
+    },
+    "HumanEval_111_test4": {
+        "cf_output": "{'b': 4}, \"This prints if this assert fails 5 (good for debugging!"
+    },
+    "HumanEval_111_test5": {
+        "cf_output": "{'r': 1,'t': 1,'g': 1}, \"This prints if this assert fails 6 (good for debugging!"
+    },
+    "HumanEval_111_test6": {
+        "cf_output": "{}, \"This prints if this assert fails 7 (also good for debugging!"
+    },
+    "HumanEval_111_test7": {
+        "cf_output": "{'a': 1}, \"This prints if this assert fails 8 (also good for debugging!"
+    },
+    "HumanEval_112_test0": {
+        "cf_output": "('bcd',False"
+    },
+    "HumanEval_112_test1": {
+        "cf_output": "('acdef',False"
+    },
+    "HumanEval_112_test2": {
+        "cf_output": "('cdedc',True"
+    },
+    "HumanEval_112_test3": {
+        "cf_output": "('dik',False"
+    },
+    "HumanEval_112_test4": {
+        "cf_output": "('',True"
+    },
+    "HumanEval_112_test5": {
+        "cf_output": "('abcdedcba',True"
+    },
+    "HumanEval_112_test6": {
+        "cf_output": "('abcdedcba',True"
+    },
+    "HumanEval_112_test7": {
+        "cf_output": "('abba',True"
+    },
+    "HumanEval_112_test8": {
+        "cf_output": "(\"\", True"
+    },
+    "HumanEval_113_test0": {
+        "cf_output": "[\"the number of odd elements 4n the str4ng 4 of the 4nput.\"], \"Test 1\""
+    },
+    "HumanEval_113_test1": {
+        "cf_output": "[\"the number of odd elements 1n the str1ng 1 of the 1nput.\", \"the number of odd elements 8n the str8ng 8 of the 8nput.\"], \"Test 2\""
+    },
+    "HumanEval_113_test2": {
+        "cf_output": "["
+    },
+    "HumanEval_114_test0": {
+        "cf_output": "1, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_114_test1": {
+        "cf_output": "-5"
+    },
+    "HumanEval_114_test2": {
+        "cf_output": "-13"
+    },
+    "HumanEval_114_test3": {
+        "cf_output": "-9999999999999998"
+    },
+    "HumanEval_114_test4": {
+        "cf_output": "1"
+    },
+    "HumanEval_114_test5": {
+        "cf_output": "-5"
+    },
+    "HumanEval_114_test6": {
+        "cf_output": "-5"
+    },
+    "HumanEval_114_test7": {
+        "cf_output": "4"
+    },
+    "HumanEval_114_test8": {
+        "cf_output": "-32"
+    },
+    "HumanEval_114_test9": {
+        "cf_output": "-10, \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_114_test10": {
+        "cf_output": "8"
+    },
+    "HumanEval_114_test11": {
+        "cf_output": "0"
+    },
+    "HumanEval_115_test0": {
+        "cf_output": "6, \"Error\""
+    },
+    "HumanEval_115_test1": {
+        "cf_output": "5, \"Error\""
+    },
+    "HumanEval_115_test2": {
+        "cf_output": "0, \"Error\""
+    },
+    "HumanEval_115_test3": {
+        "cf_output": "4, \"Error\""
+    },
+    "HumanEval_115_test4": {
+        "cf_output": "2, \"Error\""
+    },
+    "HumanEval_116_test0": {
+        "cf_output": "[2, 3, 5, 4, 6]"
+    },
+    "HumanEval_116_test1": {
+        "cf_output": "[-3, -1, -5, -4, -2]"
+    },
+    "HumanEval_116_test2": {
+        "cf_output": "[1, 2, 3, 5, 4]"
+    },
+    "HumanEval_116_test3": {
+        "cf_output": "[]"
+    },
+    "HumanEval_116_test4": {
+        "cf_output": "[3, 3, 5, 5, 4, 4, 6, 6, 6, 8, 78]"
+    },
+    "HumanEval_116_test5": {
+        "cf_output": "[33, 4, 6, 7, 13, 45]"
+    },
+    "HumanEval_116_test6": {
+        "cf_output": "[3, 5, 9, 17, 33]"
+    },
+    "HumanEval_116_test7": {
+        "cf_output": "[3, 5, 9, 17, 33]"
+    },
+    "HumanEval_117_test0": {
+        "cf_output": "[\"little\"], \"First test error: \" + str(candidate(\"Mary had a little lamb\", 4"
+    },
+    "HumanEval_117_test1": {
+        "cf_output": "[\"Mary\", \"lamb\"], \"Second test error: \" + str(candidate(\"Mary had a little lamb\", 3"
+    },
+    "HumanEval_117_test2": {
+        "cf_output": "[], \"Third test error: \" + str(candidate(\"simple white space\", 2"
+    },
+    "HumanEval_117_test3": {
+        "cf_output": "[\"world\"], \"Fourth test error: \" + str(candidate(\"Hello world\", 4"
+    },
+    "HumanEval_117_test4": {
+        "cf_output": "[\"Uncle\"], \"Fifth test error: \" + str(candidate(\"Uncle sam\", 3"
+    },
+    "HumanEval_117_test5": {
+        "cf_output": "[], \"1st edge test error: \" + str(candidate(\"\", 4"
+    },
+    "HumanEval_117_test6": {
+        "cf_output": "[\"b\", \"c\", \"d\", \"f\"], \"2nd edge test error: \" + str(candidate(\"a b c d e f\", 1"
+    },
+    "HumanEval_118_test0": {
+        "cf_output": "\"u\""
+    },
+    "HumanEval_118_test1": {
+        "cf_output": "\"u\""
+    },
+    "HumanEval_118_test2": {
+        "cf_output": "\"\""
+    },
+    "HumanEval_118_test3": {
+        "cf_output": "\"\""
+    },
+    "HumanEval_118_test4": {
+        "cf_output": "\"\""
+    },
+    "HumanEval_118_test5": {
+        "cf_output": "\"a\""
+    },
+    "HumanEval_118_test6": {
+        "cf_output": "\"o\""
+    },
+    "HumanEval_118_test7": {
+        "cf_output": "\"\""
+    },
+    "HumanEval_118_test8": {
+        "cf_output": "\"\""
+    },
+    "HumanEval_118_test9": {
+        "cf_output": "\"\""
+    },
+    "HumanEval_118_test10": {
+        "cf_output": "\"i\""
+    },
+    "HumanEval_118_test11": {
+        "cf_output": "\"\""
+    },
+    "HumanEval_118_test12": {
+        "cf_output": "\"o\""
+    },
+    "HumanEval_120_test0": {
+        "cf_output": "[-3, -2, 6]"
+    },
+    "HumanEval_120_test1": {
+        "cf_output": "[5, 5]"
+    },
+    "HumanEval_120_test2": {
+        "cf_output": "[3]"
+    },
+    "HumanEval_120_test3": {
+        "cf_output": "[3, 21, 124]"
+    },
+    "HumanEval_120_test4": {
+        "cf_output": "[1, 2, 3, 21]"
+    },
+    "HumanEval_120_test5": {
+        "cf_output": "[-12, -7, 1, 1, 4, 6, 16]"
+    },
+    "HumanEval_120_test6": {
+        "cf_output": "[4, 6]"
+    },
+    "HumanEval_120_test7": {
+        "cf_output": "[6]"
+    },
+    "HumanEval_120_test8": {
+        "cf_output": "[-3, 5]"
+    },
+    "HumanEval_120_test9": {
+        "cf_output": "[-9, 11]"
+    },
+    "HumanEval_120_test10": {
+        "cf_output": "[]"
+    },
+    "HumanEval_121_test0": {
+        "cf_output": "10"
+    },
+    "HumanEval_121_test1": {
+        "cf_output": "1"
+    },
+    "HumanEval_121_test2": {
+        "cf_output": "6"
+    },
+    "HumanEval_121_test3": {
+        "cf_output": "1"
+    },
+    "HumanEval_121_test4": {
+        "cf_output": "24"
+    },
+    "HumanEval_121_test5": {
+        "cf_output": "4"
+    },
+    "HumanEval_122_test0": {
+        "cf_output": "-3"
+    },
+    "HumanEval_122_test1": {
+        "cf_output": "1"
+    },
+    "HumanEval_122_test2": {
+        "cf_output": "126"
+    },
+    "HumanEval_122_test3": {
+        "cf_output": "24, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_122_test4": {
+        "cf_output": "1, \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_123_test0": {
+        "cf_output": "[2, 6, 8, 12, 14, 18]"
+    },
+    "HumanEval_123_test1": {
+        "cf_output": "[2, 6]"
+    },
+    "HumanEval_123_test2": {
+        "cf_output": "[1, 3, 5], \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_123_test3": {
+        "cf_output": "[1], \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_124_test0": {
+        "cf_output": "True"
+    },
+    "HumanEval_124_test1": {
+        "cf_output": "False"
+    },
+    "HumanEval_124_test2": {
+        "cf_output": "False"
+    },
+    "HumanEval_124_test3": {
+        "cf_output": "True"
+    },
+    "HumanEval_124_test4": {
+        "cf_output": "True"
+    },
+    "HumanEval_124_test5": {
+        "cf_output": "False"
+    },
+    "HumanEval_124_test6": {
+        "cf_output": "False"
+    },
+    "HumanEval_124_test7": {
+        "cf_output": "False"
+    },
+    "HumanEval_124_test8": {
+        "cf_output": "True"
+    },
+    "HumanEval_124_test9": {
+        "cf_output": "False"
+    },
+    "HumanEval_124_test10": {
+        "cf_output": "True"
+    },
+    "HumanEval_124_test11": {
+        "cf_output": "False"
+    },
+    "HumanEval_124_test12": {
+        "cf_output": "False"
+    },
+    "HumanEval_124_test13": {
+        "cf_output": "False"
+    },
+    "HumanEval_124_test14": {
+        "cf_output": "False"
+    },
+    "HumanEval_124_test15": {
+        "cf_output": "False"
+    },
+    "HumanEval_125_test0": {
+        "cf_output": "['Hello', 'world!']"
+    },
+    "HumanEval_125_test1": {
+        "cf_output": "['Hello', 'world!']"
+    },
+    "HumanEval_125_test2": {
+        "cf_output": "['Hello', 'world,!']"
+    },
+    "HumanEval_125_test3": {
+        "cf_output": "['Hello,Hello,world', '!']"
+    },
+    "HumanEval_125_test4": {
+        "cf_output": "3"
+    },
+    "HumanEval_125_test5": {
+        "cf_output": "2"
+    },
+    "HumanEval_125_test6": {
+        "cf_output": "1"
+    },
+    "HumanEval_125_test7": {
+        "cf_output": "0"
+    },
+    "HumanEval_126_test0": {
+        "cf_output": "True"
+    },
+    "HumanEval_126_test1": {
+        "cf_output": "True"
+    },
+    "HumanEval_126_test2": {
+        "cf_output": "False"
+    },
+    "HumanEval_126_test3": {
+        "cf_output": "True"
+    },
+    "HumanEval_126_test4": {
+        "cf_output": "True"
+    },
+    "HumanEval_126_test5": {
+        "cf_output": "False, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_126_test6": {
+        "cf_output": "True, \"This prints if this assert fails 2 (good for debugging!"
+    },
+    "HumanEval_126_test7": {
+        "cf_output": "True, \"This prints if this assert fails 3 (good for debugging!"
+    },
+    "HumanEval_126_test8": {
+        "cf_output": "False, \"This prints if this assert fails 4 (good for debugging!"
+    },
+    "HumanEval_126_test9": {
+        "cf_output": "False, \"This prints if this assert fails 5 (good for debugging!"
+    },
+    "HumanEval_126_test10": {
+        "cf_output": "False, \"This prints if this assert fails 6 (good for debugging!"
+    },
+    "HumanEval_126_test11": {
+        "cf_output": "True, \"This prints if this assert fails 7 (good for debugging!"
+    },
+    "HumanEval_126_test12": {
+        "cf_output": "True, \"This prints if this assert fails 8 (good for debugging!"
+    },
+    "HumanEval_128_test0": {
+        "cf_output": "-8"
+    },
+    "HumanEval_128_test1": {
+        "cf_output": "1"
+    },
+    "HumanEval_128_test2": {
+        "cf_output": "-9"
+    },
+    "HumanEval_128_test3": {
+        "cf_output": "None"
+    },
+    "HumanEval_128_test4": {
+        "cf_output": "21"
+    },
+    "HumanEval_128_test5": {
+        "cf_output": "5"
+    },
+    "HumanEval_128_test6": {
+        "cf_output": "-3"
+    },
+    "HumanEval_128_test7": {
+        "cf_output": "1"
+    },
+    "HumanEval_129_test0": {
+        "cf_output": "[2, 3, 2]"
+    },
+    "HumanEval_129_test1": {
+        "cf_output": "[2]"
+    },
+    "HumanEval_129_test2": {
+        "cf_output": "[2, 3, 2, 3]"
+    },
+    "HumanEval_129_test3": {
+        "cf_output": "[2, 11, 2, 11, 2, 11, 2]"
+    },
+    "HumanEval_129_test4": {
+        "cf_output": "[2, 8, 2, 8, 2]"
+    },
+    "HumanEval_129_test5": {
+        "cf_output": "[2, 7, 2, 7, 2, 7, 2, 7, 2]"
+    },
+    "HumanEval_129_test6": {
+        "cf_output": "[2, 7, 2, 7, 2, 7, 2, 7, 2, 7, 2, 7]"
+    },
+    "HumanEval_129_test7": {
+        "cf_output": "[2, 4, 2, 4, 2, 4, 2, 4]"
+    },
+    "HumanEval_129_test8": {
+        "cf_output": "[2, 6, 2, 6, 2, 6, 2, 6]"
+    },
+    "HumanEval_129_test9": {
+        "cf_output": "[2, 3, 2, 3, 2, 3, 2, 3, 2, 3]"
+    },
+    "HumanEval_129_test10": {
+        "cf_output": "[2, 4, 2, 4, 2, 4, 2, 4, 2, 4]"
+    },
+    "HumanEval_130_test0": {
+        "cf_output": "[2, 4, 2.0, 8.0]"
+    },
+    "HumanEval_130_test1": {
+        "cf_output": "[2, 4, 2.0, 8.0, 3.0]"
+    },
+    "HumanEval_130_test2": {
+        "cf_output": "[2, 4, 2.0, 8.0, 3.0, 15.0]"
+    },
+    "HumanEval_130_test3": {
+        "cf_output": "[2, 4, 2.0, 8.0, 3.0, 15.0, 4.0]"
+    },
+    "HumanEval_130_test4": {
+        "cf_output": "[2, 4, 2.0, 8.0, 3.0, 15.0, 4.0, 24.0]"
+    },
+    "HumanEval_130_test5": {
+        "cf_output": "[2, 4, 2.0, 8.0, 3.0, 15.0, 4.0, 24.0, 5.0]"
+    },
+    "HumanEval_130_test6": {
+        "cf_output": "[2, 4, 2.0, 8.0, 3.0, 15.0, 4.0, 24.0, 5.0, 35.0]"
+    },
+    "HumanEval_130_test7": {
+        "cf_output": "[2, 4, 2.0, 8.0, 3.0, 15.0, 4.0, 24.0, 5.0, 35.0, 6.0, 48.0, 7.0, 63.0, 8.0, 80.0, 9.0, 99.0, 10.0, 120.0, 11.0]"
+    },
+    "HumanEval_130_test8": {
+        "cf_output": "[2]"
+    },
+    "HumanEval_130_test9": {
+        "cf_output": "[2, 4]"
+    },
+    "HumanEval_131_test0": {
+        "cf_output": "5"
+    },
+    "HumanEval_131_test1": {
+        "cf_output": "5"
+    },
+    "HumanEval_131_test2": {
+        "cf_output": "1"
+    },
+    "HumanEval_131_test3": {
+        "cf_output": "5"
+    },
+    "HumanEval_131_test4": {
+        "cf_output": "315"
+    },
+    "HumanEval_131_test5": {
+        "cf_output": "2625"
+    },
+    "HumanEval_131_test6": {
+        "cf_output": "0"
+    },
+    "HumanEval_132_test0": {
+        "cf_output": "True, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_132_test1": {
+        "cf_output": "False"
+    },
+    "HumanEval_132_test2": {
+        "cf_output": "False"
+    },
+    "HumanEval_132_test3": {
+        "cf_output": "True"
+    },
+    "HumanEval_132_test4": {
+        "cf_output": "False"
+    },
+    "HumanEval_132_test5": {
+        "cf_output": "True"
+    },
+    "HumanEval_132_test6": {
+        "cf_output": "False"
+    },
+    "HumanEval_132_test7": {
+        "cf_output": "False"
+    },
+    "HumanEval_132_test8": {
+        "cf_output": "True"
+    },
+    "HumanEval_132_test9": {
+        "cf_output": "True"
+    },
+    "HumanEval_132_test10": {
+        "cf_output": "False, \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_132_test11": {
+        "cf_output": "False"
+    },
+    "HumanEval_132_test12": {
+        "cf_output": "False"
+    },
+    "HumanEval_134_test0": {
+        "cf_output": "False"
+    },
+    "HumanEval_134_test1": {
+        "cf_output": "True"
+    },
+    "HumanEval_134_test2": {
+        "cf_output": "False"
+    },
+    "HumanEval_134_test3": {
+        "cf_output": "True"
+    },
+    "HumanEval_134_test4": {
+        "cf_output": "False"
+    },
+    "HumanEval_134_test5": {
+        "cf_output": "False"
+    },
+    "HumanEval_134_test6": {
+        "cf_output": "False"
+    },
+    "HumanEval_134_test7": {
+        "cf_output": "False"
+    },
+    "HumanEval_134_test8": {
+        "cf_output": "False"
+    },
+    "HumanEval_134_test9": {
+        "cf_output": "False"
+    },
+    "HumanEval_136_test0": {
+        "cf_output": "(None, 1"
+    },
+    "HumanEval_136_test1": {
+        "cf_output": "(None, 1"
+    },
+    "HumanEval_136_test2": {
+        "cf_output": "(-2, 1"
+    },
+    "HumanEval_136_test3": {
+        "cf_output": "(-7, 2"
+    },
+    "HumanEval_136_test4": {
+        "cf_output": "(-9, 2"
+    },
+    "HumanEval_136_test5": {
+        "cf_output": "(None, None"
+    },
+    "HumanEval_136_test6": {
+        "cf_output": "(None, None"
+    },
+    "HumanEval_136_test7": {
+        "cf_output": "(-1, None"
+    },
+    "HumanEval_136_test8": {
+        "cf_output": "(-1, None"
+    },
+    "HumanEval_136_test9": {
+        "cf_output": "(-3, 1"
+    },
+    "HumanEval_136_test10": {
+        "cf_output": "(-3, 1"
+    },
+    "HumanEval_137_test0": {
+        "cf_output": "2"
+    },
+    "HumanEval_137_test1": {
+        "cf_output": "2.5"
+    },
+    "HumanEval_137_test2": {
+        "cf_output": "3"
+    },
+    "HumanEval_137_test3": {
+        "cf_output": "6"
+    },
+    "HumanEval_137_test4": {
+        "cf_output": "\"2,3\""
+    },
+    "HumanEval_137_test5": {
+        "cf_output": "\"6\""
+    },
+    "HumanEval_137_test6": {
+        "cf_output": "\"2\""
+    },
+    "HumanEval_137_test7": {
+        "cf_output": "None"
+    },
+    "HumanEval_138_test0": {
+        "cf_output": "False"
+    },
+    "HumanEval_138_test1": {
+        "cf_output": "False"
+    },
+    "HumanEval_138_test2": {
+        "cf_output": "True"
+    },
+    "HumanEval_138_test3": {
+        "cf_output": "True"
+    },
+    "HumanEval_138_test4": {
+        "cf_output": "False"
+    },
+    "HumanEval_138_test5": {
+        "cf_output": "True"
+    },
+    "HumanEval_138_test6": {
+        "cf_output": "False"
+    },
+    "HumanEval_138_test7": {
+        "cf_output": "True"
+    },
+    "HumanEval_139_test0": {
+        "cf_output": "288, \"Test 4\""
+    },
+    "HumanEval_139_test1": {
+        "cf_output": "34560, \"Test 5\""
+    },
+    "HumanEval_139_test2": {
+        "cf_output": "125411328000, \"Test 7\""
+    },
+    "HumanEval_139_test3": {
+        "cf_output": "1, \"Test 1\""
+    },
+    "HumanEval_140_test0": {
+        "cf_output": "\"Example\", \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_140_test1": {
+        "cf_output": "\"Mudasir_Hanif_\", \"This prints if this assert fails 2 (good for debugging!"
+    },
+    "HumanEval_140_test2": {
+        "cf_output": "\"Yellow_Yellow__Dirty__Fellow\", \"This prints if this assert fails 3 (good for debugging!"
+    },
+    "HumanEval_140_test3": {
+        "cf_output": "\"Exa-mple\", \"This prints if this assert fails 4 (good for debugging!"
+    },
+    "HumanEval_140_test4": {
+        "cf_output": "\"-Exa_1_2_2_mple\", \"This prints if this assert fails 4 (good for debugging!"
+    },
+    "HumanEval_141_test0": {
+        "cf_output": "'Yes'"
+    },
+    "HumanEval_141_test1": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test2": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test3": {
+        "cf_output": "'Yes'"
+    },
+    "HumanEval_141_test4": {
+        "cf_output": "'Yes'"
+    },
+    "HumanEval_141_test5": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test6": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test7": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test8": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test9": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test10": {
+        "cf_output": "'Yes'"
+    },
+    "HumanEval_141_test11": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test12": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test13": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test14": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test15": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test16": {
+        "cf_output": "'Yes'"
+    },
+    "HumanEval_141_test17": {
+        "cf_output": "'Yes'"
+    },
+    "HumanEval_141_test18": {
+        "cf_output": "'Yes'"
+    },
+    "HumanEval_141_test19": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test20": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test21": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test22": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test23": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test24": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_141_test25": {
+        "cf_output": "'No'"
+    },
+    "HumanEval_142_test0": {
+        "cf_output": "7"
+    },
+    "HumanEval_142_test1": {
+        "cf_output": "15"
+    },
+    "HumanEval_142_test2": {
+        "cf_output": "1"
+    },
+    "HumanEval_142_test3": {
+        "cf_output": "10"
+    },
+    "HumanEval_142_test4": {
+        "cf_output": "-2"
+    },
+    "HumanEval_142_test5": {
+        "cf_output": "1"
+    },
+    "HumanEval_142_test6": {
+        "cf_output": "-125"
+    },
+    "HumanEval_142_test7": {
+        "cf_output": "3031"
+    },
+    "HumanEval_142_test8": {
+        "cf_output": "1"
+    },
+    "HumanEval_142_test9": {
+        "cf_output": "-14195"
+    },
+    "HumanEval_142_test10": {
+        "cf_output": "-1447"
+    },
+    "HumanEval_143_test0": {
+        "cf_output": "\"is\""
+    },
+    "HumanEval_143_test1": {
+        "cf_output": "\"go for\""
+    },
+    "HumanEval_143_test2": {
+        "cf_output": "\"there is no place\""
+    },
+    "HumanEval_143_test3": {
+        "cf_output": "\"Hi am Hussein\""
+    },
+    "HumanEval_143_test4": {
+        "cf_output": "\"go for it\""
+    },
+    "HumanEval_143_test5": {
+        "cf_output": "\"\""
+    },
+    "HumanEval_143_test6": {
+        "cf_output": "\"is\""
+    },
+    "HumanEval_144_test0": {
+        "cf_output": "True, 'test1'"
+    },
+    "HumanEval_144_test1": {
+        "cf_output": "False, 'test2'"
+    },
+    "HumanEval_144_test2": {
+        "cf_output": "True, 'test3'"
+    },
+    "HumanEval_144_test3": {
+        "cf_output": "False, 'test4'"
+    },
+    "HumanEval_144_test4": {
+        "cf_output": "True, 'test5'"
+    },
+    "HumanEval_144_test5": {
+        "cf_output": "True, 'test6'"
+    },
+    "HumanEval_144_test6": {
+        "cf_output": "True, 'test7'"
+    },
+    "HumanEval_144_test7": {
+        "cf_output": "False, 'test8'"
+    },
+    "HumanEval_144_test8": {
+        "cf_output": "False, 'test9'"
+    },
+    "HumanEval_144_test9": {
+        "cf_output": "True, 'test10'"
+    },
+    "HumanEval_144_test10": {
+        "cf_output": "True, 'test11'"
+    },
+    "HumanEval_144_test11": {
+        "cf_output": "True, 'test12'"
+    },
+    "HumanEval_144_test12": {
+        "cf_output": "False, 'test13'"
+    },
+    "HumanEval_145_test0": {
+        "cf_output": "[0, -10, 2, -11, 12]"
+    },
+    "HumanEval_145_test1": {
+        "cf_output": "[1, 3, 4, 7, 54, 424, 424, 424, 1235, 146, 38, 47, 57, 464, 3458]"
+    },
+    "HumanEval_145_test2": {
+        "cf_output": "[]"
+    },
+    "HumanEval_145_test3": {
+        "cf_output": "[-2, -31, -97, -10, 2, 3, 44, 55]"
+    },
+    "HumanEval_145_test4": {
+        "cf_output": "[2, 11, 3, 12, 4, 5, 6, 7, 8, 9, 10]"
+    },
+    "HumanEval_145_test5": {
+        "cf_output": "[-75, -20, 1, 5, 24, 7, 7]"
+    },
+    "HumanEval_146_test0": {
+        "cf_output": "1"
+    },
+    "HumanEval_146_test1": {
+        "cf_output": "2"
+    },
+    "HumanEval_146_test2": {
+        "cf_output": "3"
+    },
+    "HumanEval_146_test3": {
+        "cf_output": "5"
+    },
+    "HumanEval_146_test4": {
+        "cf_output": "4"
+    },
+    "HumanEval_146_test5": {
+        "cf_output": "1"
+    },
+    "HumanEval_146_test6": {
+        "cf_output": "1"
+    },
+    "HumanEval_147_test0": {
+        "cf_output": "1"
+    },
+    "HumanEval_147_test1": {
+        "cf_output": "4"
+    },
+    "HumanEval_147_test2": {
+        "cf_output": "36"
+    },
+    "HumanEval_147_test3": {
+        "cf_output": "53361"
+    },
+    "HumanEval_148_test0": {
+        "cf_output": "(\"Saturn\", \"Uranus\""
+    },
+    "HumanEval_148_test1": {
+        "cf_output": "(\"Venus\","
+    },
+    "HumanEval_148_test2": {
+        "cf_output": "(\"Venus\", \"Earth\", \"Mars\", \"Jupiter\", \"Saturn\""
+    },
+    "HumanEval_148_test3": {
+        "cf_output": "(\"Earth\", \"Mars\", \"Jupiter\", \"Saturn\", \"Uranus\""
+    },
+    "HumanEval_148_test4": {
+        "cf_output": "("
+    },
+    "HumanEval_148_test5": {
+        "cf_output": "("
+    },
+    "HumanEval_148_test6": {
+        "cf_output": "("
+    },
+    "HumanEval_149_test0": {
+        "cf_output": "['aa']"
+    },
+    "HumanEval_149_test1": {
+        "cf_output": "['AI', 'asdf', 'school']"
+    },
+    "HumanEval_149_test2": {
+        "cf_output": "[]"
+    },
+    "HumanEval_149_test3": {
+        "cf_output": "['abcd', 'dcba']"
+    },
+    "HumanEval_149_test4": {
+        "cf_output": "['AI', 'ai', 'au']"
+    },
+    "HumanEval_149_test5": {
+        "cf_output": "[]"
+    },
+    "HumanEval_149_test6": {
+        "cf_output": "['cc', 'dd', 'aaaa', 'bbbb']"
+    },
+    "HumanEval_150_test0": {
+        "cf_output": "34"
+    },
+    "HumanEval_150_test1": {
+        "cf_output": "5"
+    },
+    "HumanEval_150_test2": {
+        "cf_output": "33"
+    },
+    "HumanEval_150_test3": {
+        "cf_output": "3"
+    },
+    "HumanEval_150_test4": {
+        "cf_output": "-1"
+    },
+    "HumanEval_150_test5": {
+        "cf_output": "583"
+    },
+    "HumanEval_150_test6": {
+        "cf_output": "129"
+    },
+    "HumanEval_150_test7": {
+        "cf_output": "1234"
+    },
+    "HumanEval_150_test8": {
+        "cf_output": "0"
+    },
+    "HumanEval_150_test9": {
+        "cf_output": "2"
+    },
+    "HumanEval_151_test0": {
+        "cf_output": "0 , \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_151_test1": {
+        "cf_output": "25 , \"This prints if this assert fails 2 (good for debugging!"
+    },
+    "HumanEval_151_test2": {
+        "cf_output": "0 , \"This prints if this assert fails 3 (good for debugging!"
+    },
+    "HumanEval_151_test3": {
+        "cf_output": "0 , \"This prints if this assert fails 4 (good for debugging!"
+    },
+    "HumanEval_151_test4": {
+        "cf_output": "0, \"This prints if this assert fails 5 (also good for debugging!"
+    },
+    "HumanEval_151_test5": {
+        "cf_output": "34, \"This prints if this assert fails 6 (also good for debugging!"
+    },
+    "HumanEval_153_test0": {
+        "cf_output": "'Watashi.eIGHt8OKe'"
+    },
+    "HumanEval_153_test1": {
+        "cf_output": "'Boku123.YEs.WeCaNe'"
+    },
+    "HumanEval_153_test2": {
+        "cf_output": "'__YESIMHERE.NuLl__'"
+    },
+    "HumanEval_153_test3": {
+        "cf_output": "'K.TAR'"
+    },
+    "HumanEval_153_test4": {
+        "cf_output": "'__HAHA.123'"
+    },
+    "HumanEval_153_test5": {
+        "cf_output": "'YameRore.okIWILL123'"
+    },
+    "HumanEval_153_test6": {
+        "cf_output": "'finNNalLLly.WoW'"
+    },
+    "HumanEval_153_test7": {
+        "cf_output": "'_.Bb'"
+    },
+    "HumanEval_153_test8": {
+        "cf_output": "'Sp.671235'"
+    },
+    "HumanEval_155_test0": {
+        "cf_output": "(0, 1"
+    },
+    "HumanEval_155_test1": {
+        "cf_output": "(1, 1"
+    },
+    "HumanEval_155_test2": {
+        "cf_output": "(2, 2"
+    },
+    "HumanEval_155_test3": {
+        "cf_output": "(3, 3"
+    },
+    "HumanEval_155_test4": {
+        "cf_output": "(3, 3"
+    },
+    "HumanEval_155_test5": {
+        "cf_output": "(1, 0"
+    },
+    "HumanEval_155_test6": {
+        "cf_output": "(2, 3"
+    },
+    "HumanEval_155_test7": {
+        "cf_output": "(1, 0"
+    },
+    "HumanEval_156_test0": {
+        "cf_output": "'xix'"
+    },
+    "HumanEval_156_test1": {
+        "cf_output": "'clii'"
+    },
+    "HumanEval_156_test2": {
+        "cf_output": "'ccli'"
+    },
+    "HumanEval_156_test3": {
+        "cf_output": "'cdxxvi'"
+    },
+    "HumanEval_156_test4": {
+        "cf_output": "'d'"
+    },
+    "HumanEval_156_test5": {
+        "cf_output": "'i'"
+    },
+    "HumanEval_156_test6": {
+        "cf_output": "'iv'"
+    },
+    "HumanEval_156_test7": {
+        "cf_output": "'xliii'"
+    },
+    "HumanEval_156_test8": {
+        "cf_output": "'xc'"
+    },
+    "HumanEval_156_test9": {
+        "cf_output": "'xciv'"
+    },
+    "HumanEval_156_test10": {
+        "cf_output": "'dxxxii'"
+    },
+    "HumanEval_156_test11": {
+        "cf_output": "'cm'"
+    },
+    "HumanEval_156_test12": {
+        "cf_output": "'cmxciv'"
+    },
+    "HumanEval_156_test13": {
+        "cf_output": "'m'"
+    },
+    "HumanEval_157_test0": {
+        "cf_output": "True, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_157_test1": {
+        "cf_output": "False"
+    },
+    "HumanEval_157_test2": {
+        "cf_output": "True"
+    },
+    "HumanEval_157_test3": {
+        "cf_output": "False"
+    },
+    "HumanEval_157_test4": {
+        "cf_output": "True"
+    },
+    "HumanEval_157_test5": {
+        "cf_output": "False"
+    },
+    "HumanEval_157_test6": {
+        "cf_output": "True"
+    },
+    "HumanEval_157_test7": {
+        "cf_output": "True"
+    },
+    "HumanEval_157_test8": {
+        "cf_output": "True"
+    },
+    "HumanEval_157_test9": {
+        "cf_output": "False, \"This prints if this assert fails 2 (also good for debugging!"
+    },
+    "HumanEval_157_test10": {
+        "cf_output": "False"
+    },
+    "HumanEval_159_test0": {
+        "cf_output": "[11, 4], \"Error\""
+    },
+    "HumanEval_159_test1": {
+        "cf_output": "[12, 1], \"Error\""
+    },
+    "HumanEval_159_test2": {
+        "cf_output": "[11, 0], \"Error\""
+    },
+    "HumanEval_159_test3": {
+        "cf_output": "[7, 0], \"Error\""
+    },
+    "HumanEval_159_test4": {
+        "cf_output": "[9, 2], \"Error\""
+    },
+    "HumanEval_159_test5": {
+        "cf_output": "[5, 0], \"Error\""
+    },
+    "HumanEval_160_test0": {
+        "cf_output": "38"
+    },
+    "HumanEval_160_test1": {
+        "cf_output": "10"
+    },
+    "HumanEval_160_test2": {
+        "cf_output": "8, \"This prints if this assert fails 1 (good for debugging!"
+    },
+    "HumanEval_161_test0": {
+        "cf_output": "\"aSdF\""
+    },
+    "HumanEval_161_test1": {
+        "cf_output": "\"4321\""
+    },
+    "HumanEval_161_test2": {
+        "cf_output": "\"AB\""
+    },
+    "HumanEval_161_test3": {
+        "cf_output": "\"#A@c\""
+    },
+    "HumanEval_161_test4": {
+        "cf_output": "\"#aSDFw^45\""
+    },
+    "HumanEval_161_test5": {
+        "cf_output": "\"2@6#\""
+    },
+    "HumanEval_161_test6": {
+        "cf_output": "\"#$A^d\""
+    },
+    "HumanEval_161_test7": {
+        "cf_output": "\"#CCC\""
+    },
+    "HumanEval_162_test0": {
+        "cf_output": "'3e25960a79dbc69b674cd4ec67a72c62'"
+    },
+    "HumanEval_162_test1": {
+        "cf_output": "None"
+    },
+    "HumanEval_162_test2": {
+        "cf_output": "'0ef78513b0cb8cef12743f5aeb35f888'"
+    },
+    "HumanEval_162_test3": {
+        "cf_output": "'5f4dcc3b5aa765d61d8327deb882cf99'"
+    },
+    "HumanEval_163_test0": {
+        "cf_output": "[2, 4, 6, 8], \"Test 1\""
+    },
+    "HumanEval_163_test1": {
+        "cf_output": "[2, 4, 6, 8], \"Test 2\""
+    },
+    "HumanEval_163_test2": {
+        "cf_output": "[2, 4, 6, 8], \"Test 3\""
+    },
+    "HumanEval_163_test3": {
+        "cf_output": "[], \"Test 4\""
+    }
+}
