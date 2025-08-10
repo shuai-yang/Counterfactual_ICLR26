@@ -1,6 +1,0 @@
-{
-    "A woman opens a treasure chest. What would have happened if the woman had not opened the treasure chest?": {
-        "llm_answer": "3",
-        "llm_answer_explanation": "The treasure chest would have remained closed. This answer directly addresses the hypothetical situation posed in the QCC, indicating that if the woman had not opened the chest, it would still be closed."
-    }
-}
