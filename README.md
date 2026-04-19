@@ -1,6 +1,9 @@
 
 # On the Eligibility of LLMs for Counterfactual Reasoning: A Decompositional Study
 
+
+<img src="poster presentation.png" width="100%"/>
+
 <!--
 ## ⚠️ IMPORTANT
 This repository is anonymous and is solely intended for review purposes.
