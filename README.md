@@ -2,7 +2,7 @@
 # On the Eligibility of LLMs for Counterfactual Reasoning: A Decompositional Study
 
 
-<img src="poster presentation.png" width="100%"/>
+<img src="poster_presentation.png" width="100%"/>
 
 <!--
 ## ⚠️ IMPORTANT
