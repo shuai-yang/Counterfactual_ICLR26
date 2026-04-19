@@ -1,8 +1,10 @@
 
 # On the Eligibility of LLMs for Counterfactual Reasoning: A Decompositional Study
 
+<!--
 ## ⚠️ IMPORTANT
-This repository is anonymous and is solely intended for review purposes. 
+This repository is anonymous and is solely intended for review purposes.
+--> 
 
 ## 💡 Introduction
 This repository contains the code and resources for our research on **Counterfactual Reasoning** in Large Language Models (LLMs). We introduce a systematic framework that includes standardized processes for counterfactual generation, evaluation, and interpretation across multiple domains. More importantly, we outline a **Decompositional Strategy** that breaks down the analysis of counterfactual reasoning. This approach departs from prior work that focuses solely on counterfactual generation. Instead, we begin by examining the causal structure of factual conditions, which serves as the necessary foundation for valid counterfactual reasoning.
